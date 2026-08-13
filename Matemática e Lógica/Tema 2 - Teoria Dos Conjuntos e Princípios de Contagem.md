@@ -112,12 +112,12 @@ Lê-se: "o conjunto dos objetos $x$ tais que $p(x)$ se torna uma proposição ve
 
 A representação pictórica (geométrica) de um conjunto é extremamente útil. Se $X = \{1;2;3;4;5\}$, seu contorno delimita a representação de seus elementos, exibidos como pontos.
 
-![Representação de um conjunto](Tema%202%20-%20assets/img-01-conjunto-X.jpeg)
+![Representação de um conjunto](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-01-conjunto-X.jpeg)
 *Imagem 1: Representação de um conjunto.*
 
 Quando o diagrama de $Y$ está contido no diagrama de $X$, todo elemento de $Y$ é também elemento de $X$:
 
-![Y contido em X](Tema%202%20-%20assets/img-02-Y-contido-em-X.jpeg)
+![Y contido em X](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-02-Y-contido-em-X.jpeg)
 *Imagem 2: todo elemento de Y é também elemento de X.*
 
 Essa é a **relação de inclusão**: dizemos que "$Y$ está contido em $X$" ou "$X$ contém $Y$":
@@ -160,7 +160,7 @@ Além desses, há a família dos **intervalos**, subconjuntos de $\mathbb{R}$ es
 
 Cada ponto da reta-eixo está associado a um único número real e vice-versa:
 
-![Reta-eixo](Tema%202%20-%20assets/img-03-reta-eixo.jpeg)
+![Reta-eixo](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-03-reta-eixo.jpeg)
 *Imagem 3: Representação de uma reta-eixo.*
 
 Um intervalo é um conjunto de números cuja representação geométrica é um segmento ou semirreta, com extremidades incluídas ou não.
@@ -174,22 +174,22 @@ Um intervalo é um conjunto de números cuja representação geométrica é um s
 > [!example]- Situação 1 — intervalo aberto
 > Implícita: $\{x \in \mathbb{R} \mid a < x < b\}$
 > Intervalo: $(a;b)$ ou $\,]a;b[\,$
-> ![Situação 1](Tema%202%20-%20assets/img-04-situacao1-aberto.jpeg)
+> ![Situação 1](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-04-situacao1-aberto.jpeg)
 
 > [!example]- Situação 2 — fechado à esquerda, aberto à direita
 > Implícita: $\{x \in \mathbb{R} \mid a \le x < b\}$
 > Intervalo: $[a;b)$ ou $[a;b[\,$
-> ![Situação 2](Tema%202%20-%20assets/img-05-situacao2-fechado-aberto.jpeg)
+> ![Situação 2](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-05-situacao2-fechado-aberto.jpeg)
 
 > [!example]- Situação 3 — semirreta fechada
 > Implícita: $\{x \in \mathbb{R} \mid x \ge a\}$
 > Intervalo: $[a;+\infty)$ ou $[a;+\infty[\,$
-> ![Situação 3](Tema%202%20-%20assets/img-06-situacao3-semirreta-fechada.jpeg)
+> ![Situação 3](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-06-situacao3-semirreta-fechada.jpeg)
 
 > [!example]- Situação 4 — semirreta aberta
 > Implícita: $\{x \in \mathbb{R} \mid x < b\}$
 > Intervalo: $(-\infty;b)$ ou $\,]-\infty;b[\,$
-> ![Situação 4](Tema%202%20-%20assets/img-07-situacao4-semirreta-aberta.jpeg)
+> ![Situação 4](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-07-situacao4-semirreta-aberta.jpeg)
 
 **Valor absoluto**
 
@@ -197,7 +197,7 @@ A distância entre dois pontos $a$ e $b$ na reta real é o maior menos o menor. 
 
 $$|x| = \sqrt{x^2} \qquad \text{ou} \qquad |x| = \begin{cases} x, & \text{se } x \ge 0 \\ -x, & \text{se } x < 0 \end{cases}$$
 
-![Reta-eixo com distâncias](Tema%202%20-%20assets/img-08-reta-eixo-distancias.jpeg)
+![Reta-eixo com distâncias](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-08-reta-eixo-distancias.jpeg)
 *Imagem 8: Reta-eixo (D=−2, C=−1, O=0, A=1, B=2).*
 
 > [!example] Exemplo 6 — conjunto-solução de expressões modulares
@@ -220,19 +220,19 @@ Para estudar operações entre conjuntos usamos os **diagramas de Venn**, sempre
 
 Considere $X = \{a;b;c;d;e;f;g\}$, $Y = \{e;f;g;h;i;j;k\}$, com universo $U$ = letras de *a* a *n*:
 
-![Conjuntos X, Y e U](Tema%202%20-%20assets/img-09-conjuntos-X-Y-U.jpeg)
+![Conjuntos X, Y e U](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-09-conjuntos-X-Y-U.jpeg)
 *Imagem 9: Representação dos conjuntos X e Y.*
 
 | Situação | Diagrama |
 |---|---|
-| **Interseção** — objetos em comum a X e Y: $X \cap Y$ | ![Interseção](Tema%202%20-%20assets/img-10a-intersecao.jpeg) |
-| **União** — objetos em pelo menos um dos conjuntos: $X \cup Y$ | ![União](Tema%202%20-%20assets/img-10b-uniao.jpeg) |
-| **Diferença X−Y** — pertencem a X, não a Y | ![Apenas X](Tema%202%20-%20assets/img-10c-apenas-X.jpeg) |
-| **Diferença Y−X** — pertencem a Y, não a X | ![Apenas Y](Tema%202%20-%20assets/img-10d-apenas-Y.jpeg) |
+| **Interseção** — objetos em comum a X e Y: $X \cap Y$ | ![Interseção](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-10a-intersecao.jpeg) |
+| **União** — objetos em pelo menos um dos conjuntos: $X \cup Y$ | ![União](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-10b-uniao.jpeg) |
+| **Diferença X−Y** — pertencem a X, não a Y | ![Apenas X](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-10c-apenas-X.jpeg) |
+| **Diferença Y−X** — pertencem a Y, não a X | ![Apenas Y](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-10d-apenas-Y.jpeg) |
 
 Objetos fora de $X$ (ou de $Y$), mas dentro do universo, formam as diferenças $U-X$ e $U-Y$. Se $Z$ é um conjunto, $U-Z$ é o **complementar** de $Z$, escrito $Z'$:
 
-![Complementares](Tema%202%20-%20assets/img-11-complementares-U-X-U-Y.jpeg)
+![Complementares](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-11-complementares-U-X-U-Y.jpeg)
 *Imagem 10: Representação de X e Y com o conjunto universo (U−X à esquerda, U−Y à direita).*
 
 **Operações usuais** (A e B restritos ao universo U):
@@ -255,7 +255,7 @@ $$A' = \{x \in U \mid x \notin A\}$$
 > - $A - B = [1, 3]$
 > - $B - A = \,]-\infty, -1]$
 >
-> ![Solução gráfica do item b](Tema%202%20-%20assets/img-12-exemplo8b-grafico.jpeg)
+> ![Solução gráfica do item b](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-12-exemplo8b-grafico.jpeg)
 
 > [!example] Exemplo 9
 > Dados $A = \{-3;2]$, $B = \,]-\infty;1]$ e $C = [-1;4[\,$, determine quantos números inteiros há em $X = (A \cap B) \cup C$.
@@ -328,7 +328,7 @@ $$A' = \{x \in U \mid x \notin A\}$$
 
 > Se $n$ pombos devem ser colocados em $m$ casas, com $n>m$, então pelo menos uma casa deverá conter mais do que um pombo.
 
-![Princípio da casa dos pombos](Tema%202%20-%20assets/img-13-casa-dos-pombos.jpeg)
+![Princípio da casa dos pombos](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-13-casa-dos-pombos.jpeg)
 *Imagem 12: Ilustração do princípio da casa dos pombos, para n = 10 e m = 9.*
 
 > [!example] Exemplo 1
@@ -343,7 +343,7 @@ $$A' = \{x \in U \mid x \notin A\}$$
 > Mostre que, em um quadrado de lado 2 cm com 5 pontos em seu interior, dois deles distam menos que $\sqrt{2}$.
 > **Solução:** dividindo o quadrado em 4 quadrados de 1 cm de lado, pelo princípio da casa dos pombos, 2 dos 5 pontos caem no mesmo quadrado menor. A maior distância possível dentro dele é sua diagonal, $\sqrt{1^2+1^2}=\sqrt{2}$.
 >
-> ![Quadrado com 5 pontos](Tema%202%20-%20assets/img-14-quadrado-5-pontos.jpeg)
+> ![Quadrado com 5 pontos](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-14-quadrado-5-pontos.jpeg)
 
 ### Princípio da adição
 
@@ -351,7 +351,7 @@ Relaciona o quantitativo de dois conjuntos finitos com sua união e interseção
 
 $$n(A \cup B) + n(A \cap B) = n(A) + n(B) \quad \text{ou} \quad n(A \cup B) = n(A) + n(B) - n(A \cap B)$$
 
-![Princípio da adição](Tema%202%20-%20assets/img-15-principio-adicao.jpeg)
+![Princípio da adição](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-15-principio-adicao.jpeg)
 *Imagem 14: Representação do princípio da adição.*
 
 Se $A \cap B = \varnothing$ (conjuntos disjuntos):
@@ -361,7 +361,7 @@ $$n(A \cup B) = n(A) + n(B)$$
 > [!example] Exemplo 4 — três conjuntos
 > Três conjuntos definem uma partição de até 7 regiões disjuntas cuja união reproduz $A\cup B\cup C$:
 >
-> ![Três conjuntos](Tema%202%20-%20assets/img-16-tres-conjuntos-venn.jpeg)
+> ![Três conjuntos](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-16-tres-conjuntos-venn.jpeg)
 > *Imagem 15.*
 >
 > | Região | Fórmula | Elementos que estão |
@@ -382,7 +382,7 @@ $$n(A \cup B) = n(A) + n(B)$$
 > A soma de todas as partes vale 200, logo:
 > $$m+n+o = 200-(p+q+r+s) = 200-(40+30+50+20) = 60$$
 >
-> ![Diagrama de idiomas](Tema%202%20-%20assets/img-17-idiomas-venn.jpeg)
+> ![Diagrama de idiomas](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-17-idiomas-venn.jpeg)
 
 ### Princípio da multiplicação
 
@@ -395,7 +395,7 @@ $$n(A \cup B) = n(A) + n(B)$$
 > Quantos números de 2 dígitos distintos podemos formar com 1, 2, 3, 4?
 > **Solução:** $p=4$ escolhas para a dezena; para cada uma, $q=3$ escolhas para a unidade. Total: $p \cdot q = 4 \cdot 3 = 12$.
 >
-> ![Árvore de decisão](Tema%202%20-%20assets/img-18-arvore-decisao.jpeg)
+> ![Árvore de decisão](Tema%202%20-%20Teoria%20Dos%20Conjuntos%20e%20Princ%C3%ADpios%20de%20Contagem/img-18-arvore-decisao.jpeg)
 
 ### Fatorial e sua notação
 
