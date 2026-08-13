@@ -39,7 +39,7 @@ Ao observar a natureza, percebemos diversos fenômenos que ocorrem de forma repe
 Para começar, assista ao vídeo a seguir e veja como é importante aprofundar o entendimento sobre as funções. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0002-17.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0002-17.png)
 
 
 ##### Conteúdo interativo 
@@ -55,7 +55,7 @@ Acesse a versão digital para assistir ao vídeo.
 As funções são relações matemáticas que seguem algumas regrinhas, e seus domínios precisam de uma análise detalhada. Vamos aprendê-las neste vídeo. Confira! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0003-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0003-04.png)
 
 
 ##### Conteúdo interativo 
@@ -69,7 +69,7 @@ As funções estão presentes em várias áreas da nossa vida, desde o cálculo 
 Uma função pode ser entendida como uma relação matemática entre dois conjuntos, em que cada valor do primeiro conjunto (domínio) corresponde exatamente a um valor no segundo conjunto (imagem). Formalmente, escrevemos uma função como , em que é o nome da função e é a variável independente. Vamos entender melhor analisando a imagem a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0003-10.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0003-10.png)
 
 
 Representação de função e não função entre as relações dos conjuntos A e B. 
@@ -85,7 +85,7 @@ o conjunto imagem (Im). O conjunto do domínio é de onde saem as setinhas do co
 Na imagem, de fato, todos os elementos do conjunto B recebem a setinha, mas vamos analisar agora o conjunto a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0004-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0004-02.png)
 
 
 <!-- Start of picture text -->
@@ -94,7 +94,7 @@ Conteúdo interativo<br>Acesse a versão digital para ver mais detalhes da image
 Perceba que todos os elementos do conjunto x tem um único elemento de correspondência no conjunto y, o que caracteriza uma função, porém sobra um elemento de y sem ligação. Isso nos diz que os conjuntos: domínio, contradomínio e imagem são: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0004-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0004-04.png)
 
 
 Perceba que existe uma diferença entre o contradomínio e a imagem, sendo a imagem formada pelos elementos que receberam a ligação dos elementos do conjunto x. 
@@ -106,19 +106,19 @@ Por que isso?
 O x é o elemento do domínio, que vai levar ao contradomínio da função f(x), um valor. Ao fazer isso, a função f(x) vai processar esse valor e, após processar, vai nos retornar um segundo valor, que é o resultado de f(x). Esse resultando chamamos de imagem. Sendo assim, podemos dizer que x é a variável independente da função e f(x) a variável dependente da função. Isso porque seu valor depende do processamento do contradomínio, que terá valores diferentes para cada valor de entrada de x. Por exemplo, considere a função: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0005-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0005-02.png)
 
 
 Perceba que x é a nossa variável independente. Por quê? Porque x é o número que vamos escolher para entrar na função. O cálculo: x + 10 é o contradomínio. Por quê? Porque quando inserirmos o valor de x, vamos realizar um cálculo, que nada mais é do que o processamento do valor de x, e o resultado encontrado será a imagem, que nada mais é do que o valor de f(x). Vamos exemplificar! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0005-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0005-04.png)
 
 
 Vamos atribuir para essa função os mesmos valores do domínio da última imagem, ou seja: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0005-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0005-06.png)
 
 
 Perceba, então, que x tem que assumir os valores: 1,2,3,4,5,6. Vamos então realizar essa substituição! 
@@ -140,7 +140,7 @@ Tabela: Exemplo de domínio e imagem de uma função. Loisi Carla Monteiro Perei
 Viu? Os elementos do domínio ( ) foram processados no contradomínio , o que resultou na imagem 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0005-11.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0005-11.png)
 
 
 A função que calculamos anteriormente é conhecida como função afim. Essa função é representada por um polinômio de grau 1, e tem como o domínio, todo o conjunto dos números reais, ou seja: . Isso significa que ela é capaz de aceitar qualquer número, no lugar de . 
@@ -150,13 +150,13 @@ Mas o domínio sempre será de todos os números reais? A resposta é não! E, p
 1º exemplo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0006-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0006-03.png)
 
 
 Perceba agora que a função mudou, e ela tem um na parte de baixo da fração. Será que aqui podemos colocar todos os números reais no lugar do ? A resposta é não! E sabe por quê? Simples, não existe número nenhum que possa ser dividido por zero, ou seja, não existe: . Pense! Quanto seria a divisão de 8 pedaços de pizza para zero pessoas? Isso não faz sentido, correto? É o mesmo caso dessa fração . Não faz sentido. Nesse caso, como não pode ter zero embaixo (no denomiador da fração), o domínio são todos os números reais, exceto o zero, ou seja: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0006-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0006-05.png)
 
 
 Para o domínio é dado por: 
@@ -166,7 +166,7 @@ Lemos esse conjunto domínio da seguinte maneira: x pertence aos reais, exceto o
 Podemos ver que o zero não faz parte do domínio, vendo o gráfico a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0006-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0006-09.png)
 
 
 Gráfico: \(\text { função } f(x)=\frac{1}{x} \text {. }\) 
@@ -176,13 +176,13 @@ O gráfico aparece no lado positivo do plano cartesiano e também no lado negati
 2° exemplo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0006-13.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0006-13.png)
 
 
 Perceba que, agora, a função envolve uma raiz quadrada, e dentro de uma raiz quadrada não pode haver número negativo, afinal, não existe raiz quadrada de número negativo. Isso significa que a função pode ter valores positivos ou zero, pois raiz quadrada de zero é zero. Logo, o domínio é: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0007-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0007-01.png)
 
 
 Lemos da seguinte forma: x pertence aos reais, tal que x tem que ser maior ou igual a zero. 
@@ -190,7 +190,7 @@ Lemos da seguinte forma: x pertence aos reais, tal que x tem que ser maior ou ig
 Vejamos no gráfico! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0007-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0007-04.png)
 
 
 Gráfico: \(\text {função } f(x)=\sqrt{x} \text {. }\) 
@@ -200,14 +200,14 @@ Viu? O gráfico dessa função começa no zero e se desenvolve para todos os val
 Entendeu agora como analisamos domínio de uma função? Nós olhamos para a função e vemos se tem alguma restrição, daí explicitamos qual é essa restrição, como fizemos nos dois exemplos anteriores. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0007-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0007-08.png)
 
 
 <!-- Start of picture text -->
 3º exemplo<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0007-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0007-09.png)
 
 
 Vamos descrever o domínio da função do terceiro exemplo em vídeo. Não deixe de conferir! 
@@ -219,7 +219,7 @@ As funções podem ser contínuas, como as funções , ou , mas existem funçõe
 ##### Conteúdo interativo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0008-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0008-01.png)
 
 
 Acesse a versão digital para assistir ao vídeo. 
@@ -229,7 +229,7 @@ Acesse a versão digital para assistir ao vídeo.
 Descubra neste vídeo como podemos encontrar o conjunto imagem de uma função por meio da inversa da função. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0008-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0008-05.png)
 
 
 ##### Conteúdo interativo 
@@ -245,19 +245,19 @@ Para entender melhor, vamos explorar o conceito de intervalo de existência da i
 Considere a função afim f(x) = 2x + 1. Para encontrar sua inversa, vamos primeiro escrever a função na forma de equação, trocando f(x) por y: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0008-12.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0008-12.png)
 
 
 Agora, vamos trocar x por y: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0008-14.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0008-14.png)
 
 
 Por fim, vamos isolar y: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0008-16.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0008-16.png)
 
 
 Y é a função inversa , ou seja: a inversa de é . 
@@ -267,7 +267,7 @@ Agora que conhecemos a inversa da função, vamos encontrar o domínio da funç�
 o zero também pode fazer parte. Então, uma vez que não há restrição, podemos definir o domínio de , como todos os reais. Logo, nesse caso, a imagem de são todos os números reais, ou seja: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0009-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0009-01.png)
 
 
 Isso significa dizer que o conjunto de números que pertencem à imagem estão no intervalo de: . 
@@ -275,19 +275,19 @@ Isso significa dizer que o conjunto de números que pertencem à imagem estão n
 Agora, vamos explorar a função . Seguindo o mesmo processo para encontrar a inversa, vamos escrever a função na forma de equação: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0009-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0009-04.png)
 
 
 Agora, vamos trocar a posição de x e y: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0009-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0009-06.png)
 
 
 Por fim, vamos isolar y: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0009-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0009-08.png)
 
 
 A inversa é . Aqui, o domínio da inversa é todos os números reais exceto o zero (não podemos dividir por zero). Consequentemente, a imagem de também são todos os reais, exceto o zero, representado por . 
@@ -297,31 +297,31 @@ A inversa é . Aqui, o domínio da inversa é todos os números reais exceto o z
 Finalmente, vamos analisar a imagem da função módulo: . Para encontrar a inversa, precisamos considerar que calcular o módulo de é fazer o seguinte: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0009-12.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0009-12.png)
 
 
 Perceba que calcular o módulo de -5 é elevar -5 ao quadrado e depois tirar sua raiz quadrada, ou seja: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0009-14.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0009-14.png)
 
 
 Perceba, que para realizar a análise, existe uma pegadinha nessa função. Isso porque o domínio dessa função permite todos os reais, todavia, a imagem não é de todos os reais. Como assim? Perceba que, se entrarmos com um número negativo no lugar de x, o resultado será positivo, por exemplo: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0010-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0010-01.png)
 
 
 Então, como na aplicação do número negativo, isso nos remete a um valor positivo, a imagem estará definida somente para os reais positivos, ou seja: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0010-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0010-03.png)
 
 
 Vamos olhar para o gráfico para entender melhor: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0010-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0010-05.png)
 
 
 Gráfico: \(\text {Função } f(x)=|x| \text {. }\) 
@@ -331,7 +331,7 @@ Perceba que, para valores negativos de , temos valores de positivos, e para valo
 Agora que você já leu o exemplo e a solução, vamos concretizar esse aprendizado neste vídeo. Confira! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0010-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0010-09.png)
 
 
 Conteúdo interativo 
@@ -345,7 +345,7 @@ Confira a definição do domínio da função neste vídeo.
 ##### Conteúdo interativo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0011-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0011-01.png)
 
 
 Acesse a versão digital para assistir ao vídeo. 
@@ -357,7 +357,7 @@ Dado o gráfico de uma função, uma forma de encontrar o domínio da função �
 Observe o gráfico da função : 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0011-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0011-06.png)
 
 
 Gráfico: Função \(f\) 
@@ -365,7 +365,7 @@ Gráfico: Função \(f\)
 O que acontece se projetarmos o gráfico da função no eixo ? Confira no gráfico a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0011-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0011-09.png)
 
 
 Gráfico: A função no eixo \(O_x\) 
@@ -377,7 +377,7 @@ Vemos que o domínio da função é o intervalo no eixo das abscissas indicado e
 Observe o gráfico da função g: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0012-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0012-00.png)
 
 
 Gráfico: Função g 
@@ -385,7 +385,7 @@ Gráfico: Função g
 O que acontece se projetarmos o gráfico da função no eixo ? Confira a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0012-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0012-03.png)
 
 
 Gráfico: A função g projetada no eixo Ox 
@@ -393,7 +393,7 @@ Gráfico: A função g projetada no eixo Ox
 Vemos que o domínio da função g é o conjunto no eixo das abscissas indicado em vermelho. Seu domínio é a união de intervalos disjuntos (intervalos cuja interseção é vazia): 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0012-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0012-06.png)
 
 
 #### Domínio da função 
@@ -401,7 +401,7 @@ Vemos que o domínio da função g é o conjunto no eixo das abscissas indicado 
 Assista ao vídeo e veja mais um exemplo de domínio da função. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0012-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0012-09.png)
 
 
 Conteúdo interativo Acesse a versão digital para assistir ao vídeo. 
@@ -413,13 +413,13 @@ Exemplo 1
 Dado o gráfico de uma função, uma forma de encontrar a imagem da função é projetar o seu gráfico no eixo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0013-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0013-01.png)
 
 
 Observe o gráfico da função : 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0013-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0013-03.png)
 
 
 Gráfico: Função \(f\) 
@@ -427,7 +427,7 @@ Gráfico: Função \(f\)
 O que acontece se projetarmos o gráfico da função no eixo Oy? Veja! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0013-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0013-06.png)
 
 
 Gráfico: A função no eixo Oy 
@@ -435,7 +435,7 @@ Gráfico: A função no eixo Oy
 A imagem da função é o intervalo fechado indicado em vermelho no eixo . Sua imagem é o intervalo fechado. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0013-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0013-09.png)
 
 
 #### Exemplo 2 
@@ -443,7 +443,7 @@ A imagem da função é o intervalo fechado indicado em vermelho no eixo . Sua i
 Observe o gráfico da função g: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0014-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0014-00.png)
 
 
 Gráfico: A função g 
@@ -451,7 +451,7 @@ Gráfico: A função g
 O que acontece se projetarmos o gráfico da função no eixo Oy? Confira! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0014-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0014-03.png)
 
 
 Gráfico: A função g projetada no eixo Oy 
@@ -459,7 +459,7 @@ Gráfico: A função g projetada no eixo Oy
 Vemos que a imagem da função é o intervalo indicado em vermelho no eixo . Sua imagem é o intervalo ( . 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0014-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0014-06.png)
 
 
 #### Exemplo 3 
@@ -467,7 +467,7 @@ Vemos que a imagem da função é o intervalo indicado em vermelho no eixo . Sua
 Considere agora o gráfico da função h: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0014-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0014-09.png)
 
 
 Gráfico: Função h 
@@ -475,25 +475,25 @@ Gráfico: Função h
 Se projetarmos o gráfico da função no eixo Oy, vemos que a imagem da função h é o intervalo indicado em vermelho no eixo Oy, conforme mostrado a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0015-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0015-02.png)
 
 
 Gráfico: A função no eixo Oy 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0015-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0015-04.png)
 
 
 Sua imagem é o intervalo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0015-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0015-06.png)
 
 
 Em resumo, é possível determinar a imagem de um conjunto de pontos: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0015-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0015-08.png)
 
 
 Gráfico: Imagem de um conjunto de pontos 
@@ -505,7 +505,7 @@ Se é um subconjunto do domínio da função (pintado de azul no gráfico), ent�
 Assista ao vídeo e confira mais um exemplo de imagem da função. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0015-13.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0015-13.png)
 
 
 Conteúdo interativo 
@@ -517,7 +517,7 @@ Acesse a versão digital para assistir ao vídeo.
 Observe o gráfico da função f e o intervalo [−<sup>2</sup> /3;<sup>5</sup> /12] destacado em verde no eixo Oy, que é um subconjunto da imagem de f. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0016-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0016-02.png)
 
 
 Gráfico: Função f 
@@ -525,7 +525,7 @@ Gráfico: Função f
 Ao traçar as retas y =<sup>5</sup> /12 e y = −<sup>2</sup> /3 de forma horizontal, partindo no eixo Oy , temos: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0016-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0016-05.png)
 
 
 Gráfico: As retas \(y=5 / 12\) e \(y=-2 / 3\) 
@@ -533,7 +533,7 @@ Gráfico: As retas \(y=5 / 12\) e \(y=-2 / 3\)
 Se pegarmos a parte do gráfico restrita à região entre as retas y = −<sup>2</sup> /3 e y =<sup>5</sup> /12 , temos: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0016-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0016-08.png)
 
 
 Gráfico: A região entre as retas y = − 2 / 3 e y = 5 / 12 
@@ -541,7 +541,7 @@ Gráfico: A região entre as retas y = − 2 / 3 e y = 5 / 12
 Agora, para descobrirmos a parte do domínio correspondente ao intervalo [−<sup>2</sup> /3;<sup>5</sup> /12] da imagem, basta projetarmos no eixo Ox. A parte do eixo Ox que nos interessa está destacada em vermelho: [−0,4 ; 2] ∪ [3,6 ; 3,8]: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0017-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0017-01.png)
 
 
 Gráfico: Parte do domínio correspondente ao intervalo [− 2 / 3 ; 5 / 12 ] 
@@ -551,7 +551,7 @@ Gráfico: Parte do domínio correspondente ao intervalo [− 2 / 3 ; 5 / 12 ]
 A startup InovaTech desenvolveu um aplicativo inovador. O lucro da empresa, em milhares de reais, em função do tempo t (em meses) desde o lançamento do aplicativo, é modelado pela seguinte função: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0017-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0017-05.png)
 
 
 L(t) representa o lucro da InovaTech no mês t. Diante disso, determine: 
@@ -567,7 +567,7 @@ Acompanhe a resolução no vídeo a seguir!
 Vamos utilizar as análises matemáticas aprendidas, para encontrar neste vídeo, o domínio e a imagem da função que descreve o lucro em função do tempo. Assista! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0017-12.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0017-12.png)
 
 
 Conteúdo interativo 
@@ -581,7 +581,7 @@ Questão 1
 Dona Bete é uma boleira renomada por seus bolos deliciosos. Para facilitar o cálculo do preço das encomendas, ela utiliza a seguinte função matemática: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-01.png)
 
 
 x representa o diâmetro do bolo em centímetros (cm) e o resultado de f(x) corresponde ao preço por fatia do bolo (em reais). 
@@ -591,35 +591,35 @@ Para garantir que a função f(x) calcule corretamente o preço por fatia, qual 
 A 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-05.png)
 
 
 B 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-07.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-07.png)
 
 
 C 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-09.png)
 
 
 D 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-11.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-11.png)
 
 
 E 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-13.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-13.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-14.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-14.png)
 
 
 A alternativa A está correta. 
@@ -631,7 +631,7 @@ Na função , a expressão dentro da raiz quadrada precisa ser positiva para evi
 Um economista está analisando uma função que representa o lucro de uma empresa em função da quantidade de produtos vendidos, dada por: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0018-19.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0018-19.png)
 
 
 Aqui, L(x) representa o lucro e x é o número de produtos vendidos. Para garantir que as análises sejam precisas, é necessário entender o domínio dessa função, ou seja, quais valores de x são aceitos. 
@@ -641,29 +641,29 @@ Qual das opções a seguir apresenta a análise correta do domínio da função 
 A B C D 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-02.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-03.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-04.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-05.png)
 
 
 E 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-07.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-07.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-08.png)
 
 
 ##### A alternativa B está correta. 
@@ -675,11 +675,11 @@ A função não está definida para porque isso resultaria em uma divisão por z
 Considere a função a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-13.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-13.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0019-14.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0019-14.png)
 
 
 A função apresentada mostra uma parábola descrita por: grau. 
@@ -689,18 +689,18 @@ A função apresentada mostra uma parábola descrita por: grau.
 Com base na imagem, assinale a alternativa que indica o valor da imagem para o elemento do domínio igual a 2. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0020-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0020-01.png)
 
 
 <!-- Start of picture text -->
 A 0<br>B 1<br>C 2<br>D 3<br>E -2<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0020-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0020-02.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0020-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0020-03.png)
 
 
 <!-- Start of picture text -->
@@ -709,7 +709,7 @@ A alternativa A está correta.<br><!-- End of picture text -->
 No plano cartesiano, os elementos do domínio estão representados no eixo x, e os elementos da imagem, no eixo y. Quando x = 2, y = 0. Veja! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0020-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0020-05.png)
 
 
 #### Questão 4 
@@ -717,20 +717,20 @@ No plano cartesiano, os elementos do domínio estão representados no eixo x, e 
 Considere a função matemática apresentada no gráfico a seguir. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0021-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0021-00.png)
 
 
 Em que coordenada da abscissa ocorre a disjunção dos intervalos da função? 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0021-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0021-02.png)
 
 
 <!-- Start of picture text -->
 A x = -1<br>B x = 2<br>C x = 0<br>D x = - 2<br>E x = 4<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0021-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0021-03.png)
 
 
 A alternativa C está correta. 
@@ -744,14 +744,14 @@ Um contador está desenvolvendo uma planilha para calcular o crescimento de um i
 Qual das opções a seguir apresenta uma função cujo domínio é ? 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0022-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0022-01.png)
 
 
 <!-- Start of picture text -->
 A<br>B<br>C<br>D<br>E<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0022-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0022-02.png)
 
 
 ##### A alternativa A está correta. 
@@ -765,7 +765,7 @@ Um analista financeiro está estudando a variação do preço de uma ação ao l
 Qual das opções apresenta a análise correta sobre o domínio da função e a imagem que ela pode assumir ao longo do tempo? 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0022-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0022-08.png)
 
 
 <!-- Start of picture text -->
@@ -774,7 +774,7 @@ A O domínio é   ea imagem vai de 0 a 1.<br>B<br>O domínio é   e a imagem vai
 E O domínio é e a imagem vai de 0 a 0,5. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0023-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0023-01.png)
 
 
 ##### A alternativa A está correta. 
@@ -788,14 +788,14 @@ A função tem domínio em , já que está definida para todos os valores reais.
 (PETROBRAS - 2008) Considere que f é uma função definida do conjunto D em R por: ƒ(x) = x² − 4x + 8. Sendo Im a imagem de f, é correto afirmar que, se: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0023-07.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0023-07.png)
 
 
 <!-- Start of picture text -->
 A<br>, então<br>B<br>, então<br>C<br>, então<br>D<br>, então<br>E<br>, então<br>A alternativa D está correta.<br>O gráfico da função ƒ é dado por:<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0024-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0024-00.png)
 
 
 Vamos analisar cada restrição do domínio da função f. Note que, se D = [−2, 0], temos que Im(ƒ) = [8, 20]. Se D = [2, +∞[, temos que Im(ƒ) = [4, +∞). 
@@ -825,7 +825,7 @@ Se D = [0; 2], temos que ln(ƒ) = [4 ; 8].
 Descubra o que é uma função injetora neste vídeo e entenda a importância de conhecer o seu comportamento. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0025-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0025-04.png)
 
 
 ##### Conteúdo interativo 
@@ -843,7 +843,7 @@ Em termos mais práticos ainda, pense assim: se você tem dois inputs diferentes
 Vamos entender com o auxílio de diagramas. Para isso, vamos repetir: uma função é injetora quando só existe uma única ligação entre domínio e imagem. Nenhum elemento de imagem pode receber mais do que um elemento de domínio, veja! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0025-12.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0025-12.png)
 
 
 \(\text { Função injetora de } A \rightarrow B \text {. }\) 
@@ -853,7 +853,7 @@ Perceba que todos os elementos do domínio (conjunto A) têm um único correspon
 Vamos explorar três exemplos de funções injetoras, também conhecidas como funções um-para-um. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0026-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0026-03.png)
 
 
 Atenção Lembre-se que uma função é injetora se cada elemento da imagem está associado a um único elemento do domínio. Em outras palavras, se , então . 
@@ -865,7 +865,7 @@ Vamos verificar neste exemplo como a função afim é injetora.
 Para analisar se uma função é injetora, observamos este gráfico: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0026-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0026-08.png)
 
 
 <!-- Start of picture text -->
@@ -880,14 +880,14 @@ Observação: funções afins do tipo , em que é diferente de zero, são sempre
 É uma função do tipo , em que é a base e é o expoente. Para poder verificar que esse tipo de função é injetora, vamos analisar a função: . Faremos da mesma forma que fizemos anteriormente. Vamos analisar o gráfico! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0027-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0027-01.png)
 
 
 <!-- Start of picture text -->
 Conteúdo interativo<br>Acesse a versão digital para ver mais detalhes da imagem<br>abaixo.<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0027-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0027-02.png)
 
 
 Gráfico: função \(f(x) = 2^x\). 
@@ -899,23 +899,23 @@ Perceba que, assim como na função afim, temos somente um para um de x e y. E p
 Vejamos agora um exemplo de uma função que não é injetora, uma função quadrada do tipo 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0027-07.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0027-07.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0027-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0027-08.png)
 
 
 . Para isso, vamos analisar o gráfico de 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0027-10.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0027-10.png)
 
 
 Conteúdo interativo Acesse a versão digital para ver mais detalhes da imagem abaixo. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0028-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0028-00.png)
 
 
 Gráfico: função \(f(x) = ax^2 - x - 12\). 
@@ -931,7 +931,7 @@ O fato de existirem elementos distintos do domínio com a mesma imagem faz com q
 Assista ao vídeo para entender o que é uma função sobrejetora e conferir exemplos práticos que ajudam a identificar se uma função possui ou não essa característica. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0028-07.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0028-07.png)
 
 
 Conteúdo interativo 
@@ -943,7 +943,7 @@ Imagine lançar uma campanha de marketing e descobrir que ela só alcançou uma 
 Afinal, o que é uma função sobrejetora? 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0029-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0029-02.png)
 
 
 Imagine ter um conjunto de “clientes em 
@@ -953,7 +953,7 @@ potencial” (domínio) e um conjunto de "benefícios do seu produto" (contradom
 Em outras palavras, quando o conjunto imagem é igual ao conjunto contradomínio, temos uma função sobrejetora. Vamos ver o diagrama com os balõezinhos para entender melhor: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0029-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0029-06.png)
 
 
 Representação de uma função sobrejetora. 
@@ -969,18 +969,18 @@ Para entender o comportamento de uma função sobrejetora, vamos analisar o comp
 Para analisar se o seu contradomínio é igual à sua imagem, observe o gráfico. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0030-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0030-00.png)
 
 
 <!-- Start of picture text -->
 Conteúdo interativo<br>Acesse a versão digital para ver mais detalhes da imagem<br>abaixo.<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0030-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0030-01.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0030-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0030-02.png)
 
 
 <!-- Start of picture text -->
@@ -995,7 +995,7 @@ Agora, vamos falar de uma função que não apresenta o comportamento sobrejetor
 Vamos analisar a função quadrática . Observe o gráfico! 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0031-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0031-00.png)
 
 
 Gráfico: Função quadrática \(f(x)=x^2\). 
@@ -1007,11 +1007,11 @@ Perceba que a imagem da função está totalmente acima do eixo , ou seja, a ima
 É uma função que é injetora e sobrejetora ao mesmo tempo. Ou seja, para cada elemento da imagem, pode haver somente um elemento do domínio, e o conjunto imagem precisa ser igual ao conjunto contradomínio. Demonstrando no diagrama de balõezinhos, temos: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0031-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0031-05.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0031-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0031-06.png)
 
 
 <!-- Start of picture text -->
@@ -1022,7 +1022,7 @@ Confira mais exemplos!
 Exemplo 1: Vamos considerar a função afim . Perceba que essa é uma função afim do tipo , em que . O gráfico dessa função nos mostra o seguinte: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0032-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0032-00.png)
 
 
 Função afim \(f(x) =4x\). 
@@ -1036,7 +1036,7 @@ Imagine que sua agência de marketing foi contratada para uma campanha publicit�
 A função que modela o alcance de pessoas da campanha em função do tempo x (em dias) é dada por: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0032-06.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0032-06.png)
 
 
 Considerando o contexto do problema, defina o domínio, o contradomínio e a imagem, e indique se a função f(x) é injetora sobrejetora ou bijetora. Por fim, diga se a campanha de marketing teve sua meta alcançada. 
@@ -1048,7 +1048,7 @@ Após finalizar o caso, acompanhe a resolução no vídeo a seguir!
 Veja, neste vídeo, a aplicação de uma função exponencial em uma situação real. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0033-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0033-01.png)
 
 
 ##### Conteúdo interativo 
@@ -1064,18 +1064,18 @@ Uma empresa de marketing digital usa a função para prever o ROI de campanhas o
 A Domínio: [1, 10], Imagem: [0, ), Injetora, B Domínio: ( 0,10 ], Imagem: , Sobrejetora, C Domínio: [1, 10], Imagem: [0, ], Injetora não sobrejetora, ROI D Domínio: , Imagem: , Bijetora, E Domínio: , Imagem: , Sobrejetora, 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0033-08.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0033-08.png)
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0033-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0033-09.png)
 
 
 <!-- Start of picture text -->
 A alternativa C está correta.<br>Vamos analisar por partes:<br>- Domínio: [1, 10], conforme enunciado.<br>- Imagem: Aproximadamente [0,  ], considerando o comportamento da função.<br>- Tipo: Injetora (cada x tem um único  ), não sobrejetora (não cobre todos os reais).<br>- ROI para R$ 2.000:<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0034-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0034-00.png)
 
 
 Como o ROI é em porcentagem, multiplicamos por 100: 
@@ -1099,7 +1099,7 @@ D Domínio: , Imagem: , Função Sobrejetora
 E Domínio: , Imagem: [5, ), Função Sobrejetora 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0034-11.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0034-11.png)
 
 
 ##### A alternativa B está correta. 
@@ -1119,7 +1119,7 @@ B Domínio: [0, 20], Imagem: [0, 10], Função Injetora, mas não sobrejetora. C
 E Domínio: [0, 20], Imagem: [10, 0], Função Injetora 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0035-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0035-02.png)
 
 
 ##### A alternativa B está correta. 
@@ -1142,7 +1142,7 @@ Modelando a alocação de consultores como uma função que mapeia consultores e
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0035-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0035-09.png)
 
 
 - A alternativa C está correta. 
@@ -1165,7 +1165,7 @@ Considerando o período de tempo desde t=0 até o momento exato em que a nova en
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0036-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0036-05.png)
 
 
 ##### A alternativa A está correta. 
@@ -1231,7 +1231,7 @@ A D = [0, ∞), I = (0, 100), Função Bijetora
 - E D = (-∞, ∞), I = (-∞, ∞), Função Bijetora 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0037-19.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0037-19.png)
 
 
 ##### A alternativa B está correta. 
@@ -1277,14 +1277,14 @@ Questão 1
 Considere a função bijetora ƒ: [1,+ ∞) → (−∞, 3] definida por ƒ(x) = −x² + 2x + 2 e seja (a, b) o ponto de interseção de ƒ com sua inversa ƒ<sup>−1</sup> . O valor numérico da expressão a + b é 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0039-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0039-01.png)
 
 
 <!-- Start of picture text -->
 A 2.<br>B 4.<br>C 6.<br>D 8.<br>E 9.<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0039-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0039-02.png)
 
 
 A alternativa B está correta. 
@@ -1292,7 +1292,7 @@ A alternativa B está correta.
 Repare que neste domínio a função é estritamente decrescente. Vamos buscar os pontos em que ƒ encontra a sua inversa localizando as interseções entre ƒ e a função y = x (função identidade). Logo: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0039-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0039-05.png)
 
 
 Como o domínio de ƒ é o intervalo [1, +∞), o único valor de x que nos interessa é x = 2 e, para este valor, ƒ(2) = 2. Assim, o ponto buscado é (a, b) = (2, 2) e então a + b = 4. 
@@ -1302,7 +1302,7 @@ Como o domínio de ƒ é o intervalo [1, +∞), o único valor de x que nos inte
 Considere a função , dada por: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0039-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0039-09.png)
 
 
 Nestas condições, é correto afirmar que 
@@ -1312,13 +1312,13 @@ A ƒ é sobrejetora.
 B ƒ é injetora. C ƒ é bijetora. D . E . 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0040-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0040-01.png)
 
 
 A alternativa D está correta. Observe o gráfico da função f : 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0040-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0040-03.png)
 
 
 Utilizando o teste da horizontal, vemos que a função não é injetora e, consequentemente, não é bijetora. Em contrapartida, . Logo, a função não é sobrejetora. 
@@ -1330,7 +1330,7 @@ Utilizando o teste da horizontal, vemos que a função não é injetora e, conse
 Vamos analisar neste vídeo como o domínio e a imagem das funções se comportam, e como elas podem ser classificadas em crescente e decrescente. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0041-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0041-03.png)
 
 
 Conteúdo interativo 
@@ -1346,19 +1346,19 @@ Em termos mais simples, uma função crescente é aquela em que o valor da funç
 ### Funções crescentes: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0041-10.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0041-10.png)
 
 
 Gráfico: \(f(x) = e^{4x}\) 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0042-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0042-00.png)
 
 
 Gráfico: \(f(x) = x\) 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0042-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0042-02.png)
 
 
 Gráfico: \(f(x) = x^3\) 
@@ -1366,19 +1366,19 @@ Gráfico: \(f(x) = x^3\)
 ### Funções decrescentes: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0043-01.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0043-01.png)
 
 
 Gráfico: \(f(x) = 2 - e^x\) 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0043-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0043-03.png)
 
 
 Gráfico: \(f(x) = -x\) 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0044-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0044-00.png)
 
 
 Gráfico: \(f(x)=-\sqrt{x}\) 
@@ -1390,7 +1390,7 @@ A identificação de funções crescentes e decrescentes é importante para ente
 Vamos ver neste vídeo quatro exemplos que ilustram as funções crescentes e decrescentes. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0044-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0044-05.png)
 
 
 ##### Conteúdo interativo 
@@ -1402,7 +1402,7 @@ Vejamos alguns exemplos que nos ajudam a elucidar as funções crescentes e decr
 ### Exemplo 1 - Função crescente: curva de aprendizagem 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0044-10.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0044-10.png)
 
 
 Uma empresa de desenvolvimento de software contratou um novo programador. O gerente de projetos usa esta função para prever a produtividade do funcionário ao longo do tempo. 
@@ -1420,7 +1420,7 @@ O gerente pode usar essas informações para planejar alocações de projetos, d
 ### Exemplo 2 - Função decrescente: depreciação de equipamentos 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0045-02.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0045-02.png)
 
 
 Uma empresa de manufatura comprou uma máquina de corte a laser por $50.000. O contador usa essa função para calcular o valor contábil da máquina ao longo do tempo. 
@@ -1440,7 +1440,7 @@ O CFO pode usar essas informações para decidir quando é mais vantajoso para s
 ### Exemplo 3 - Função crescente: crescimento de receita com marketing digital 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0045-11.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0045-11.png)
 
 
 Uma startup de e-commerce está considerando aumentar seu investimento em marketing digital. O CMO usa essa função para projetar o impacto na receita mensal. 
@@ -1482,7 +1482,7 @@ O gerente pode usar essas informações para determinar o nível ideal de produ�
 (Adaptada de: UFPE - 2017) No gráfico a seguir, temos o nível da água armazenada em uma barragem ao longo de três anos: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0046-09.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0046-09.png)
 
 
 De acordo com o gráfico, podemos afirmar que 
@@ -1497,7 +1497,7 @@ De acordo com o gráfico, podemos afirmar que
 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0046-12.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0046-12.png)
 
 
 ##### A alternativa D está correta. 
@@ -1509,7 +1509,7 @@ Traçando uma reta horizontal paralela ao eixo x (tempo), vemos que o nível de 
 Uma função é crescente e satisfaz a seguinte condição: , para todo . 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0047-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0047-04.png)
 
 
 <!-- Start of picture text -->
@@ -1522,7 +1522,7 @@ Se  , qual o valor de   ?<br>A 1<br>B 2<br>C 3<br>D 4<br>E 5<br>A alternativa C 
 Confira no vídeo uma aplicação de função periódica. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0048-03.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0048-03.png)
 
 
 ##### Conteúdo interativo 
@@ -1540,7 +1540,7 @@ O menor dos valores de T > 0, para os quais a propriedade é verificada, é cham
 Se uma função f é periódica de período T, então, f também é periódica de período nT, em que n ∈ N, já que: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0048-11.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0048-11.png)
 
 
 #### Exemplo 1 
@@ -1552,7 +1552,7 @@ Considere a função f do gráfico a seguir, que corresponde ao eletrocardiogram
 Exame que tem o objetivo de detectar se existe alguma falha na condução elétrica pelo coração. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0048-16.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0048-16.png)
 
 
 Gráfico: Função f 
@@ -1582,7 +1582,7 @@ Essa é uma função periódica de período 2. Por quê?
 Ora, quando x varia duas unidades, o valor da função se repete, ou seja: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0049-10.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0049-10.png)
 
 
 Dessa forma, podemos afirmar que o período dessa função é 2. 
@@ -1592,7 +1592,7 @@ Dessa forma, podemos afirmar que o período dessa função é 2.
 Acompanhe neste vídeo as funções seno, cosseno e tangente. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0049-14.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0049-14.png)
 
 
 ##### Conteúdo interativo 
@@ -1627,7 +1627,7 @@ Tabela: A função f(t) = sen(t) e o ângulo t Adaptado de Loisi Carla Monteiro 
 Confira no vídeo a representação. 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0050-05.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0050-05.png)
 
 
 ##### Conteúdo interativo 
@@ -1645,7 +1645,7 @@ O fluxo pode ser representado pela função:
 Na qual constatamos que: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0050-13.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0050-13.png)
 
 
 - A = fluxo máximo durante a expiração e inspiração. 
@@ -1657,7 +1657,7 @@ Na qual constatamos que:
 A função f é, certamente, uma aproximação, pois T varia de indivíduo para indivíduo. Mas estudos experimentais mostram que é uma boa aproximação da realidade. Observe o seguinte gráfico: 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0050-18.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0050-18.png)
 
 
 Gráfico: A = 1 , T = 1 / 4 , A = 2 , T = 1 / 3 
@@ -1684,14 +1684,14 @@ Sendo ƒ: R → R uma função periódica de período 2, podemos afirmar que
 Considere que a função ƒ : [4, +∞[→ [−3, 7] seja periódica com período 6 e seja estritamente crescente no intervalo [4, 10]. Logo, podemos afirmar que 
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0051-04.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0051-04.png)
 
 
 <!-- Start of picture text -->
 A ƒ(10) = ƒ(25) e ƒ(4) < ƒ(8).<br>B ƒ(12) = ƒ(24) e ƒ(15) < ƒ(16).<br>C ƒ(15) = ƒ(21) e ƒ(21) < ƒ(22).<br>D ƒ(18) = ƒ(24) e ƒ(28) < ƒ(27).<br>E ƒ(20) = ƒ(11) e ƒ(24) < ƒ(25).<br><!-- End of picture text -->
 
 
-![](Tema 4 - Aprofundamento de Funções/input.pdf-0052-00.png)
+![](Tema%204%20-%20Aprofundamento%20de%20Fun%C3%A7%C3%B5es/input.pdf-0052-00.png)
 
 
 A alternativa D está correta. Veja que ƒ(24) = ƒ(18 + 6) = ƒ(18), pois f é periódica de período 6. Além disso, f(28) = f(4)= −3, pois f é sobrejetora e estritamente crescente em [4, 10), e também ƒ(27) = ƒ(9) > ƒ(4). Assim, f(28) < f(27). 

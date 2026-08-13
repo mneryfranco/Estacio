@@ -37,7 +37,7 @@ Além disso, vamos explorar outras ferramentas que ajudam a validar argumentos. 
 Durante o estudo, vamos abordar alguns conceitos, como: sentença aberta, conjunto universo e conjunto verdade, predicados e operações lógicas. Vamos identificar os quantificadores universal e existencial, que podem envolver uma ou mais variáveis. Também vamos apresentar as variáveis livres e ligadas, técnicas para negar expressões quantificadas, e finalmente, explorar algumas aplicações do cálculo de predicados na computação. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0002-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0002-16.png)
 
 
 #### Conteúdo interativo 
@@ -55,7 +55,7 @@ Compreender sentenças abertas e sua avaliação é o primeiro passo para domina
 Para conferir alguns exemplos práticos de sentenças abertas, assista ao vídeo! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0003-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0003-05.png)
 
 
 #### Conteúdo interativo 
@@ -65,7 +65,7 @@ Acesse a versão digital para assistir ao vídeo.
 Considere a seguinte oração: “Alguém foi um craque do futebol na Argentina”. Você consegue dizer se essa oração é verdadeira ou falsa? A resposta é “certamente, não”. Veja que não é possível afirmar se essa oração é verdadeira ou falsa, pois o sujeito não está muito claro, uma vez que “Alguém” é um pronome indefinido. Portanto, não consideramos esse tipo de oração uma sentença ou proposição. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0003-09.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0003-09.png)
 
 
 Diego Armando Maradona em um campo de futebol 
@@ -77,7 +77,7 @@ seja substituído pelo nome do jogador Maradona: “Maradona foi um craque do fu
 Veja que a sentença é verdadeira. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0003-14.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0003-14.png)
 
 
 Pelé segurando o troféu da Copa do Mundo posando para a imprensa 
@@ -89,7 +89,7 @@ Ou seja, nessa oração, o pronome “Alguém” é variável, isto é, pode ser
 Agora vamos considerar a sentença . Quando substituímos a variável , por exemplo, pelo valor 4 , temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0004-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0004-00.png)
 
 
 Veja que essa sentença se torna uma proposição verdadeira. 
@@ -97,13 +97,13 @@ Veja que essa sentença se torna uma proposição verdadeira.
 Agora vamos substituir a variável pelo valor 2. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0004-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0004-03.png)
 
 
 Essa sentença, para , é falsa. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0004-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0004-05.png)
 
 
 Comentário 
@@ -113,7 +113,7 @@ A sentença é uma sentença aberta na variável . Podemos atribuir qualquer val
 Agora podemos definir uma sentença aberta do seguinte modo, de forma mais precisa: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0004-09.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0004-09.png)
 
 
 Vamos considerar um conjunto (não vazio) e " " um elemento desse conjunto. Ou seja, 
@@ -121,7 +121,7 @@ Vamos considerar um conjunto (não vazio) e " " um elemento desse conjunto. Ou s
 Definimos uma sentença aberta no conjunto ou uma sentença aberta com uma variável no conjunto como sendo uma expressão que chamamos de , tal que para todo elemento " " do conjunto pode assumir o valor lógico (verdadeiro) ou (falso). 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0004-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0004-12.png)
 
 
 Em outras palavras, dizemos que é uma sentença aberta no conjunto se, e somente se, assumir o valor verdadeiro ou falso sempre que substituirmos a variável por qualquer elemento arbitrário do conjunto . 
@@ -135,7 +135,7 @@ Considerando o conjunto dos números naturais N = {1, 2, 3, . . . }, temos os se
 x+2>10 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0004-18.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0004-18.png)
 
 
 Para , por exemplo, temos que (falso). 
@@ -143,13 +143,13 @@ Para , por exemplo, temos que (falso).
 x2-5x+6=0 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0005-01.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0005-01.png)
 
 
 Para , temos que: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0005-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0005-03.png)
 
 
 ## Atividade 1 
@@ -183,7 +183,7 @@ A segunda sentença é uma proposição verdadeira, pois é verdadeira para qual
 A primeira sentença se torna uma proposição se substituirmos "Ela" por um nome específico. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0005-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0005-19.png)
 
 
 #### A alternativa B está correta. 
@@ -197,7 +197,7 @@ O conhecimento teórico sobre conjuntos universo e sua relação com conjuntos v
 Assista a este vídeo e entenda alguns contextos de aplicação prática. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0006-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0006-02.png)
 
 
 #### Conteúdo interativo 
@@ -211,7 +211,7 @@ Chamamos de conjunto universo ou domínio da sentença aberta (em geral, usamos 
 Vejamos alguns exemplos! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0006-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0006-08.png)
 
 
 Considere a expressão uma sentença aberta em (o conjunto dos números inteiros formado por números positivos e negativos). Nesse caso, . 
@@ -219,7 +219,7 @@ Considere a expressão uma sentença aberta em (o conjunto dos números inteiros
 Resolvendo essa equação, encontramos o seguinte resultado: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0006-11.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0006-11.png)
 
 
 Note que o valor encontrado é um elemento do conjunto universo . Portanto, -7 é o valor da variável que torna a sentença verdadeira. 
@@ -229,7 +229,7 @@ Uma aplicação relevante do conjunto universo relaciona-se ao conjunto verdade.
 Seja uma sentença aberta em um conjunto universo , chamamos de conjunto verdade de o conjunto formado por todos os elementos , tal que é uma proposição verdadeira. Assim, denotamos o conjunto verdade por: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0006-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0006-15.png)
 
 
 Também podemos usar: <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"> <mtable displaystyle="true" columnalign="right left" columnspacing="0em" rowspacing="3pt"> <mtr> 
@@ -243,7 +243,7 @@ Também podemos usar: <math xmlns="http://www.w3.org/1998/Math/MathML" display="
 <maligngroup/> </mrow> <mrow> <maligngroup/> <msub> <mi>V</mi> <mi>p</mi> </msub> <mo>=</mo> <mo fence="false" stretchy="false">{</mo> <mi>x</mi> <mo>∣</mo> <mi>x</mi> <mo>∈</mo> <mi>A</mi> <mo>∧</mo> <mi>p</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo fence="false" stretchy="false">}</mo> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mrow> <maligngroup/> </mrow> <mrow> <maligngroup/> <msub> <mi>V</mi> <mi>p</mi> </msub> <mo>=</mo> <mo fence="false" stretchy="false">{</mo> <mi>x</mi> <mo>∈</mo> <mi>A</mi> <mo>∣</mo> <mi>p</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo fence="false" stretchy="false">}</mo> </mrow> </mrow> </mtd> </mtr> </mtable> </math> 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0008-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0008-00.png)
 
 
 Atenção 
@@ -251,7 +251,7 @@ Atenção
 Acompanhe mais alguns casos! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0008-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0008-03.png)
 
 
 Considere a sentença aberta em . Vamos determinar o seu conjunto verdade resolvendo a equação do grau. 
@@ -267,13 +267,13 @@ Com relação às sentenças abertas, podemos considerar diferentes situações.
 2 p(x) manifesta uma condição possível no conjunto A Por exemplo: Seja " " uma sentença aberta em . Nessa sentença, apenas alguns elementos de fazem parte do conjunto verdade. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0008-10.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0008-10.png)
 
 
 3 p(x) manifesta uma condição impossível no conjunto A Por exemplo: Seja " " uma sentença aberta em . Nessa sentença, nenhum elemento de faz parte do conjunto verdade. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0008-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0008-12.png)
 
 
 ## Atividade 2 
@@ -285,19 +285,19 @@ Considere a sentença aberta <math xmlns="http://www.w3.org/1998/Math/MathML"> <
 A B C D E 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0009-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0009-02.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0009-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0009-03.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0009-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0009-04.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0009-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0009-05.png)
 
 
 A alternativa C está correta. A sentença é verdadeira para , então . 
@@ -309,7 +309,7 @@ O conceito de conjunto verdade é fundamental para entender sentenças abertas. 
 No vídeo a seguir, veja como exploramos o conceito de conjunto verdade no contexto de sentenças abertas. Iniciamos com uma definição clara, mostrando que o conjunto verdade de uma sentença aberta é o conjunto de todos os elementos do conjunto universo que tornam a sentença verdadeira. Também abordamos sentenças abertas com duas variáveis, explicando como determinar o conjunto verdade em produtos cartesianos de conjuntos. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0010-01.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0010-01.png)
 
 
 #### Conteúdo interativo 
@@ -321,7 +321,7 @@ Em uma sentença aberta com duas variáveis, consideramos dois conjuntos, e .
 Seja " " um elemento do conjunto , ( e " " um elemento do conjunto , chamamos de sentença aberta em , uma expressão em que pode assumir o valor lógico falso ou verdadeiro para todo par ordenado . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0010-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0010-06.png)
 
 
 #### Atenção 
@@ -331,13 +331,13 @@ Sejam dois conjuntos e , dizemos que o produto cartesiano de por é o conjunto d
 O conjunto verdade de uma sentença aberta com duas variáveis é o conjunto de todos os elementos , tais que é uma proposição verdadeira. Entenda melhor! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0010-10.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0010-10.png)
 
 
 Também podemos usar: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0010-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0010-12.png)
 
 
 Observação: (o conjunto verdade de em é um subconjunto do conjunto ). 
@@ -345,13 +345,13 @@ Observação: (o conjunto verdade de em é um subconjunto do conjunto ).
 Considere a sentença aberta em , em que é o conjunto dos números naturais. O conjunto verdade é: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0010-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0010-15.png)
 
 
 Considere a sentença aberta em , em que e . O conjunto verdade é: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0011-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0011-00.png)
 
 
 ## Atividade 3 
@@ -385,7 +385,7 @@ O conjunto verdade da primeira sentença é vazio e o conjunto verdade da segund
 O conjunto verdade da primeira e da segunda sentenças incluem todos os números naturais. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0011-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0011-16.png)
 
 
 #### A alternativa B está correta. 
@@ -401,7 +401,7 @@ específicos. Na lógica dos predicados, essas expressões são representadas po
 Assista ao vídeo e explore as características fundamentais do cálculo de predicados. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0012-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0012-02.png)
 
 
 #### Conteúdo interativo 
@@ -417,7 +417,7 @@ Observe as seguintes expressões: “x é alto e elegante” e “x é professor
 Nessas expressões, agora temos a presença de variáveis. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0012-09.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0012-09.png)
 
 
 #### Atenção 
@@ -439,7 +439,7 @@ Por exemplo:
 Na lógica dos predicados, eles são representados por meio dos símbolos predicativos: p, q, r etc. e variáveis: x, y, z etc. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0012-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0012-19.png)
 
 
 Exemplo a) " " b) " " c) " " 
@@ -475,7 +475,7 @@ E
 O conjunto verdade da primeira sentença é {4, 6} e o conjunto verdade da segunda sentença é {3}. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0013-11.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0013-11.png)
 
 
 A alternativa A está correta. 
@@ -485,7 +485,7 @@ Para a primeira sentença, "O quadrado de um número menos seis vezes esse núme
 Resolvendo a equação quadrática: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0013-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0013-15.png)
 
 
 Portanto, ou . Assim, o conjunto verdade é . 
@@ -493,7 +493,7 @@ Portanto, ou . Assim, o conjunto verdade é .
 Para a segunda sentença, "Cinco vezes um número menos dez é igual a zero": 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0013-18.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0013-18.png)
 
 
 Resolvendo a equação linear: Assim, o conjunto verdade é . Portanto, a opção correta é A. 
@@ -505,7 +505,7 @@ O conhecimento teórico sobre operações lógicas em sentenças abertas é impo
 Assista a este vídeo para aprofundar seu entendimento sobre operações lógicas em sentenças abertas e veja como aplicar esses conceitos em diferentes contextos práticos. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0014-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0014-02.png)
 
 
 #### Conteúdo interativo 
@@ -535,7 +535,7 @@ Bicondicional <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"> 
 Com essas operações, obteremos um conjunto verdade para cada operação, como veremos a seguir. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0015-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0015-06.png)
 
 
 Agora vamos analisar cada operação sobre as sentenças abertas e em , e um elemento seguida de um exemplo. Cada sentença aberta possui um conjunto verdade dado por e , respectivamente. 
@@ -549,19 +549,19 @@ Exemplo: considerando o conjunto universo (conjunto dos números naturais).
 Seja a sentença aberta , temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0016-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0016-00.png)
 
 
 O conjunto verdade é: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0016-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0016-02.png)
 
 
 Observação: é o complementar em relação a 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0016-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0016-04.png)
 
 
 ### Conjunção 
@@ -571,7 +571,7 @@ A operação de conjunção é a sentença aberta em , satisfeita por um element
 Exemplo: considerando o conjunto universo (conjunto dos números inteiros). Sejam as sentenças e , temos: . A sentença aberta tem conjunto verdade . A sentença aberta tem conjunto verdade . Observe o conjunto verdade de ! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0016-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0016-08.png)
 
 
 ### Disjunção 
@@ -587,7 +587,7 @@ A sentença aberta tem conjunto verdade .
 A sentença aberta tem conjunto verdade . Observe o conjunto verdade de ! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0016-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0016-15.png)
 
 
 ### Condicional 
@@ -603,7 +603,7 @@ A sentença aberta tem conjunto verdade .
 Observação: usando equivalência estudada no cálculo proposicional, temos que: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0017-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0017-03.png)
 
 
 Com essa equivalência, garantimos que os conjuntos verdade coincidem. 
@@ -625,13 +625,13 @@ A sentença aberta tem conjunto verdade . A sentença aberta tem conjunto verdad
 Vamos determinar! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0017-13.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0017-13.png)
 
 
 Confira o conjunto verdade da bicondicional! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0018-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0018-00.png)
 
 
 Os exemplos anteriores sugerem que podemos gerar novas sentenças abertas compostas, que obtemos por meio dos conectivos lógicos. Entendido? 
@@ -671,7 +671,7 @@ A
 - 1 - Condicional, 2 - Bidimensional, 3 - Conjunção, 4 - Disjunção, 5 - Negação 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0018-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0018-19.png)
 
 
 #### A alternativa B está correta. 
@@ -689,7 +689,7 @@ Vamos estudar o quantificador universal e as sentenças abertas. Você vai enten
 Assista ao vídeo e confira exemplos práticos. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0020-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0020-04.png)
 
 
 #### Conteúdo interativo 
@@ -717,13 +717,13 @@ Alternativamente, podemos dizer que: “Existe pelo menos um homem que não é e
 Agora considere a seguinte sentença matemática: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0020-17.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0020-17.png)
 
 
 Veja que essa sentença tem o predicado “x < 2”, que apresenta a propriedade da variável x que é “ser menor do que 2”. Acompanhando esse predicado, temos a expressão “para todo”. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0020-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0020-19.png)
 
 
 #### Atenção 
@@ -767,7 +767,7 @@ Qual das seguintes opções associa corretamente os quantificadores usados nas a
 1 - Quantificador existencial, 2 - Quantificador universal, 3 - Quantificador existencial, 4 - Quantificador existencial. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0021-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0021-16.png)
 
 
 #### A alternativa B está correta. 
@@ -781,7 +781,7 @@ O quantificador universal é uma ferramenta fundamental na lógica matemática, 
 Assista ao vídeo e entenda melhor o conceito de quantificador universal. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0022-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0022-02.png)
 
 
 #### Conteúdo interativo 
@@ -791,13 +791,13 @@ Acesse a versão digital para assistir ao vídeo.
 Vamos analisar, inicialmente, duas sentenças abertas: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0022-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0022-06.png)
 
 
 Essa sentença é aberta no conjunto dos números naturais , ou seja, o conjunto universo ou o domínio é , em que: . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0022-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0022-08.png)
 
 
 #### Comentário 
@@ -823,13 +823,13 @@ Podemos observar que P(x) = "x + 2 > x" é, na verdade, uma proposição verdade
 Com relação ao conjunto verdade, dizemos que ele é o próprio conjunto dos números naturais. Entenda melhor! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0022-20.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0022-20.png)
 
 
 Lembrando que estamos usando Vp como notação para o conjunto verdade, temos o seguinte: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0022-22.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0022-22.png)
 
 
 Agora vamos considerar a sentença aberta " " no conjunto dos números reais , ou seja, o conjunto universo é . 
@@ -865,17 +865,17 @@ Agora, você sabe como escrever "Para todo em " com a simbologia da lógica mate
 Para representarmos as expressões "para todos" e "qualquer que seja", devemos colocar o símbolo seguido do antes de . Podemos dizer que representa uma operação lógica que tem por finalidade transformar uma sentença aberta em , que não tem nenhum valor lógico, em uma sentença verdadeira ou falsa. Essa operação é denominada quantificação universal. Observe! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0023-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0023-16.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0023-17.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0023-17.png)
 
 
 (Lê-se: para todo ou qualquer que seja ). Também podemos escrever: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0023-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0023-19.png)
 
 
 ### Exemplos 
@@ -885,13 +885,13 @@ Veja como fica a sentença aberta dada em (I):
 Com relação à sentença aberta p(x), dada por “x + 2 > x” em N, podemos escrever: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0023-23.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0023-23.png)
 
 
 É uma sentença ou proposição verdadeira. Nesse caso, temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0024-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0024-00.png)
 
 
 Veja como fica a sentença aberta dada em (II): 
@@ -899,13 +899,13 @@ Veja como fica a sentença aberta dada em (II):
 Com relação à sentença aberta p(x) representada por “x² = x” no conjunto dos números reais (R), podemos escrever: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0024-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0024-03.png)
 
 
 É uma sentença ou proposição falsa. Nesse caso, temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0024-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0024-05.png)
 
 
 Quando o conjunto universo é finito, dizemos que a proposição é equivalente à conjunção. Por exemplo: vamos considerar a sentença aberta " é par" em . 
@@ -913,7 +913,7 @@ Quando o conjunto universo é finito, dizemos que a proposição é equivalente 
 Então, temos que: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0024-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0024-08.png)
 
 
 ## Atividade 2 
@@ -947,7 +947,7 @@ E
 Ambas as afirmações são falsas. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0025-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0025-06.png)
 
 
 A alternativa B está correta. 
@@ -961,7 +961,7 @@ A primeira afirmação "Para todo número natural " é verdadeira, pois adiciona
 Assista ao vídeo e entenda melhor o quantificador existencial. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0025-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0025-12.png)
 
 
 Conteúdo interativo 
@@ -975,7 +975,7 @@ Observe o seguinte:
 Vamos analisar, inicialmente, duas sentenças: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0025-18.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0025-18.png)
 
 
 Essa sentença é aberta no conjunto dos números reais 
@@ -993,7 +993,7 @@ Veja que, para todos os números reais, essa sentença não é verificada; ela �
 Note que, no conjunto dos números reais, existe pelo menos um elemento que satisfaz a propriedade 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0025-26.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0025-26.png)
 
 
 Portanto, " " é verdadeira e o conjunto verdade é . Entenda melhor! 
@@ -1021,7 +1021,7 @@ Agora podemos definir o quantificador existencial.
 Dada uma proposição ou sentença aberta em , em que é o conjunto universo ou domínio e o conjunto verdade . Quando existe pelo menos um elemento do conjunto universo que satisfaz , podemos dizer que torna-se verdadeira. Ou seja, o conjunto verdade é não vazio: . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0026-11.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0026-11.png)
 
 
 Comentário 
@@ -1029,7 +1029,7 @@ Comentário
 Com relação ao quantificador existencial temos, por exemplo, as expressões: “existe pelo menos um”, “existe algum”, “algum” e “existe”. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0026-14.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0026-14.png)
 
 
 O quantificador existencial é representado pelo símbolo 
@@ -1037,17 +1037,17 @@ O quantificador existencial é representado pelo símbolo
 Como escrever "Existe em ", "Para algum " ou "Existe pelo menos um em , tal que " com a simbologia da lógica matemática? 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0026-17.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0026-17.png)
 
 
 Para representarmos as expressões "Para algum", "Existe" e "Existe pelo menos um", usaremos o símbolo seguido do antes de . Veja! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0026-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0026-19.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0026-20.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0026-20.png)
 
 
 (Lê-se: Existe ou existe pelo menos um ou existe algum ) 
@@ -1055,7 +1055,7 @@ Para representarmos as expressões "Para algum", "Existe" e "Existe pelo menos u
 O quantificador existencial também é um operador lógico que tem por finalidade transformar uma sentença aberta em , que não tem nenhum valor lógico, em uma sentença verdadeira ou falsa. A operação é denominada quantificação existencial. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0027-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0027-00.png)
 
 
 #### Comentário 
@@ -1069,13 +1069,13 @@ Veja como fica a sentença aberta dada em (I):
 Com relação à sentença aberta dada por " " no conjunto dos números reais , podemos escrever: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0027-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0027-06.png)
 
 
 É uma sentença ou proposição verdadeira. Nesse caso, temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0027-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0027-08.png)
 
 
 Veja como fica a sentença aberta dada em (II): 
@@ -1083,19 +1083,19 @@ Veja como fica a sentença aberta dada em (II):
 Com relação à sentença aberta dada por " " no conjunto dos números reais , podemos escrever: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0027-11.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0027-11.png)
 
 
 É uma sentença ou proposição falsa. Nesse caso, temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0027-13.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0027-13.png)
 
 
 Quando o conjunto universo é finito, dizemos que a proposição é equivalente à disjunção. Por exemplo: vamos considerar a sentença aberta " é ímpar" em . Então, temos que: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0027-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0027-15.png)
 
 
 Considerando a expressão do tipo: ( é elegante) "Existe pelo menos um ou existe algum , tal que é elegante", ela é falsa se considerarmos o conjunto universo A das pessoas que não são elegantes. 
@@ -1107,7 +1107,7 @@ Vamos considerar uma sentença aberta em (conjunto dos números naturais).
 Ao resolvermos essa equação, encontramos duas raízes: 5 e -5 . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0028-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0028-04.png)
 
 
 #### Atenção 
@@ -1117,7 +1117,7 @@ Como o conjunto universo que estamos considerando é , não consideramos o valor
 Quando temos situações como essa em que existe "um e um só tal que " ou "existe um único " que satisfaz a sentença aberta em , então estamos falando do quantificador de existência e unicidade. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0028-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0028-08.png)
 
 
 Notação: 
@@ -1127,7 +1127,7 @@ Chamamos o símbolo ! de quantificador existencial de unicidade.
 Lê-se: "Existe um e apenas um". 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0028-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0028-12.png)
 
 
 #### Exemplo 
@@ -1165,7 +1165,7 @@ E
 Ambas as sentenças são falsas. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0029-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0029-08.png)
 
 
 #### A alternativa B está correta. 
@@ -1179,7 +1179,7 @@ A primeira sentença "Existe um número real x tal que x + 3 = 10" é verdadeira
 Assista ao vídeo para entender como as sentenças abertas funcionam e como as variáveis livres influenciam a determinação do valor lógico das expressões. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0029-14.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0029-14.png)
 
 
 #### Conteúdo interativo 
@@ -1191,13 +1191,13 @@ Vamos iniciar com o seguinte exemplo:
 Considere uma expressão do tipo: , em que é o conjunto universo definido por 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0029-19.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0029-19.png)
 
 
 Note que não conhecemos o valor lógico dessa expressão – que é uma sentença aberta na variável ) –, pois temos duas variáveis: e . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0030-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0030-00.png)
 
 
 #### Comentário 
@@ -1215,7 +1215,7 @@ Vejamos alguns exemplos!
 Determine o conjunto verdade das sentenças abertas, em que o conjunto universo das variáveis e é . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0030-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0030-08.png)
 
 
 Resolução: veja que o conjunto verdade é vazio, pois considerando x = 6, a propriedade não é verificada. 
@@ -1225,13 +1225,13 @@ Resolução: veja que o conjunto verdade é vazio, pois considerando x = 6, a pr
 Acompanhe mais uma vez: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0030-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0030-12.png)
 
 
 O conjunto verdade é . A propriedade é verificada, pois, para qualquer em , a sentença aberta torna-se uma proposição verdadeira. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0030-14.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0030-14.png)
 
 
 Atenção 
@@ -1243,27 +1243,27 @@ Veja o exemplo:
 Considerando os conjuntos A, B e C, temos: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0031-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0031-00.png)
 
 
 Lê-se: para todo em e todo em , tem-se que: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0031-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0031-02.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0031-03.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0031-03.png)
 
 
 Lê-se: para todo em existe um em , tal que: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0031-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0031-05.png)
 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0031-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0031-06.png)
 
 
 Lê-se: existe em tal que para todo em e em , tem-se que: . 
@@ -1305,7 +1305,7 @@ E
 Ambas as sentenças são falsas. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0032-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0032-05.png)
 
 
 A alternativa B está correta. 
@@ -1321,7 +1321,7 @@ Compreender a diferença entre variáveis livres e variáveis ligadas no cálcul
 Assista a este vídeo para aprofundar seu entendimento sobre essas variáveis e entenda como aplicar esses conceitos em diferentes contextos práticos. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0033-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0033-04.png)
 
 
 #### Conteúdo interativo 
@@ -1333,7 +1333,7 @@ Consideremos a expressão do tipo: , em que é o conjunto universo definido por
 . Note que não conhecemos o valor lógico dessa expressão, pois temos duas variáveis: e . A variável está definida no conjunto A e podemos dizer que é uma variável ligada ao quantificador existencial, pois os seus valores estão definidos em . 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0033-09.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0033-09.png)
 
 
 #### Atenção 
@@ -1345,7 +1345,7 @@ Vamos aprofundar o conceito de variáveis livres e ligadas com outro exemplo.
 Considere a expressão: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0033-14.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0033-14.png)
 
 
 A é o conjunto universo definido por A = {1, 2, 3, 4, 5}. 
@@ -1405,7 +1405,7 @@ E
 Tanto x quanto y são variáveis ligadas dependendo do contexto. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0034-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0034-16.png)
 
 
 A alternativa B está correta. 
@@ -1421,7 +1421,7 @@ Assista ao vídeo e entenda melhor o conceito de negação de proposições quan
 #### Conteúdo interativo 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0035-01.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0035-01.png)
 
 
 Acesse a versão digital para assistir ao vídeo. 
@@ -1435,7 +1435,7 @@ p: Todo flamenquista é boa gente.
 A negação dessa proposição é: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0035-07.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0035-07.png)
 
 
 : Existe algum flamenguista que não é boa gente. 
@@ -1443,7 +1443,7 @@ A negação dessa proposição é:
 Em matemática, considere a proposição: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0035-10.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0035-10.png)
 
 
 A proposição ) afirma que para todo no conjunto dos números reais ( ), o quadrado de é maior ou igual a zero. Isso é verdadeiro para todos os números reais, pois o quadrado de qualquer número real nunca é negativo. 
@@ -1451,7 +1451,7 @@ A proposição ) afirma que para todo no conjunto dos números reais ( ), o quad
 A negação dessa proposição é: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0035-13.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0035-13.png)
 
 
 ## Atividade 2 
@@ -1479,13 +1479,13 @@ E
 À noite, nenhum gato é pardo. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0036-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0036-04.png)
 
 
 A alternativa D está correta. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0036-06.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0036-06.png)
 
 
 A negação é equivalente à sim; 
@@ -1499,7 +1499,7 @@ Entender a negação de sentenças abertas com quantificadores universais é uma
 Assista a este vídeo para aprofundar seu entendimento sobre a negação de sentenças abertas com quantificadores universais e veja como aplicar esses conceitos em diferentes contextos práticos. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0036-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0036-12.png)
 
 
 #### Conteúdo interativo 
@@ -1509,31 +1509,31 @@ Acesse a versão digital para assistir ao vídeo.
 Considere a expressão a seguir e o conjunto universo H de todos os homens. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0036-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0036-16.png)
 
 
 Nessa expressão, temos que: para todos as pessoas de H, tais pessoas, os homens, são bons motoristas. Para negar essa expressão com a presença do quantificador universal, basta colocar a negação antes do quantificador. Veja! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0036-18.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0036-18.png)
 
 
 Quando colocamos a negação na frente do quantificador universal, dizemos que: não é verdade que todos os homens são bons motoristas. Portanto, a negação de proposição com quantificador universal é equivalente a: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0037-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0037-00.png)
 
 
 Alternativamente, podemos escrever: 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0037-02.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0037-02.png)
 
 
 Na linguagem corrente, temos que: existe pelo menos um homem que não é bom motorista. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0037-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0037-04.png)
 
 
 #### Atenção 
@@ -1559,13 +1559,13 @@ Observe alguns exemplos!
 Dê a negação da sentença: (∀x)(x−3≥4) 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0037-16.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0037-16.png)
 
 
 A negação é equivalente a 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0037-18.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0037-18.png)
 
 
 2 
@@ -1573,7 +1573,7 @@ A negação é equivalente a
 Dê a negação da sentença: (∃x)(x+3=x) A negação é equivalente a 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0037-21.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0037-21.png)
 
 
 - 3 Dê a negação da sentença:(∀x∈A)(p(x))∧(∃x∈A)(q(x)) Nessa sentença, vamos aplicar a regra de negação da conjunção. 
@@ -1617,7 +1617,7 @@ E
 O quantificador existencial não pode ser movido para imediatamente antes da subfórmula , pois o significado da fórmula seria alterado. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0041-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0041-12.png)
 
 
 A alternativa C está correta. 
@@ -1633,7 +1633,7 @@ Vamos conhecer algumas das utilidades práticas do cálculo de predicados na ár
 Assista ao vídeo e explore mais detalhes! 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0042-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0042-04.png)
 
 
 #### Conteúdo interativo 
@@ -1647,7 +1647,7 @@ Considerando que as premissas são verdadeiras, concluímos que o resultado (con
 Na computação, uma das primeiras linguagens concebidas para implementar tais procedimentos foi a linguagem de programação Prolog, do inglês, Programming in logic. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0042-10.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0042-10.png)
 
 
 #### Curiosidade 
@@ -1659,7 +1659,7 @@ Uma das características da Prolog é o fato de ser uma linguagem declarativa, t
 A linguagem Prolog é formada basicamente de fatos ou informações sobre objetos que desejamos analisar; regras de inferência e perguntas que podemos fazer sobre os objetos dados. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0042-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0042-15.png)
 
 
 #### Atenção 
@@ -1687,7 +1687,7 @@ Acompanhe os seguintes exemplos:
 Note: o predicado representa uma característica do objeto quando temos apenas 1 objeto. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0043-09.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0043-09.png)
 
 
 Exemplo 
@@ -1701,7 +1701,7 @@ Por convenção, temos o predicado , que indica " predicado ". Assim, em come(ga
 Veja que trocar a ordem dos objetos pode alterar o valor lógico. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0043-15.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0043-15.png)
 
 
 #### Exemplo 
@@ -1715,7 +1715,7 @@ Também podemos fazer perguntas. Na programação Prolog, uma pergunta tem a seg
 O programa Prolog responde “sim” ou “não”. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0044-00.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0044-00.png)
 
 
 #### Atenção 
@@ -1725,7 +1725,7 @@ A linguagem Prolog não responde simplesmente “sim” ou “não”; ela vai m
 A resposta “não” no Prolog indica que não foi possível chegar à conclusão ou provar o fato dado a partir das informações encontradas no banco de dados. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0044-04.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0044-04.png)
 
 
 #### Exemplo 
@@ -1735,7 +1735,7 @@ Vamos considerar o seguinte banco de dados: engenheiro(luis). Significa: Luis é
 Na pergunta, também podemos fazer uso de variáveis que são denotadas por letras maiúsculas. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0044-08.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0044-08.png)
 
 
 #### Exemplo 
@@ -1747,7 +1747,7 @@ As regras, na linguagem Prolog, possuem duas partes e elas são conectadas pelo 
 A linguagem de programação Prolog, bem como as linguagens da família Lisp, foram as primeiras linguagens de programação concebidas para a definição de sistemas lógicos. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0044-13.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0044-13.png)
 
 
 #### Saiba mais 
@@ -1801,7 +1801,7 @@ B pai(Carlos, mario) C Pai(Carlos, mario) D pai(carlos, Mario) E
 pai(carlos, mario) 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0045-23.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0045-23.png)
 
 
 A alternativa E está correta. Analisando as alternativas dadas: A) pai(Carlos, Mario). Incorreta, pois os objetos carlos e mario estão com letras maiúsculas. B) pai(Carlos, mario). Incorreta, pois o objeto carlos está com letra maiúscula. C) Pai(Carlos, mario). Incorreta, pois o predicado pai e o objeto carlos estão com letras maiúsculas. 
@@ -1817,7 +1817,7 @@ São uma aplicação importante do cálculo dos predicados, tendo sido criados p
 Assista ao vídeo e entenda a importância dos sistemas especialistas. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0046-05.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0046-05.png)
 
 
 #### Conteúdo interativo 
@@ -1919,7 +1919,7 @@ Monitoramento
 Conserto 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0048-12.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0048-12.png)
 
 
 #### A alternativa D está correta. 
@@ -1933,7 +1933,7 @@ Outra utilização do cálculo de predicados diz respeito à correção de progr
 Assista ao vídeo e entenda a importância da prova de correção. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0048-18.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0048-18.png)
 
 
 #### Conteúdo interativo 
@@ -1991,7 +1991,7 @@ E
 Apenas as afirmações I e III estão corretas. 
 
 
-![](Tema 6 - Cálculo de Predicados/input.pdf-0049-23.png)
+![](Tema%206%20-%20C%C3%A1lculo%20de%20Predicados/input.pdf-0049-23.png)
 
 
 A alternativa C está correta. Analisando as afirmações, temos que: 

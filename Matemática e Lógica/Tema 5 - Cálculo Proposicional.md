@@ -39,7 +39,7 @@ Antes de iniciar o conteúdo:
 Neste vídeo, você vai entender a lógica matemática, com a introdução aos princípios da lógica clássica dedutiva, às proposições simples e compostas e aos valores lógicos via tabelas-verdade. Você vai ver também conceitos como tautologias, contradições, contingências, álgebra de Boole, implicações lógicas, equivalências e veracidade dos argumentos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0002-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0002-17.png)
 
 
 ##### Conteúdo interativo 
@@ -55,7 +55,7 @@ O conhecimento teórico da lógica permite a organização e análise precisa de
 Nesse vídeo, você vai aprender os fundamentos da lógica aristotélica, incluindo a teoria do silogismo, a importância histórica de Aristóteles e as contribuições de matemáticos como Boole, De Morgan, Peano, Russell, Frege e Leibniz na evolução da lógica matemática. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0003-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0003-04.png)
 
 
 ##### Conteúdo interativo 
@@ -69,7 +69,7 @@ Para Aristóteles, a lógica era uma importante ferramenta presente em todas as 
 Veja um exemplo clássico de silogismo muito conhecido: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0003-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0003-10.png)
 
 
 Busto de Aristóteles feito de mármore. 
@@ -97,14 +97,14 @@ As contribuições dos matemáticos, portanto, foram muito importantes.
 O filósofo Aristóteles marcou a história da lógica. Qual das seguintes afirmações melhor descreve sua contribuição para a lógica? 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0004-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0004-03.png)
 
 
 <!-- Start of picture text -->
 A Aristóteles desenvolveu a álgebra de Boole, crucial para a lógica matemática moderna.<br>B Aristóteles introduziu a teoria do silogismo, fundamentando o raciocínio lógico dedutivo.<br>C Aristóteles foi o primeiro a usar notação matemática precisa em lógica.<br>D Aristóteles aplicou a lógica para resolver questões filosóficas e matemáticas.<br>E Aristóteles criou a lógica proposicional usada na programação de computadores.<br><!-- End of picture text -->
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0004-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0004-04.png)
 
 
 ##### A alternativa B está correta. 
@@ -118,7 +118,7 @@ O conhecimento teórico sobre as linguagens natural e simbólica é essencial, p
 Neste vídeo, você vai aprender conceitos das linguagens natural e simbólica, definição e exemplos de proposições, classificação das proposições em simples e compostas, e a atribuição de valores lógicos. Você também vai entender como transformar enunciados naturais em simbólicos utilizando símbolos lógicos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0004-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0004-10.png)
 
 
 ##### Conteúdo interativo 
@@ -138,7 +138,7 @@ de símbolos, que são as letras do alfabeto, os sinais de pontuação, acentos 
 Proposições são sentenças ou enunciados declarativos que exprimem um pensamento de sentido completo. Logo, não consideramos como proposição as sentenças exclamativas (Feliz Natal!), interrogativas (Qual é o seu nome?) ou imperativas (Estude, agora!). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0005-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0005-05.png)
 
 
 ##### Atenção 
@@ -166,7 +166,7 @@ Proposiçōes compostas (ou moleculares)
 As proposições compostas são formadas por duas ou mais proposições simples. Em geral, são designadas por letras maiúsculas do alfabeto latino etc. Exemplos: Maria é bonita e Pedro é estudioso. Maria é professora ou médica. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0005-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0005-18.png)
 
 
 0 número 5 é ímpar e o número 25 é um quadrado perfeito. 
@@ -176,7 +176,7 @@ As proposições compostas são formadas por duas ou mais proposições simples.
 Uma proposição pode ser verdadeira ou falsa. Usamos ( ) quando a proposição é falsa ou ( ) quando ela é verdadeira. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0006-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0006-01.png)
 
 
 ##### Exemplo 
@@ -184,7 +184,7 @@ Uma proposição pode ser verdadeira ou falsa. Usamos ( ) quando a proposição 
 Sejam e duas proposições. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0006-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0006-04.png)
 
 
    - : 0 número 5 é ímpar. 
@@ -196,7 +196,7 @@ Sejam e duas proposições.
 Com relação ao valor lógico dessas proposições, podemos usar a seguinte notação: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0006-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0006-09.png)
 
 
    - significa que o valor lógico da proposição é verdadeiro. 
@@ -238,7 +238,7 @@ A Uma sentença exclamativa com sentido completo.
 - E Uma sentença condicional com sentido completo. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0007-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0007-04.png)
 
 
 ##### A alternativa D está correta. 
@@ -252,7 +252,7 @@ Uma proposição, na lógica, é uma sentença ou um enunciado declarativo que e
 Neste vídeo, você vai conhecer os conectivos lógicos ― conjunção, disjunção (inclusiva e exclusiva), condicional, bicondicional e negação. Você também vai ver exemplos da transformação de proposições da linguagem natural para a simbólica, bem como suas aplicações e sua importância na lógica matemática. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0007-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0007-10.png)
 
 
 ##### Conteúdo interativo 
@@ -274,13 +274,13 @@ Vamos considerar duas proposições simples e .
 Maria é alta Maria é elegante 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-01.png)
 
 
 Usando os conectivos, podemos formar outras proposições a partir das proposições e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-03.png)
 
 
 Maria é alta e elegante. Maria é alta ou elegante. Se Maria é alta, então é elegante. Maria é alta se, e somente se é elegante. 
@@ -296,13 +296,13 @@ Linguagem corrente: “e”, “mas”, “além disso”, “também”.
 Notação: ∧ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-10.png)
 
 
 Essa notação é usada entre duas proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-12.png)
 
 
 Como se ler: e 
@@ -312,7 +312,7 @@ Exemplo
 Sejam as proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-16.png)
 
 
 Paulo é trabalhador. Paulo é estudioso. 
@@ -320,7 +320,7 @@ Paulo é trabalhador. Paulo é estudioso.
 Usando o conectivo “e”, podemos formar outra proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-19.png)
 
 
 ##### Paulo é trabalhador e Paulo é estudioso. 
@@ -334,7 +334,7 @@ A conjunção pode ser representada por diagramas, na teoria dos conjuntos. Ness
 Linguagem corrente: "ou". 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0008-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0008-25.png)
 
 
 Notação: 
@@ -342,7 +342,7 @@ Notação:
 Essa notação é usada entre duas proposições: . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0009-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0009-01.png)
 
 
 Como se lê: ou 
@@ -352,7 +352,7 @@ Como se lê: ou
 Sejam as proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0009-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0009-05.png)
 
 
 Paulo ganhou um carro. Paulo ganhou um apartamento. 
@@ -360,7 +360,7 @@ Paulo ganhou um carro. Paulo ganhou um apartamento.
 Usando o conectivo “ou”, podemos formar outra proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0009-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0009-08.png)
 
 
 ##### Paulo ganhou um carro ou Paulo ganhou um apartamento. 
@@ -370,7 +370,7 @@ Podemos dizer simplesmente: Paulo ganhou um carro ou ganhou um apartamento.
 Com relação à disjunção, ela pode ser: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0009-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0009-12.png)
 
 
 - Disjunção inclusiva, cujo símbolo é 
@@ -384,7 +384,7 @@ Veja, a seguir, exemplos desses tipos de disjunção:
 Disjunção inclusiva Disjunção exclusiva 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0009-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0009-18.png)
 
 
 : Ana é professora ou médica. : Ou Ana é paulista, ou é gaúcha.Nesse caso, Ana não pode ser paulista e gaúcha ao mesmo tempo. Ou seja, se Ana é paulista, excluímos a possibilidade de Ana ser gaúcha e vice-versa. 
@@ -398,7 +398,7 @@ Linguagem corrente: “Se... então”
 ##### Notação: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0009-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0009-24.png)
 
 
 Essa notação é usada da seguinte forma: Se então . 
@@ -410,7 +410,7 @@ Observe a proposição:
 Paulo é aprovado em cálculo. Paulo ganha um prêmio. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-01.png)
 
 
 Usando o conectivo “se... então”, podemos formar outra proposição: 
@@ -418,7 +418,7 @@ Usando o conectivo “se... então”, podemos formar outra proposição:
 Se Paulo é aprovado em cálculo, então ganha um prềmio. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-04.png)
 
 
 Podemos dizer simplesmente: Se Paulo é aprovado em cálculo, então ganha um prêmio. 
@@ -426,7 +426,7 @@ Podemos dizer simplesmente: Se Paulo é aprovado em cálculo, então ganha um pr
 Veja a relação entre e na proposição condicional a seguir: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-07.png)
 
 
 Sendo: 
@@ -440,11 +440,11 @@ Sendo:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-14.png)
 
 
    - é condição suficiente para 
@@ -452,11 +452,11 @@ Sendo:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-18.png)
 
 
    - é condição necessária para 
@@ -472,7 +472,7 @@ Linguagem corrente: “... Se e somente se...”.
 Notação: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-25.png)
 
 
 Essa notação é usada da seguinte forma: se e somente se . 
@@ -482,7 +482,7 @@ Essa notação é usada da seguinte forma: se e somente se .
 Observe a seguinte proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-29.png)
 
 
 Carlos é trabalhador. Carlos é estudioso. 
@@ -490,7 +490,7 @@ Carlos é trabalhador. Carlos é estudioso.
 Usando o conectivo “se e somente se”, podemos formar outra proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0010-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0010-32.png)
 
 
 Carlos é trabalhador se, e somente se, Carlos é estudioso. 
@@ -498,11 +498,11 @@ Carlos é trabalhador se, e somente se, Carlos é estudioso.
 Observe sobre a bicondicional: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0011-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0011-01.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0011-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0011-02.png)
 
 
    - é condição necessária e suficiente para 
@@ -510,7 +510,7 @@ Observe sobre a bicondicional:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0011-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0011-05.png)
 
 
    - é condição necessária e suficiente para . 
@@ -530,11 +530,11 @@ A notação mais utilizada: ~
 Essa notação é usada na frente da letra que usamos para designar a proposição, para negá-la: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0011-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0011-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0011-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0011-15.png)
 
 
 Como se ler: não 
@@ -560,7 +560,7 @@ Sejam as proposições e :
 Maria vai ao clube. Maria vai estudar lógica. Não é verdade que (Maria vai ao clube e vai estudar lógica). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0011-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0011-27.png)
 
 
 NOR ( ) 
@@ -574,7 +574,7 @@ Sejam as proposições e :
 Maria vai ao clube. Maria vai estudar lógica. Não é verdade que (Maria vai ao clube ou vai estudar lógica). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0012-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0012-01.png)
 
 
 ## Atividade 3 
@@ -613,7 +613,7 @@ O domínio dos conectivos lógicos possibilita a transformação de proposiçõe
 Neste vídeo, você vai ver exemplos de transformação de proposições da linguagem natural para a linguagem simbólica. Você vai ver, ainda, casos de conjunção, disjunção, condicional, bicondicional e negação, além da interpretação de proposições compostas utilizando símbolos lógicos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0013-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0013-02.png)
 
 
 ##### Conteúdo interativo 
@@ -645,7 +645,7 @@ Identifique antes e depois do "e" as proposições simples e atribua uma letra p
 - O professor possui muito conhecimento. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0013-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0013-17.png)
 
 
 Portanto, a linguagem simbólica é 
@@ -663,7 +663,7 @@ Solução:
 A linguagem simbólica é ~ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-01.png)
 
 
 #### Exemplo 2 
@@ -671,7 +671,7 @@ A linguagem simbólica é ~
 (MPU - ESAF - Adaptado) Considere as seguintes proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-04.png)
 
 
 Não vejo Paulo. Não vou ao cinema. Fico triste. 
@@ -695,7 +695,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-15.png)
 
 
 - Linguagem simbólica: 
@@ -705,7 +705,7 @@ Exemplo 3
 Dadas as proposições simples: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-19.png)
 
 
 Carla comprou um carro. Carla comprou um apartamento. 
@@ -737,7 +737,7 @@ Solução:
    - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-34.png)
 
 
    - : Carla comprou um apartamento. 
@@ -745,7 +745,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-37.png)
 
 
    - : Não comprou um apartamento. 
@@ -753,7 +753,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0014-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0014-40.png)
 
 
    - Linguagem simbólica: 
@@ -769,7 +769,7 @@ Solução:
 • Linguagem simbólica: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-01.png)
 
 
 3. Carla nem comprou um carro e nem comprou um apartamento. 
@@ -779,7 +779,7 @@ Solução:
    - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-05.png)
 
 
    - : Carla não comprou um carro. 
@@ -787,7 +787,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-08.png)
 
 
    - : Carla comprou um apartamento. 
@@ -795,7 +795,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-11.png)
 
 
    - : Nem comprou um apartamento. 
@@ -803,7 +803,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-14.png)
 
 
    - Linguagem simbólica: 
@@ -813,7 +813,7 @@ Solução:
 4. É falso que Carla não comprou o carro ou não comprou o apartamento 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-18.png)
 
 
    - : Carla comprou um carro. 
@@ -821,7 +821,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-21.png)
 
 
    - : Carla não comprou um carro. 
@@ -829,7 +829,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-24.png)
 
 
    - : Carla comprou um apartamento. 
@@ -837,7 +837,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-27.png)
 
 
    - : não comprou um apartamento. 
@@ -849,7 +849,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-32.png)
 
 
 - Linguagem simbólica: 
@@ -859,31 +859,31 @@ Solução:
 Dadas as proposições “O estudante aprende rápido” e “O professor possui muito conhecimento”, passe para a linguagem corrente as proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-36.png)
 
 
 1. ~ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-38.png)
 
 
 2. ~ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-40.png)
 
 
 3. ~ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-42.png)
 
 
 4. ~~ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-44.png)
 
 
 5. ~ ↔ ~ 
@@ -891,13 +891,13 @@ Dadas as proposições “O estudante aprende rápido” e “O professor possui
 Solução: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-47.png)
 
 
 1. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-49.png)
 
 
    - estudante aprende rápido. 
@@ -905,7 +905,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-52.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-52.png)
 
 
    - : 0 estudante não aprende rápido. 
@@ -915,7 +915,7 @@ Solução:
 - : 0 professor possui muito conhecimento. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-56.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-56.png)
 
 
 - Conectivo: 
@@ -923,13 +923,13 @@ Solução:
 - estudante não aprende rápido e o professor possui muito conhecimento. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-59.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-59.png)
 
 
 2. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0015-61.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0015-61.png)
 
 
    - estudante aprende rápido. 
@@ -947,13 +947,13 @@ Solução:
 - : 0 estudante aprende rápido ou o professor não possui muito conhecimento. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-03.png)
 
 
 4. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-05.png)
 
 
    - estudante aprende rápido. 
@@ -961,7 +961,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-08.png)
 
 
    - : 0 estudante não aprende rápido. 
@@ -969,7 +969,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-11.png)
 
 
    - : Não é verdade que o estudante não aprende rápido. 
@@ -979,13 +979,13 @@ Solução:
 - Quando negamos a negação da proposição , obtemos a própria proposição , isto é: é o próprio . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-15.png)
 
 
 5. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-17.png)
 
 
    - estudante aprende rápido. 
@@ -993,7 +993,7 @@ Solução:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-20.png)
 
 
    - : 0 estudante não aprende rápido. 
@@ -1003,7 +1003,7 @@ Solução:
 - professor possui muito conhecimento. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-24.png)
 
 
    - : O professor não possui muito conhecimento. 
@@ -1027,27 +1027,27 @@ Considere a proposição “Nem Carlos é engenheiro nem Paulo é professor”. 
 A B C D E 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-37.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-38.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0016-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0016-39.png)
 
 
 A alternativa C está correta. 
@@ -1083,7 +1083,7 @@ O domínio da lógica proposicional depende do entendimento da construção da t
 Neste vídeo, você vai ver como construir tabelas-verdade de proposições simples e compostas utilizando exemplos práticos com uma, duas e três proposições. Você vai aprender como preencher todas as combinações possíveis de valores lógicos (V e F) para analisar a veracidade das proposições. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0018-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0018-04.png)
 
 
 ##### Conteúdo interativo 
@@ -1107,19 +1107,19 @@ O cálculo para determinarmos o número de linhas é simples:
 Número de linhas = 2<sup>n</sup> linhas, onde n é o número de proposições simples. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0018-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0018-15.png)
 
 
 ##### Exemplo 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0018-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0018-17.png)
 
 
 - Se a proposição composta possui duas proposições simples e , a tabela-verdade terá linhas. Em cada linha, colocamos todas as combinações possíveis de e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0018-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0018-19.png)
 
 
 - Se a proposição composta possui três proposições simples e , a tabela-verdade terá linhas. Em cada linha, colocamos todas as combinações possíveis de e . 
@@ -1131,7 +1131,7 @@ Agora, entenderemos melhor a construção da tabela-verdade de uma proposição 
 Seja uma proposição simples. Para construir a tabela-verdade dessa proposição, temos apenas duas possibilidades: a proposição pode ser verdadeira ou falsa. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0019-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0019-00.png)
 
 
 Proposição composta com duas proposições simples 
@@ -1159,7 +1159,7 @@ Note que podemos ter:
 Observe: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0019-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0019-13.png)
 
 
 Podemos construir a tabela-verdade colocando e em qualquer ordem, desde que as linhas referentes às proposições simples tenham todas as combinações possíveis. Uma maneira mais prática é colocar na coluna da primeira proposição simples dois ( ) seguidos de dois ( ) . Em seguida, na coluna da próxima proposição simples, alterna-se e , começando com . 
@@ -1189,7 +1189,7 @@ Note que podemos ter:
 Observe: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0020-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0020-00.png)
 
 
 Uma maneira prática de construir a tabela-verdade com 8 linhas é colocar na coluna da primeira proposição simples quatro ( ) seguidos de quatro ( ). 
@@ -1215,7 +1215,7 @@ D<sup>A tabela-verdade deve ter 8 linhas, com a coluna de</sup> tendo quatro seg
 E A tabela-verdade deve ter 8 linhas, com e distribuídos aleatoriamente. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0020-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0020-12.png)
 
 
 ##### A alternativa D está correta. 
@@ -1231,7 +1231,7 @@ O conhecimento teórico sobre as tabelas-verdade dos conectivos lógicos permite
 Neste vídeo, você vai conhecer os valores lógicos dos principais conectivos lógicos ― negação, conjunção, disjunção (inclusiva e exclusiva), condicional, bicondicional, NAND e NOR. Além disso, você vai entender como construir tabelas-verdade para cada conectivo a partir de aplicações com exemplos práticos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0021-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0021-04.png)
 
 
 ##### Conteúdo interativo 
@@ -1249,13 +1249,13 @@ O valor lógico da proposição ~ é oposto ao da proposição .
 Quando o valor lógico da proposição for verdadeiro, o valor lógico da proposição ~ será falso, e viceversa. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0021-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0021-12.png)
 
 
 ##### Exemplo 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0021-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0021-14.png)
 
 
 Os juros bancários são altos. 
@@ -1265,7 +1265,7 @@ Os juros bancários são altos.
 Tabela-verdade da negação 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0021-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0021-18.png)
 
 
 #### Conjunção (E) 
@@ -1279,7 +1279,7 @@ Note que Carlos prometeu a Paula que a levará ao cinema e comprará um presente
 Temos uma proposição composta, em que: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-02.png)
 
 
    - Carlos levará Paula ao cinema. 
@@ -1287,7 +1287,7 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-05.png)
 
 
    - Comprará um presente para ela. 
@@ -1295,7 +1295,7 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-08.png)
 
 
    - Carlos levará Paula ao cinema comprará um presente para ela. 
@@ -1305,15 +1305,15 @@ Temos uma proposição composta, em que:
 Agora, vamos analisar declaração através da tabela-verdade: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-14.png)
 
 
 |Carlos levou Paula ao cinema.|Comprou um presente para ela.|
@@ -1325,27 +1325,27 @@ Agora, vamos analisar declaração através da tabela-verdade:
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-21.png)
 
 
 Tabela: Tabela-verdade proposição composta.Ana Lúcia de Sousa. 
@@ -1355,63 +1355,63 @@ Tabela: Tabela-verdade proposição composta.Ana Lúcia de Sousa.
 Observe a tabela a seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-31.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-32.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-33.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-37.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-38.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-39.png)
 
 
 Tabela: Tabela-verdade da conjunção.Ana Lúcia de Sousa. 
@@ -1427,7 +1427,7 @@ Nessa declaração, Carlos prometeu a Paula que a levará ao cinema ou comprará
 Temos uma proposição composta, em que: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-46.png)
 
 
    - Carlos levará Paula ao cinema. 
@@ -1435,7 +1435,7 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-49.png)
 
 
    - Comprará um presente para ela. 
@@ -1443,15 +1443,15 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-52.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-52.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-53.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-53.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0022-54.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0022-54.png)
 
 
    - Carlos levará Paula ao cinema ou comprará um presente para ela. 
@@ -1461,15 +1461,15 @@ Temos uma proposição composta, em que:
 Agora, vamos analisar declaração através da tabela-verdade: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-01.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-03.png)
 
 
 |Carlos levou Paula ao cinema.|Comprou um presente para ela.|
@@ -1481,27 +1481,27 @@ Agora, vamos analisar declaração através da tabela-verdade:
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-10.png)
 
 
 Tabela: Tabela-verdade de disjunção inclusiva. 
@@ -1513,63 +1513,63 @@ Ana Lúcia de Sousa.
 Observe a tabela. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-29.png)
 
 
 Tabela: Tabela-verdade de disjunção (inclusiva).Ana Lúcia de Sousa. 
@@ -1585,7 +1585,7 @@ Considere a seguinte declaração:
 Nessa declaração, Paulo não pode ser simultaneamente carioca e paulista. Temos uma proposição composta, em que: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-36.png)
 
 
    - Paulo é carioca. 
@@ -1593,7 +1593,7 @@ Nessa declaração, Paulo não pode ser simultaneamente carioca e paulista. Temo
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-39.png)
 
 
    - Paulo é paulista. 
@@ -1601,7 +1601,7 @@ Nessa declaração, Paulo não pode ser simultaneamente carioca e paulista. Temo
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-42.png)
 
 
    - : Paulo é carioca ou paulista. 
@@ -1611,11 +1611,11 @@ Nessa declaração, Paulo não pode ser simultaneamente carioca e paulista. Temo
 Agora, vamos analisar declaração através da tabela-verdade. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-46.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-47.png)
 
 
 |Paulo é carioca.|Paulo é paulista.|
@@ -1625,23 +1625,23 @@ Agora, vamos analisar declaração através da tabela-verdade.
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-49.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-50.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-50.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0023-51.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0023-51.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-00.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-01.png)
 
 
 |Paulo não é carioca.|Paulo é paulista.|
@@ -1651,15 +1651,15 @@ Agora, vamos analisar declaração através da tabela-verdade.
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-05.png)
 
 
 Tabela: Tabela-verdade de disjunção exclusiva (OU exclusivo). 
@@ -1671,55 +1671,55 @@ Ana Lúcia de Sousa.
 Observe a tabela a seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-22.png)
 
 
 Tabela: Tabela-verdade de disjunção (exclusiva).Ana Lúcia de Sousa. 
@@ -1735,7 +1735,7 @@ Considere a seguinte declaração:
 Temos uma proposição composta, em que: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-29.png)
 
 
    - Paula passar em cálculo. 
@@ -1743,7 +1743,7 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-32.png)
 
 
    - Carlos comprará um presente para ela. 
@@ -1751,7 +1751,7 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0024-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0024-35.png)
 
 
    - → Se Paula passar em cálculo, então Carlos comprará um presente pra ela. 
@@ -1775,7 +1775,7 @@ Na declaração dada, temos
 Agora, vamos analisar declaração através da tabela-verdade. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-00.png)
 
 
 |Paula passou em cálculo.|Carlos comprou um presente para ela.|
@@ -1787,27 +1787,27 @@ Agora, vamos analisar declaração através da tabela-verdade.
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-07.png)
 
 
 Tabela: Tabela-verdade de condicional (Se... então).Ana Lúcia de Sousa. 
@@ -1817,55 +1817,55 @@ Tabela: Tabela-verdade de condicional (Se... então).Ana Lúcia de Sousa.
 Observe a tabela a seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-23.png)
 
 
 Tabela: Tabela-verdade de condicional.Ana Lúcia de Sousa. 
@@ -1881,7 +1881,7 @@ Considere a seguinte declaração:
 Temos uma proposição composta, em que: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-30.png)
 
 
    - Carlos comprará um presente para Paula. 
@@ -1889,7 +1889,7 @@ Temos uma proposição composta, em que:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-33.png)
 
 
    - Paula passar em cálculo. 
@@ -1899,13 +1899,13 @@ Temos uma proposição composta, em que:
 - ↔ Carlos comprará um presente para Paula se e somente se Paula passar em cálculo. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-37.png)
 
 
 Na bicondicional ↔ , temos duas condicionais que ocorrem simultaneamente, na ida e na volta: → e → . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-39.png)
 
 
    - → Se Carlos comprar um presente para Paula, então Paula passará em cálculo. 
@@ -1913,7 +1913,7 @@ Na bicondicional ↔ , temos duas condicionais que ocorrem simultaneamente, na i
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0025-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0025-42.png)
 
 
    - → : Se Paula passar em cálculo, então Carlos comprará um presente para ela. 
@@ -1923,17 +1923,17 @@ Na bicondicional ↔ , temos duas condicionais que ocorrem simultaneamente, na i
 Dessa forma, a bicondicional também pode ser escrita da seguinte forma: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-00.png)
 
 
 Agora, vamos analisar declaração através da tabela-verdade. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-03.png)
 
 
 |Carlos comprou um presente para Paula.|Paula passou em cálculo.|
@@ -1945,23 +1945,23 @@ Agora, vamos analisar declaração através da tabela-verdade.
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-09.png)
 
 
 Tabela: Tabela-verdade.Ana Lúcia de Sousa. 
@@ -1971,55 +1971,55 @@ Tabela: Tabela-verdade.Ana Lúcia de Sousa.
 Observe a tabela a seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-25.png)
 
 
 Tabela: Tabela-verdade.Ana Lúcia de Sousa. 
@@ -2033,7 +2033,7 @@ Como vimos, o conectivo NAND surge a partir da combinação do conectivo “não
 Vamos considerar duas proposições simples: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-31.png)
 
 
    - Carlos vai ao cinema. 
@@ -2041,7 +2041,7 @@ Vamos considerar duas proposições simples:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-34.png)
 
 
    - Carlos vai assistir à televisão. 
@@ -2049,7 +2049,7 @@ Vamos considerar duas proposições simples:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0026-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0026-37.png)
 
 
    - ↑ Não é verdade que Carlos vai ao cinema e vai assistir à televisão. 
@@ -2067,87 +2067,87 @@ Linguagem simbólica: ~( ∧ )
 Observe a tabela a seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-22.png)
 
 
 Tabela: Tabela-verdade do conectivo NAND.Ana Lúcia de Sousa. 
@@ -2159,7 +2159,7 @@ Como vimos, o conectivo NOR surge a partir da combinação do conectivo “não�
 Vamos considerar duas proposições simples: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-27.png)
 
 
    - Carlos vai ao cinema. 
@@ -2167,7 +2167,7 @@ Vamos considerar duas proposições simples:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-30.png)
 
 
    - Carlos vai assistir à televisão. 
@@ -2175,7 +2175,7 @@ Vamos considerar duas proposições simples:
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-33.png)
 
 
    - ↓ Não é verdade que Carlos vai ao cinema ou vai assistir à televisão. 
@@ -2191,87 +2191,87 @@ Linguagem simbólica: ∼( )
 Observe a tabela a seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-40.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-41.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-41.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-42.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-43.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-43.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-44.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-45.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-45.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-46.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-47.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-48.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-48.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-49.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-50.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-50.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-51.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-51.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-52.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-52.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-53.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-53.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-54.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-54.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-55.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-55.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-56.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-56.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-57.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-57.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-58.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-58.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-59.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-59.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0027-60.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0027-60.png)
 
 
 Tabela: Tabela-verdade do conectivo NOR.Ana Lúcia de Sousa. 
@@ -2297,7 +2297,7 @@ A I (V), II (F), III (V), IV (F) B I (F), II (V), III (F), IV (F) C I (F), II (F
 - E I (F), II (F), III (F), IV (V) 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0028-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0028-05.png)
 
 
 ##### A alternativa E está correta. 
@@ -2325,7 +2325,7 @@ por último, a bicondicional . Assista ao vídeo para ver esses conceitos em aç
 Neste vídeo, você vai acompanhar os passos detalhados para construir tabelas-verdade de proposições compostas. Utilizando o exemplo, você vai ver como preencher todas as combinações possíveis de valores lógicos e analisar a aplicação da ordem de precedência dos conectivos lógicos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-02.png)
 
 
 ##### Conteúdo interativo 
@@ -2335,7 +2335,7 @@ Acesse a versão digital para assistir ao vídeo.
 Agora que conhecemos a tabela-verdade de cada conectivo, podemos construir a tabela-verdade de qualquer proposição composta. Devemos ficar atentos, porém, à ordem das proposições nas colunas da tabela. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-06.png)
 
 
 ##### Atenção 
@@ -2367,7 +2367,7 @@ Acompanhe a solução a seguir.
 Verificar a quantidade de proposições simples existentes. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-21.png)
 
 
 Neste exemplo, temos duas proposições: e 
@@ -2375,51 +2375,51 @@ Neste exemplo, temos duas proposições: e
 Vamos, então, construir uma tabela-verdade com 4 linhas. Inicialmente, colocaremos nas duas primeiras colunas as proposições e . Em seguida, colocaremos nas linhas, conforme estudamos anteriormente, todas as combinações possíveis de e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0029-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0029-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-00.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-01.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-05.png)
 
 
 Tabela: Tabela-verdade do passo 1.Ana Lúcia de Sousa. 
@@ -2433,15 +2433,15 @@ Na proposição dada, temos dois parênteses. Comece pelo primeiro parêntese da
 Abriremos uma coluna para colocarmos a negação ~ . Veja que ~ é a negação de . Complete a coluna ~ com e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-13.png)
 
 
 |~|
@@ -2450,51 +2450,51 @@ Abriremos uma coluna para colocarmos a negação ~ . Veja que ~ é a negação d
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-26.png)
 
 
 Tabela: Tabela-verdade do passo 2.Ana Lúcia de Sousa. 
@@ -2504,15 +2504,15 @@ Tabela: Tabela-verdade do passo 2.Ana Lúcia de Sousa.
 Abriremos uma coluna para colocarmos a proposição ~ . Em seguida, completaremos a coluna com de acordo com a análise da coluna com a coluna e o conectivo "ou" ( ). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-31.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-32.png)
 
 
 |~|~|
@@ -2521,67 +2521,67 @@ Abriremos uma coluna para colocarmos a proposição ~ . Em seguida, completaremo
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-37.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-38.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-39.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-40.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-41.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-41.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-42.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-43.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-43.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-44.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-45.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-45.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-46.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-47.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-48.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-48.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0030-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0030-49.png)
 
 
 Tabela: Tabela-verdade do passo 3.Ana Lúcia de Sousa. 
@@ -2597,15 +2597,15 @@ Verificar o outro parêntese.
 Abriremos uma coluna para colocarmos a negação ~ . Veja que ~ é a negação de . Complete a coluna ~ com e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-04.png)
 
 
 |~<br>~<br>~|
@@ -2614,83 +2614,83 @@ Abriremos uma coluna para colocarmos a negação ~ . Veja que ~ é a negação d
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-25.png)
 
 
 Tabela: Tabela-verdade do passo 4.Ana Lúcia de Sousa. 
@@ -2700,15 +2700,15 @@ Tabela: Tabela-verdade do passo 4.Ana Lúcia de Sousa.
 Abriremos uma coluna para colocarmos a proposição ~ . Em seguida, completaremos a coluna com e de acordo com a análise da coluna ~ com a coluna q e o conectivo "e" ( ). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-31.png)
 
 
 |~<br>~<br>~<br>~|
@@ -2717,99 +2717,99 @@ Abriremos uma coluna para colocarmos a proposição ~ . Em seguida, completaremo
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-33.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-37.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-38.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-39.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-40.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-41.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-41.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-42.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-43.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-43.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-44.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-45.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-45.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-46.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-47.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-48.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-48.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-49.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-50.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-50.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-51.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-51.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-52.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-52.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-53.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-53.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-54.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-54.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-55.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-55.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-56.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-56.png)
 
 
 Tabela: Tabela-verdade do passo 5.Ana Lúcia de Sousa. 
@@ -2821,17 +2821,17 @@ Lembre-se de que, de acordo com a tabela-verdade da conjunção ( ), ela é verd
 Agora que já analisamos os dois parênteses, vamos verificar a condicional que une os parênteses. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-61.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-61.png)
 
 
 Abra uma coluna e coloque a proposição ( ~ ) → (~ ). Em seguida, complete a coluna com e de acordo com a análise da coluna ( ~ ) com a coluna (~ ) e o conectivo "se... então" . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-63.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-63.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-64.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-64.png)
 
 
 |~<br>~<br>~<br>~<br>(<br>~<br>)→(~<br>)|
@@ -2840,95 +2840,95 @@ Abra uma coluna e coloque a proposição ( ~ ) → (~ ). Em seguida, complete a 
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-66.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-66.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-67.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-67.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-68.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-68.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-69.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-69.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-70.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-70.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-71.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-71.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-72.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-72.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-73.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-73.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-74.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-74.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-75.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-75.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-76.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-76.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-77.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-77.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-78.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-78.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-79.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-79.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-80.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-80.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-81.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-81.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-82.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-82.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-83.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-83.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-84.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-84.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-85.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-85.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0031-86.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0031-86.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-00.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-01.png)
 
 
 |~<br>~<br>~<br>~<br>(<br>~<br>)→(~<br>)|
@@ -2937,31 +2937,31 @@ Abra uma coluna e coloque a proposição ( ~ ) → (~ ). Em seguida, complete a 
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-09.png)
 
 
 Tabela: Tabela-verdade do passo 6.Ana Lúcia de Sousa. 
@@ -2969,7 +2969,7 @@ Tabela: Tabela-verdade do passo 6.Ana Lúcia de Sousa.
 Lembre-se de que, de acordo com a tabela-verdade da condicional (→), ela é falsa quando o antecedente é verdadeiro e o consequente é falso. Nos demais casos, a condicional é verdadeira. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-12.png)
 
 
 Agora, você pode construir a tabela-verdade de qualquer proposição composta. 
@@ -2983,14 +2983,14 @@ Questão 1
 Quantas dessas proposições compostas são verdadeiras? 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-18.png)
 
 
 <!-- Start of picture text -->
 A Nenhuma<br>B Apenas uma<br>C<br>Apenas duas<br><!-- End of picture text -->
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-19.png)
 
 
 <!-- Start of picture text -->
@@ -2999,7 +2999,7 @@ D Apenas três<br><!-- End of picture text -->
 E Quatro 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0032-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0032-21.png)
 
 
 A alternativa C está correta. 
@@ -3007,14 +3007,14 @@ A alternativa C está correta.
 Vamos analisar o valor lógico de cada proposição considerando que e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0033-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0033-00.png)
 
 
 <!-- Start of picture text -->
 (1)<br><!-- End of picture text -->
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0033-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0033-01.png)
 
 
 <!-- Start of picture text -->
@@ -3027,7 +3027,7 @@ Você já deve ter percebido queo conhecimento teórico sobre conectivos lógico
 ##### Conteúdo interativo 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0034-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0034-01.png)
 
 
 Acesse a versão digital para assistir ao vídeo. 
@@ -3041,7 +3041,7 @@ Solução:
 Devemos determinar se o valor lógico do enunciado é falso ou verdadeiro. De acordo com a informação dada , podemos determinar o valor lógico de e . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0034-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0034-07.png)
 
 
 , onde o conectivo é a conjunção. 
@@ -3051,7 +3051,7 @@ De acordo com a tabela-verdade da conjunção, ela só é verdadeira quando as d
 Temos: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0034-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0034-11.png)
 
 
 Nesse enunciado, temos dois parênteses. Não esqueça que começamos sempre com os parênteses. 
@@ -3061,19 +3061,19 @@ O valor lógico de no primeiro parêntese.
 No segundo parêntese, temos uma condicional 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0034-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0034-15.png)
 
 
 De acordo com a tabela-verdade da condicional, quando o antecedente é verdadeiro e o consequente é falso, o valor lógico da proposição é falso. Nos demais casos, a condicional é verdadeira. Logo, 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0034-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0034-17.png)
 
 
 Temos, então: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0035-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0035-00.png)
 
 
 Por último, vamos analisar outra condicional que une . 
@@ -3081,7 +3081,7 @@ Por último, vamos analisar outra condicional que une .
 Considerando o mesmo raciocínio, podemos concluir que o valor lógico da proposição é verdadeiro. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0035-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0035-03.png)
 
 
 Conclusão: o valor lógico do enunciado é verdadeiro. 
@@ -3093,7 +3093,7 @@ Após o estudo desse primeiro exemplo, que tal ampliar seus conhecimentos com ma
 Neste vídeo, você vai ver alguns exemplos práticos para determinar o valor lógico de proposições utilizando conectivos lógicos como conjunção, condicional, bicondicional e disjunção. Você vai aprender em detalhes como construir e analisar tabelas-verdade para resolver problemas lógicos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0035-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0035-08.png)
 
 
 Conteúdo interativo 
@@ -3113,7 +3113,7 @@ Conectivo: Conjunção.
 A conjunção é verdadeira sempre que as duas proposições envolvidas são verdadeiras. Nos demais casos, ela é falsa. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0036-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0036-01.png)
 
 
 Logo, o valor lógico da proposição é falso. 
@@ -3125,7 +3125,7 @@ Conectivo: Condicional.
 A condicional é falsa sempre que o antecedente for verdadeiro e o consequente for falso. Nos demais casos, ela é verdadeira. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0036-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0036-06.png)
 
 
 Logo, o valor lógico da proposição é verdadeiro. 
@@ -3137,7 +3137,7 @@ Conectivo: Bicondicional.
 A bicondicional é verdadeira sempre que as duas proposições envolvidas são ambas verdadeiras ou ambas falsas. Nos demais casos, ela é falsa. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0036-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0036-11.png)
 
 
 Logo, o valor lógico da proposição é falso. 
@@ -3149,7 +3149,7 @@ Conectivo: Disjunção.
 A disjunção é falsa apenas se as duas proposições envolvidas são falsas. Nos demais casos, ela é verdadeira. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0036-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0036-16.png)
 
 
 Logo, o valor lógico da proposição é verdadeiro. 
@@ -3163,17 +3163,17 @@ Para colocarmos os parênteses, devemos seguir a ordem de precedência dada nest
 Seja a proposição composta: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0037-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0037-05.png)
 
 
 Veja que o conectivo mais forte nessa proposição é a bicondicional. Com os parênteses ela fica do seguinte modo: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0037-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0037-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0037-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0037-08.png)
 
 
 Agora, considere a proposição 
@@ -3181,7 +3181,7 @@ Agora, considere a proposição
 Nessa proposição, o conectivo mais forte é a condicional. Colocando o parêntese, temos: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0037-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0037-11.png)
 
 
 ## Atividade 4 
@@ -3201,7 +3201,7 @@ D Verdadeiro apenas se 2 + 4 = 7 for verdadeiro
 E Falso apenas se for falso 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0038-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0038-02.png)
 
 
 A alternativa B está correta. 
@@ -3217,7 +3217,7 @@ Determinar o valor lógico da proposição composta através da tabela-verdade n
 Neste vídeo, você vai aprender a determinar o valor lógico da proposição composta através da tabela-verdade e conhecer conceitos novos. Você vai, ainda, aprender a identificar, por meio do resultado da última coluna da tabela, se a proposição composta é uma tautologia, uma contradição ou uma contingência. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-04.png)
 
 
 ##### Conteúdo interativo 
@@ -3233,21 +3233,21 @@ Determinar o valor lógico da proposição composta através da tabela-verdade n
 Para compreender esse conceito, vamos considerar a seguinte proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-11.png)
 
 
 Vamos construir sua tabela-verdade. Veja que não é simples analisar o valor lógico dessa proposição (5ª coluna da tabela): 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-15.png)
 
 
 |~<br>~<br>~<br>~<br>~<br>~<br> ↔~<br>~|
@@ -3256,115 +3256,115 @@ Vamos construir sua tabela-verdade. Veja que não é simples analisar o valor l�
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-31.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-32.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-33.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-37.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-38.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-39.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-40.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-41.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-41.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-42.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-43.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-43.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0039-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0039-44.png)
 
 
 Tabela: Tabela verdade de tautologia.Ana Lúcia de Sousa. 
@@ -3378,7 +3378,7 @@ Contradição
 Para compreender esse conceito, vamos considerar a seguinte proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-01.png)
 
 
 Vamos construir sua tabela-verdade e analisar o resultado da última coluna da tabela. 
@@ -3390,115 +3390,115 @@ Vamos construir sua tabela-verdade e analisar o resultado da última coluna da t
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-31.png)
 
 
 Tabela: Tabela verdade de contradição.Ana Lúcia de Sousa. 
@@ -3516,7 +3516,7 @@ Dizemos que uma proposição é uma contradição se seu valor lógico é (falso
 Para compreender esse conceito, vamos considerar a seguinte proposição: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-39.png)
 
 
 Vamos construir sua tabela-verdade e analisar o resultado da última coluna da tabela 
@@ -3528,115 +3528,115 @@ Vamos construir sua tabela-verdade e analisar o resultado da última coluna da t
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-42.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-43.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-43.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-44.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-45.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-45.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-46.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-47.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-48.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-48.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-49.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-50.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-50.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-51.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-51.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-52.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-52.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-53.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-53.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-54.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-54.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-55.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-55.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-56.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-56.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-57.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-57.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-58.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-58.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-59.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-59.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-60.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-60.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-61.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-61.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-62.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-62.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-63.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-63.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-64.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-64.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-65.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-65.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-66.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-66.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-67.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-67.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-68.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-68.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0040-69.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0040-69.png)
 
 
 Tabela: Tabela verdade de contingência.Ana Lúcia de Sousa. 
@@ -3652,11 +3652,11 @@ Questão 1
 (ENADE/2011) Com relação ao valor lógico, avalie as afirmações a seguir.1. 2. 3. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-06.png)
 
 
 4. 
@@ -3664,14 +3664,14 @@ Questão 1
 É tautologia apenas o que se afirma em: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-09.png)
 
 
 <!-- Start of picture text -->
 A I<br>B II<br>C<br>I e III<br>D II e IV<br>E III e IV<br><!-- End of picture text -->
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-10.png)
 
 
 ##### A alternativa B está correta. 
@@ -3683,11 +3683,11 @@ Nessa questão, é necessário construir a tabela-verdade de cada afirmação. T
 ###### I. ¬( ∧ ¬ ) 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-16.png)
 
 
 |~<br>**∧**¬<br>¬(<br>**∧**¬<br>)|
@@ -3696,83 +3696,83 @@ Nessa questão, é necessário construir a tabela-verdade de cada afirmação. T
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-31.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-32.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-33.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0041-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0041-37.png)
 
 
 Na última coluna da tabela, não temos uma tautologia. A afirmação I não é uma tautologia. 
@@ -3780,15 +3780,15 @@ Na última coluna da tabela, não temos uma tautologia. A afirmação I não é 
 II. → ( → ) 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-02.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-04.png)
 
 
 |→<br> →(<br> →<br>)|
@@ -3797,87 +3797,87 @@ II. → ( → )
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-21.png)
 
 
 Na última coluna da tabela, temos uma tautologia. A afirmação II é uma tautologia. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-23.png)
 
 
 III. ( ¬ ) → ¬ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-27.png)
 
 
 |¬<br>¬<br>¬<br>(<br>¬<br>)→¬|
@@ -3886,121 +3886,121 @@ III. ( ¬ ) → ¬
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-31.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-32.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-33.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-34.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-35.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-35.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-36.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-36.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-37.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-37.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-38.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-38.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-39.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-39.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-40.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-40.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-41.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-41.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-42.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-42.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-43.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-43.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-44.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-44.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-45.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-45.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-46.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-46.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-47.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-47.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-48.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-48.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-49.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-49.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-50.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-50.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-51.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-51.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-52.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-52.png)
 
 
 Na última coluna da tabela, não temos uma tautologia. A afirmação III não é uma tautologia. IV. ( ) (¬ ¬ ) 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-54.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-54.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-55.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-55.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-56.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-56.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-57.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-57.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-58.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-58.png)
 
 
 |¬<br>¬<br>¬<br>¬<br>(<br>)<br>(¬<br>¬<br>)|
@@ -4009,115 +4009,115 @@ Na última coluna da tabela, não temos uma tautologia. A afirmação III não �
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-60.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-60.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-61.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-61.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-62.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-62.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-63.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-63.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-64.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-64.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-65.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-65.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-66.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-66.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-67.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-67.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-68.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-68.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-69.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-69.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-70.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-70.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-71.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-71.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-72.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-72.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-73.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-73.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-74.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-74.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-75.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-75.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-76.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-76.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-77.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-77.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-78.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-78.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-79.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-79.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-80.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-80.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-81.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-81.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-82.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-82.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-83.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-83.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-84.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-84.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-85.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-85.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-86.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-86.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0042-87.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0042-87.png)
 
 
 Na última coluna da tabela, não temos uma tautologia. A afirmação IV não é uma tautologia. Podemos concluir que somente a afirmação II é uma tautologia. 
@@ -4131,7 +4131,7 @@ Neste vídeo, você vai conhecer os conceitos fundamentais da álgebra booleana,
 ##### Conteúdo interativo 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0043-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0043-01.png)
 
 
 Acesse a versão digital para assistir ao vídeo. 
@@ -4163,7 +4163,7 @@ Considera-se, na álgebra booleana:
 São tipos de expressões booleanas: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0043-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0043-16.png)
 
 
 #### Operações na álgebra booleana 
@@ -4173,7 +4173,7 @@ São tipos de expressões booleanas:
 Operador: OR (ou). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0043-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0043-20.png)
 
 
 Essa operação equivale à operação 
@@ -4223,7 +4223,7 @@ Agora, conheceremos a tabela-verdade dos operadores AND, OR e NOT e a construç�
 Seja a expressão S = Ā em que A é uma variável booleana. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-14.png)
 
 
 |1<br>0|
@@ -4249,15 +4249,15 @@ Veja que:
 Seja a expressão S = A ∙ B, em que A e B são variáveis boolenas. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-26.png)
 
 
 |1|1|1|
@@ -4277,15 +4277,15 @@ Observe que o resultado será 1 (verdadeiro) somente se as duas variáveis boole
 Seja a expressão S = A + B, onde A e B são variáveis booleanas. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-32.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-33.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-33.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0044-34.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0044-34.png)
 
 
 |1<br>1|1|
@@ -4295,15 +4295,15 @@ Seja a expressão S = A + B, onde A e B são variáveis booleanas.
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-00.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-01.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-02.png)
 
 
 |0|1|1|
@@ -4327,11 +4327,11 @@ Solução:
 Vamos identificar inicialmente as variáveis booleanas. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-12.png)
 
 
 Variáveis booleanas: e 
@@ -4339,15 +4339,15 @@ Variáveis booleanas: e
 Lembre-se de que essa tabela possui linhas, pois possui 3 variáveis. Nas primeiras colunas, devemos colocar as variáveis e , com seus respectivos valores 1 ou . Em seguida, devemos seguir o mesmo procedimento realizado no módulo 2, para ou . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-17.png)
 
 
 |1|1|1|
@@ -4367,7 +4367,7 @@ Tabela: Primeira tabela-verdade do exemplo 1.Ana Lúcia de Sousa.
 Agora, vamos abrir uma coluna para a operação que está dentro do primeiro parêntese (A ∙ B). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0045-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0045-21.png)
 
 
 |1<br>1<br>1<br>1|
@@ -4376,7 +4376,7 @@ Agora, vamos abrir uma coluna para a operação que está dentro do primeiro par
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0046-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0046-00.png)
 
 
 |1|1|0|1|
@@ -4397,7 +4397,7 @@ A operação utilizada é AND. Nessa operação, o resultado será 1 (verdadeiro
 Agora, vamos abrir a próxima coluna para a operação (B + C). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0046-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0046-05.png)
 
 
 |1|1|1|1|1|
@@ -4419,7 +4419,7 @@ A operação utilizada é OR. Nessa operação, o resultado será 0 (falso) some
 Por último, abrimos a última coluna para a expressão completa S = (A ∙ B) ∙ (B + C). 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0046-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0046-10.png)
 
 
 |1|1|1|1|1<br>1|
@@ -4430,7 +4430,7 @@ Por último, abrimos a última coluna para a expressão completa S = (A ∙ B) �
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0047-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0047-00.png)
 
 
 |1|0|0|0|0|0|
@@ -4455,11 +4455,11 @@ Solução:
 Vamos identificar, inicialmente, as variáveis booleanas. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0047-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0047-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0047-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0047-09.png)
 
 
 Variáveis booleanas: e 
@@ -4467,7 +4467,7 @@ Variáveis booleanas: e
 Lembre-se de que essa tabela apresenta linhas, pois possui 2 variáveis. Nas primeiras colunas, devemos colocar as variáveis e , com seus respectivos valores 1 ou 0 . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0047-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0047-12.png)
 
 
 |1|1|0|1|
@@ -4501,27 +4501,27 @@ Na álgebra booleana, também devemos ficar atentos aos parênteses e à ordem d
 (ENADE/2017) A álgebra booleana possui um operador unário ~, conhecido como NÃO, e os operadores binários *e +, conhecidos como Ee OU, respectivamente. A tabela-verdade é utilizada para validar uma fórmula composta de operadores da álgebra booleana. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0048-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0048-06.png)
 
 
 A seguir, é apresentada a tabela-verdade para as proposições p, q e r diante da fórmula , em que representa uma proposição verdadeira e F, uma proposição falsa. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0048-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0048-08.png)
 
 
 A + ~ * ~ B + * ~ C ~ + * D ∼ + ∼ * E ∼ + * ∼ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0048-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0048-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0048-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0048-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0048-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0048-12.png)
 
 
 A alternativa C está correta. 
@@ -4533,15 +4533,15 @@ Dessa forma, a colocação do parêntese em cada alternativa fica da seguinte fo
 A) ( + ∼ ) * ∼ B) ( + ) * ∼ C) (∼ + ) * D) (∼ + ∼ ) * E) (∼ + ) * ∼ 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0049-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0049-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0049-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0049-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0049-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0049-05.png)
 
 
 Analisando as alternativas: 
@@ -4553,13 +4553,13 @@ Vamos verificar esses valores lógicos em cada alternativa. A alternativa corret
 A) ( + ∼ ) * ∼ . INCORRETA, pois ( + ) * = * = 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0049-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0049-10.png)
 
 
 C) (∼ + ) * . CORRETA, pois ( + ) * = * = D) (∼ + ∼ ) * . INCORRETA, pois ( + ) * = * = E) (∼ + ) * ∼ . INCORRETA, pois ( + ) * = * = 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0049-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0049-12.png)
 
 
 4. Conceitos de implicação lógica, equivalência e regras de inferência 
@@ -4571,7 +4571,7 @@ O conhecimento teórico sobre implicações lógicas nos ajuda a compreender a r
 Neste vídeo, você vai conhecer as implicações lógicas, um conceito central na lógica proposicional que estabelece a relação de dependência entre duas proposições. Você também vai aprender como uma proposição p implica logicamente uma proposição q usando a notação . Você vai, por fim, entender, com exemplos práticos, como e , o processo de verificação, utilizando tabelas-verdade. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-04.png)
 
 
 ##### Conteúdo interativo 
@@ -4579,7 +4579,7 @@ Neste vídeo, você vai conhecer as implicações lógicas, um conceito central 
 Acesse a versão digital para assistir ao vídeo. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-07.png)
 
 
 Vamos considerar duas proposições compostas e 
@@ -4589,7 +4589,7 @@ Podemos dizer que a proposição implica logicamente a proposição , se a propo
 Para indicar essa implicação, usamos a seguinte notação: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-11.png)
 
 
 #### Exemplo 1 
@@ -4597,77 +4597,77 @@ Para indicar essa implicação, usamos a seguinte notação:
 Vamos verificar se a proposição composta implica logicamente a proposição composta , através da tabela-verdade. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-14.png)
 
 
 Simbolicamente: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-24.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-25.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-25.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-26.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-26.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-27.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-28.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-28.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-29.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-29.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-30.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-30.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-31.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-31.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0050-32.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0050-32.png)
 
 
 Tabela: Tabela-verdade do exemplo 1.Ana Lúcia de Sousa. 
@@ -4675,7 +4675,7 @@ Tabela: Tabela-verdade do exemplo 1.Ana Lúcia de Sousa.
 Veja que, na primeira linha da tabela-verdade, a proposição tem o valor lógico verdadeiro, e o mesmo ocorre com a proposição . Portanto, podemos dizer que implica logicamente , ou, ainda, . 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-01.png)
 
 
 Atenção 
@@ -4691,71 +4691,71 @@ Solução
 Vamos construir a tabela-verdade. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-15.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-16.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-17.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-17.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-18.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-19.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-19.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-20.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-20.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-21.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-21.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-22.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-23.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-23.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-24.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-24.png)
 
 
 Tabela: Tabela-verdade do exemplo 2.Ana Lúcia de Sousa. 
@@ -4763,7 +4763,7 @@ Tabela: Tabela-verdade do exemplo 2.Ana Lúcia de Sousa.
 Veja que, nas duas últimas linhas, temos que a proposição é verdadeira e a proposição é falsa. Logo, é falso que: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0051-27.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0051-27.png)
 
 
 ## Atividade 1 
@@ -4775,7 +4775,7 @@ Os conectivos condicionais permitem a análise de implicações entre proposiç�
 A Verdadeiro B Falso C Indeterminado D Verdadeiro apenas se q for verdadeiro E Falso apenas se p for falso 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0052-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0052-01.png)
 
 
 ##### A alternativa A está correta. 
@@ -4789,7 +4789,7 @@ O conhecimento teórico sobre equivalências lógicas garante a precisão em arg
 Neste vídeo, você vai aprender sobre equivalências lógicas, um conceito central na lógica proposicional que permite verificar quando duas proposições são logicamente equivalentes. Você também vai ver as tabelasverdade e as leis de equivalência, bem como exemplos práticos que ilustram como identificar e aplicar equivalências lógicas em diferentes contextos. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0052-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0052-07.png)
 
 
 ##### Conteúdo interativo 
@@ -4799,7 +4799,7 @@ Acesse a versão digital para assistir ao vídeo.
 Sejam e duas proposições compostas. Dizemos que uma proposição é equivalente a uma proposição se as tabelas-verdade dessas proposições forem iguais. Usamos a seguinte notação: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-00.png)
 
 
 Podemos relacionar as equivalências e as tautologias. Dessa forma, dizemos que as proposições e são equivalentes se e somente se ↔ é uma tautologia. Além disso, elas também são equivalentes se forem uma tautologia ou uma contradição. 
@@ -4823,53 +4823,53 @@ Observe a tabela a seguir.
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-05.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-08.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-09.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-09.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-10.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-11.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-12.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-13.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-14.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0053-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0053-15.png)
 
 
 Tabela: Tabela de equivalências.Ana Lucia de Sousa. As equivalências que aparecem com frequências são: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0054-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0054-00.png)
 
 
 <!-- Start of picture text -->
@@ -4894,7 +4894,7 @@ Solução:
 Nessa questão, devemos buscar uma proposição equivalente a: Se Marcos levanta cedo, então Júlia não perde a hora. Considerando: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0055-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0055-08.png)
 
 
    - Marcos levanta cedo. 
@@ -4902,7 +4902,7 @@ Nessa questão, devemos buscar uma proposição equivalente a: Se Marcos levanta
 - 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0055-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0055-11.png)
 
 
    - Júlia não perde a hora. 
@@ -4952,13 +4952,13 @@ Temos, então: ~(~ ~ ) Aplicando as Leis de De Morgan: Negação do "ou": Assim,
 Com relação à condicional → , temos as seguintes proposições associadas: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0056-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0056-13.png)
 
 
 - Proposição recíproca → 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0056-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0056-15.png)
 
 
 - Proposição contrária ~ → ~ 
@@ -4978,7 +4978,7 @@ A Se jogo, não é feriado.
 - C Se é feriado, não leio. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0057-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0057-00.png)
 
 
 <!-- Start of picture text -->
@@ -4991,7 +4991,7 @@ O conhecimento teórico sobre as regras de inferência ajuda a validar argumento
 Neste vídeo, você vai aprender sobre as principais regras de inferência utilizadas para validar argumentos lógicos. Você também vai ver exemplos práticos de como aplicar regras como modus ponens, modus tollens, silogismo hipotético e outras para simplificar e verificar a veracidade de proposições complexas. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0058-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0058-02.png)
 
 
 ##### Conteúdo interativo 
@@ -5021,7 +5021,7 @@ Não sabemos. Podemos verificar a validade de um argumento através da construç
 Diante de situações como essa, podemos usar as regras de inferência, que são argumentos válidos e/ou regras lógicas usados na validação de outros argumentos. Com as regras de inferência, podemos realizar as demonstrações de maneira mais simples. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0058-16.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0058-16.png)
 
 
 Homem concentrado sentado em frente ao computador. 
@@ -5033,7 +5033,7 @@ As regras de inferência são importantes para os estudantes de computação no 
 As premissas são colocadas sobre o traço horizontal. Abaixo dele temos a conclusão. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0059-00.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0059-00.png)
 
 
 ### Exemplo 
@@ -5041,7 +5041,7 @@ As premissas são colocadas sobre o traço horizontal. Abaixo dele temos a concl
 (Fundação Carlos Chagas - Adaptado) Consideraremos as seguintes proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0059-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0059-03.png)
 
 
 A temperatura está baixa. Há nevoeiro. 
@@ -5049,15 +5049,15 @@ A temperatura está baixa. Há nevoeiro.
 Conclusão: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0059-06.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0059-06.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0059-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0059-07.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0059-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0059-08.png)
 
 
 A temperatura está baixa ou há nevoeiro. 
@@ -5067,7 +5067,7 @@ A temperatura está baixa ou há nevoeiro.
 Observe a proposição seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0059-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0059-12.png)
 
 
 ### Exemplo 
@@ -5081,7 +5081,7 @@ Modus ponens (MP)
 Observe a proposição seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0060-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0060-01.png)
 
 
 ### Exemplo 
@@ -5089,7 +5089,7 @@ Observe a proposição seguir.
 (Fundação Carlos Chagas - Adaptado) Consideraremos as seguintes proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0060-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0060-04.png)
 
 
 A temperatura está baixa. Há nevoeiro. Se a temperatura está baixa então há nevoeiro. A temperatura está baixa. 
@@ -5097,7 +5097,7 @@ A temperatura está baixa. Há nevoeiro. Se a temperatura está baixa então há
 Conclusão: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0060-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0060-07.png)
 
 
 Há nervoeiro. 
@@ -5107,7 +5107,7 @@ Modus tollens (MT)
 Observe a proposição seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0060-11.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0060-11.png)
 
 
 ### Exemplo 
@@ -5115,7 +5115,7 @@ Observe a proposição seguir.
 (Fundação Carlos Chagas - Adaptado) Consideraremos as seguintes proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0060-14.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0060-14.png)
 
 
 : A temperatura está baixa. : Há nevoeiro. : Se a temperatura está baixa então há nevoeiro. : Não há nevoeiro. 
@@ -5129,7 +5129,7 @@ Conclusão:
 Observe a proposição seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0061-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0061-02.png)
 
 
 ### Exemplo 
@@ -5141,7 +5141,7 @@ A temperatura está baixa. Há nevoeiro. Os aviões não decolam. → Se a tempe
 Conclusão: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0061-07.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0061-07.png)
 
 
 → Se a temperatura está baixa então os aviões não decolam. 
@@ -5149,7 +5149,7 @@ Conclusão:
 #### Silogismo disjuntivo (SD) 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0061-10.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0061-10.png)
 
 
 ### Exemplo 
@@ -5157,7 +5157,7 @@ Conclusão:
 (Fundação Carlos Chagas - Adaptado) Consideraremos as seguintes proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0061-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0061-13.png)
 
 
 A temperatura está baixa. Há nevoeiro. A temperatura está baixa ou há nevoeiro. ∼ : A temperatura não está baixa. 
@@ -5167,21 +5167,21 @@ Conclusão:
 Há nevoeiro. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-01.png)
 
 
 Também podemos considerar: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-03.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-03.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-04.png)
 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-05.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-05.png)
 
 
 A temperatura está baixa ou há nevoeiro. ∼ Não há nevoeiro. 
@@ -5189,7 +5189,7 @@ A temperatura está baixa ou há nevoeiro. ∼ Não há nevoeiro.
 Conclusão 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-08.png)
 
 
 Há nevoeiro. A temperatura está baixa. 
@@ -5199,7 +5199,7 @@ Há nevoeiro. A temperatura está baixa.
 Observe a proposição seguir. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-12.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-12.png)
 
 
 ### Exemplo 
@@ -5207,7 +5207,7 @@ Observe a proposição seguir.
 (Fundação Carlos Chagas - Adaptado) Consideraremos as seguintes proposições: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-15.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-15.png)
 
 
 A temperatura está baixa. Há nevoeiro. 
@@ -5215,7 +5215,7 @@ A temperatura está baixa. Há nevoeiro.
 Conclusão: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0062-18.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0062-18.png)
 
 
 ## Atividade 3 
@@ -5229,7 +5229,7 @@ nas premissas fornecidas, temos estas proposições: : A temperatura está baixa
 A Modus tollens B Silogismo hipotético C Modus ponens D Regra da adição E Regra da simplificação 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0063-02.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0063-02.png)
 
 
 ##### A alternativa C está correta. 
@@ -5243,7 +5243,7 @@ As regras de inferência são fundamentais para a matemática, a lógica e a com
 Neste vídeo, você vai aprender a utilizar as regras de inferência para validar argumentos lógicos. Você também vai ver exemplos práticos de como identificar e aplicar premissas e conclusões para determinar a validade de um argumento, um processo de dedução lógica explicado passo a passo. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0063-08.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0063-08.png)
 
 
 ##### Conteúdo interativo 
@@ -5259,7 +5259,7 @@ Um argumento é formado por um conjunto de proposições simples ou compostas, e
 O restante das proposições são as premissas ou hipóteses do argumento. Um argumento apresenta uma sequência de premissas: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0064-01.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0064-01.png)
 
 
 Premissa 1 Premissa 2 Premissa 3 Premissa 
@@ -5267,7 +5267,7 @@ Premissa 1 Premissa 2 Premissa 3 Premissa
 Logo, podemos indicar um argumento por: 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0064-04.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0064-04.png)
 
 
 Dessa forma, podemos dizer que a conclusão se deduz das premissas, ou que a conclusão decorre das premissas. 
@@ -5337,7 +5337,7 @@ A Maria não estudou.
 - E O exame é difícil. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0065-13.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0065-13.png)
 
 
 ##### A alternativa A está correta. 
@@ -5393,7 +5393,7 @@ Assim, a conclusão válida é Maria não estudou.
 Ouça o podcast com um resumo do conteúdo estudado. 
 
 
-![](Tema 5 - Cálculo Proposicional/input.pdf-0066-22.png)
+![](Tema%205%20-%20C%C3%A1lculo%20Proposicional/input.pdf-0066-22.png)
 
 
 ##### Conteúdo interativo 

@@ -53,7 +53,7 @@ E
 AR310. 
 
 
-![](Tema 8 - Praticando/input.pdf-0004-11.png)
+![](Tema%208%20-%20Praticando/input.pdf-0004-11.png)
 
 
 ##### A alternativa A está correta. 
@@ -79,7 +79,7 @@ Desafio 2
 Você está trabalhando como analista de sistemas em uma empresa de tecnologia que desenvolve softwares de segurança para bancos. Sua tarefa é criar senhas seguras utilizando números de 4 dígitos distintos, escolhidos a partir dos algarismos de 1 a 9. No entanto, para aumentar a segurança, cada senha deve necessariamente conter pelo menos um dígito 2 e um dígito 5. Sua tarefa é calcular o número total de senhas possíveis que atendem a esses critérios, para garantir que o sistema seja à prova de fraudes. 
 
 
-![](Tema 8 - Praticando/input.pdf-0005-08.png)
+![](Tema%208%20-%20Praticando/input.pdf-0005-08.png)
 
 
 <!-- Start of picture text -->
@@ -88,7 +88,7 @@ A<br>A49.<br>B<br>A29.<br>C<br>C47.<br>D<br>C49 - C47.<br>E<br><!-- End of pictu
 A49 - A47. 
 
 
-![](Tema 8 - Praticando/input.pdf-0006-01.png)
+![](Tema%208%20-%20Praticando/input.pdf-0006-01.png)
 
 
 ##### A alternativa E está correta. 
@@ -124,7 +124,7 @@ B 150. C 400. D 1200. E
 ###### 2400. 
 
 
-![](Tema 8 - Praticando/input.pdf-0007-03.png)
+![](Tema%208%20-%20Praticando/input.pdf-0007-03.png)
 
 
 ##### A alternativa A está correta. 
@@ -160,11 +160,11 @@ C
 . E 
 
 
-![](Tema 8 - Praticando/input.pdf-0008-11.png)
+![](Tema%208%20-%20Praticando/input.pdf-0008-11.png)
 
 
 
-![](Tema 8 - Praticando/input.pdf-0008-12.png)
+![](Tema%208%20-%20Praticando/input.pdf-0008-12.png)
 
 
 ##### A alternativa E está correta. 
@@ -190,7 +190,7 @@ Para saber mais sobre esse conteúdo, acesse o módulo 1
 Como analista de mercado em uma grande rede de supermercados, você está encarregado de monitorar os preços de diversas marcas de refrigerantes. Um dos aspectos críticos da sua análise é identificar padrões de preços para determinar estratégias de vendas e promoções. O gráfico a seguir representa as diferentes marcas de refrigerante disponíveis em sua loja e os respectivos preços. Com base em sua análise, você precisa determinar quais conclusões podem ser feitas sobre as diferenças de preços entre as marcas e qual estratégia pode ser mais eficaz para maximizar as vendas, considerando que algumas marcas possuem preços idênticos ou muito próximos. 
 
 
-![](Tema 8 - Praticando/input.pdf-0009-07.png)
+![](Tema%208%20-%20Praticando/input.pdf-0009-07.png)
 
 
 A 
@@ -214,7 +214,7 @@ E
 A mesma marca vende o produto mais caro e mais barato. 
 
 
-![](Tema 8 - Praticando/input.pdf-0010-06.png)
+![](Tema%208%20-%20Praticando/input.pdf-0010-06.png)
 
 
 ##### A alternativa C está correta. 
@@ -240,11 +240,11 @@ Desafio 3
 Como engenheiro responsável pelo desenvolvimento de novos produtos, você precisa entender o comportamento de um corpo em movimento para otimizar o design de um dispositivo de lançamento. Durante um teste, você acompanha a trajetória de um corpo lançado do solo e deve determinar a altura máxima atingida e a distância total percorrida até o ponto de queda. Utilize o gráfico fornecido para identificar o par ordenado que representa esses valores. 
 
 
-![](Tema 8 - Praticando/input.pdf-0011-01.png)
+![](Tema%208%20-%20Praticando/input.pdf-0011-01.png)
 
 
 
-![](Tema 8 - Praticando/input.pdf-0011-02.png)
+![](Tema%208%20-%20Praticando/input.pdf-0011-02.png)
 
 
 <!-- Start of picture text -->
@@ -253,7 +253,7 @@ A<br>(500, 10).<br>B<br>(10, 500).<br>C<br>(20, 0).<br>D<br>(0, 20).<br>E<br><!-
 (500, 20). 
 
 
-![](Tema 8 - Praticando/input.pdf-0012-01.png)
+![](Tema%208%20-%20Praticando/input.pdf-0012-01.png)
 
 
 ##### A alternativa E está correta. 
@@ -301,7 +301,7 @@ E
 30 unidades. 
 
 
-![](Tema 8 - Praticando/input.pdf-0013-09.png)
+![](Tema%208%20-%20Praticando/input.pdf-0013-09.png)
 
 
 ##### A alternativa C está correta. 
@@ -309,7 +309,7 @@ E
 Para resolver essa questão, devemos encontrar o ponto em que o lucro f(x) deixa de ser negativo. A função representa o lucro em função do número de unidades produzidas. O ponto de equilíbrio, onde não há lucro nem prejuízo, ocorre quando f(x)=0. 
 
 
-![](Tema 8 - Praticando/input.pdf-0013-12.png)
+![](Tema%208%20-%20Praticando/input.pdf-0013-12.png)
 
 
 Assim, a quantidade mínima de unidades a serem produzidas para não haver prejuízo é 20 unidades. 
@@ -343,7 +343,7 @@ A
 7. D 9. E 4. 
 
 
-![](Tema 8 - Praticando/input.pdf-0014-09.png)
+![](Tema%208%20-%20Praticando/input.pdf-0014-09.png)
 
 
 ##### A alternativa A está correta. 
@@ -397,7 +397,7 @@ A função f não é nem injetora nem sobrejetora.
 A função f não é definida. 
 
 
-![](Tema 8 - Praticando/input.pdf-0016-00.png)
+![](Tema%208%20-%20Praticando/input.pdf-0016-00.png)
 
 
 ##### A alternativa C está correta. 
@@ -445,7 +445,7 @@ E
 Não é possível obter o valor de S, porque em uma expressão da álgebra booleana não se pode utilizar operadores diferentes em conjunto. 
 
 
-![](Tema 8 - Praticando/input.pdf-0017-10.png)
+![](Tema%208%20-%20Praticando/input.pdf-0017-10.png)
 
 
 ##### A alternativa A está correta. 
@@ -491,7 +491,7 @@ E
 Está chovendo e eu não levo o guarda-chuva. 
 
 
-![](Tema 8 - Praticando/input.pdf-0018-15.png)
+![](Tema%208%20-%20Praticando/input.pdf-0018-15.png)
 
 
 ##### A alternativa E está correta. 
@@ -537,7 +537,7 @@ E
 Ana é prima de Bia e Carlos não é filho de Pedro. 
 
 
-![](Tema 8 - Praticando/input.pdf-0020-00.png)
+![](Tema%208%20-%20Praticando/input.pdf-0020-00.png)
 
 
 ##### A alternativa E está correta. 
@@ -567,7 +567,7 @@ Você está trabalhando como analista de sistemas em uma empresa de tecnologia e
 identificar corretamente as soluções dessas equações dentro de um conjunto específico de números reais. Considere as equações abertas e fornecidas a seguir: 
 
 
-![](Tema 8 - Praticando/input.pdf-0021-01.png)
+![](Tema%208%20-%20Praticando/input.pdf-0021-01.png)
 
 
 Determine qual conjunto representa corretamente o conjunto-verdade da união de e para todos os valores possíveis de no conjunto dos números reais. 
@@ -593,7 +593,7 @@ E
 {1, 4, 5, 9}. 
 
 
-![](Tema 8 - Praticando/input.pdf-0021-13.png)
+![](Tema%208%20-%20Praticando/input.pdf-0021-13.png)
 
 
 A alternativa E está correta. 
@@ -621,7 +621,7 @@ Imagine que você é um matemático contratado para criar um sistema que automat
 A . B . C . D . E . 
 
 
-![](Tema 8 - Praticando/input.pdf-0022-08.png)
+![](Tema%208%20-%20Praticando/input.pdf-0022-08.png)
 
 
 A alternativa B está correta. 
@@ -669,7 +669,7 @@ E
 Nenhum aldeão daquela aldeia dorme a sesta. 
 
 
-![](Tema 8 - Praticando/input.pdf-0024-05.png)
+![](Tema%208%20-%20Praticando/input.pdf-0024-05.png)
 
 
 ##### A alternativa C está correta. 
@@ -695,7 +695,7 @@ Métodos de Demonstração Desafio 1
 Imagine que você é um engenheiro mecânico encarregado de projetar um sistema de engrenagens que inclui dois discos, e , com raios e , conforme imagem a seguir. 
 
 
-![](Tema 8 - Praticando/input.pdf-0025-01.png)
+![](Tema%208%20-%20Praticando/input.pdf-0025-01.png)
 
 
 O sistema exige que os discos girem sem deslizamento, e você precisa garantir que os pontos de contato entre os dois discos não voltem a coincidir após o início do movimento. Suponha que o raio é racional e o raio é irracional. Para prever o comportamento desse sistema ao longo do tempo, você precisa analisar a situação e determinar se os pontos e , que inicialmente estavam em contato, voltarão a coincidir. A seguir, considere as asserções abaixo e julgue sua veracidade. 
@@ -705,11 +705,11 @@ I. Suponhamos, por absurdo, que e se encontram em algum momento após os círcul
 II. Então, seja esse encontro dado, após ter dado m voltas e , n voltas. Dessa forma, temos: 
 
 
-![](Tema 8 - Praticando/input.pdf-0025-05.png)
+![](Tema%208%20-%20Praticando/input.pdf-0025-05.png)
 
 
 
-![](Tema 8 - Praticando/input.pdf-0025-06.png)
+![](Tema%208%20-%20Praticando/input.pdf-0025-06.png)
 
 
 III. Nesse ponto, obtemos um absurdo, pois sendo um número racional e irracional, temos que a razão é um número irracional, enquanto é um número racional, já que para todo . 
@@ -735,7 +735,7 @@ E
 Apenas os itens I e III estão certos. 
 
 
-![](Tema 8 - Praticando/input.pdf-0026-01.png)
+![](Tema%208%20-%20Praticando/input.pdf-0026-01.png)
 
 
 ##### A alternativa D está correta. 
@@ -757,7 +757,7 @@ Suponhamos que é par, isto é, para algum inteiro k.
 Porque 
 
 
-![](Tema 8 - Praticando/input.pdf-0026-11.png)
+![](Tema%208%20-%20Praticando/input.pdf-0026-11.png)
 
 
 , onde é um inteiro. Portanto, é par." 
@@ -783,7 +783,7 @@ E
 Ambas as asserções são proposições falsas. 
 
 
-![](Tema 8 - Praticando/input.pdf-0027-04.png)
+![](Tema%208%20-%20Praticando/input.pdf-0027-04.png)
 
 
 ##### A alternativa A está correta. 
@@ -805,25 +805,25 @@ I. Os fatores são quase impossíveis de localizar manualmente.
 II. Os quatro inteiros positivos produzem um número primo: 
 
 
-![](Tema 8 - Praticando/input.pdf-0027-14.png)
+![](Tema%208%20-%20Praticando/input.pdf-0027-14.png)
 
 
 , é primo. 
 
 
-![](Tema 8 - Praticando/input.pdf-0027-16.png)
+![](Tema%208%20-%20Praticando/input.pdf-0027-16.png)
 
 
 , é primo. 
 
 
-![](Tema 8 - Praticando/input.pdf-0027-18.png)
+![](Tema%208%20-%20Praticando/input.pdf-0027-18.png)
 
 
 , é primo. 
 
 
-![](Tema 8 - Praticando/input.pdf-0027-20.png)
+![](Tema%208%20-%20Praticando/input.pdf-0027-20.png)
 
 
 ,é primo. 
@@ -853,7 +853,7 @@ E
 I, II e III. 
 
 
-![](Tema 8 - Praticando/input.pdf-0028-10.png)
+![](Tema%208%20-%20Praticando/input.pdf-0028-10.png)
 
 
 ##### A alternativa E está correta. 

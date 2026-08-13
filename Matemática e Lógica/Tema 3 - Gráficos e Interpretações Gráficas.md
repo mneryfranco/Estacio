@@ -32,7 +32,7 @@ Reconhecer que, no cotidiano, muitas quantidades dependem de uma ou mais variáv
 
 A matemática é uma linguagem que permite analisar e descrever diversas situações. Este conteúdo apresenta as funções a partir de conceitos elementares, como: intervalos, pontos e plano cartesiano, e contribui para o entendimento das funções, correlacionando-as a uma lista ou tabela em que o plano cartesiano não é nada além do objeto de manifestação gráfica de seus resultados. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0002-16.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0002-16.png)
 
 #### Conteúdo interativo
 
@@ -46,7 +46,7 @@ Acesse a versão digital para assistir ao vídeo.
 
 Este módulo ficará mais fácil e interessante se você começar assistindo a este vídeo. Vamos lá? 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0003-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0003-04.png)
 
 #### Conteúdo interativo
 
@@ -60,7 +60,7 @@ Quando consideramos o intervalo das 9 às 11 horas, temos todos os minutos, segu
 
 No contexto matemático, os intervalos são subconjuntos do conjunto dos números reais R. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0003-11.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0003-11.png)
 
 #### Exemplo
 
@@ -72,7 +72,7 @@ Todos os valores entre 3 e 5. Isso significa, por exemplo, que o número irracio
 
 ### Classificando intervalos na reta numéricas
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0003-17.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0003-17.png)
 
 #### Conteúdo interativo
 
@@ -80,7 +80,7 @@ Acesse a versão digital para assistir ao vídeo.
 
 Intuitivamente, ao pensar em números reais, você deve imaginar uma reta infinita, onde cada ponto dela é um número real. Esse objeto será chamado de Reta Real e admite o símbolo R. Essa reta é organizada de forma crescente do menos infinito (−∞) ao mais infinito (+∞). 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0004-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0004-00.png)
 
 Reta real 
 
@@ -94,9 +94,9 @@ Bola fechada Bola aberta Indica que o extremo do intervalo está contido Indica,
 
 Dessa forma, o intervalo, que pode ser visto na imagem a seguir, compreende todos os números reais de 1 até 6, excluindo o 1 e incluindo o 6. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0004-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0004-07.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0004-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0004-07.png)
 
 ### Transferindo a linguagem
 
@@ -106,13 +106,13 @@ Quando tratarmos do conjunto dos números reais, os símbolos:
 
 É representada por: ≥ (maior ou igual) e ≤ (menor ou igual) ou [ ] (colchetes) Se x **_∈_** R e −4 ≤ x ≤ 2 , isso significa que x pode ser maior que −4 ou igual a −4 e menor que 2 ou igual a 2; portanto, dentro do intervalo. Sobre a notação de conjuntos, podemos representar tal intervalo da seguinte forma: [−4,2] = {x **_∈_** R; −4 ≤ x ≤ 2} Ou seja, todos os números reais a partir do número −4 até o número 2. Um intervalo que possui as extremidades é chamado de intervalo fechado. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0005-02.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0005-02.png)
 
 ##### Bola aberta
 
 É representada por: > (maior) e < (menor) ou ( ) (parênteses) ou ] colchetes [ Se x **_∈_** R e −4 < x < 2 , x pode ser maior que −4 e menor que 2. Portanto, os extremos não fazem parte do conjunto. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0005-05.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0005-05.png)
 
 Sobre a notação de conjuntos, podemos representar tal intervalo da seguinte forma: [−4,2] = {x **_∈_** R; −4 < x < 2} Ou seja, todos os números reais depois do número −4 anteriores ao número 2. Um intervalo que não possui as extremidades é chamado de intervalo aberto. 
 
@@ -122,7 +122,7 @@ A amplitude de um intervalo é sempre definida por:
 
 Portanto, nos casos anteriores, podemos calcular a amplitude do intervalo subtraindo a extremidade mais à direita da extremidade mais à esquerda: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0005-10.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0005-10.png)
 
 Isto é, nos dois casos, o intervalo possui a amplitude de 6 unidades. 
 
@@ -136,15 +136,15 @@ Isso acontece porque, mesmo nos intervalos abertos, é possível pensar que pode
 
 Agora, vamos entender as semirretas. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0006-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0006-00.png)
 
 #### Exemplo
 
 x ∈ R e x ≥ 6 x pode ser maior que 6 ou igual a 6 e, portanto, estará dentro do intervalo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0006-03.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0006-03.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0006-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0006-04.png)
 
 <!-- Start of picture text -->
 
@@ -152,17 +152,17 @@ Intervalo<br><!-- End of picture text -->
 
 Sobre a notação de conjuntos, podemos representar tal intervalo da seguinte forma:` 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0006-06.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0006-06.png)
 
 Ou seja, todos os números reais a partir do número 6. Note que uma semirreta pode possuir, no máximo, uma extremidade e, neste caso, diremos que a semirreta é fechada. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0006-08.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0006-08.png)
 
 #### Exemplo
 
 x ∈ R e x < 6 isso significa que x pode ser apenas menor que 6, e nunca igual a 6; portanto, 6 não está dentro do intervalo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0006-11.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0006-11.png)
 
 6 não está dentro do intervalo. 
 
@@ -174,7 +174,7 @@ Note que uma semirreta tem a amplitude infinita.
 
 Exemplos onde podemos perceber intervalos à nossa volta 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0007-02.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0007-02.png)
 
 Conteúdo interativo 
 
@@ -182,7 +182,7 @@ Acesse a versão digital para assistir ao vídeo.
 
 Designaremos os valores de 1 até 12 como os meses do ano, 1 para janeiro, 2 para fevereiro, e assim por diante, até chegarmos a 12 para dezembro. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0007-06.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0007-06.png)
 
 A partir das informações apresentadas até aqui, tente responder a questão a seguir. 
 
@@ -196,7 +196,7 @@ O segundo trimestre de um ano contém os meses de abril, maio e junho. No gráfi
 
 Logo, o segundo trimestre seria o intervalo dos números que representam os meses de abril, maio e junho, que seriam 4, 5 e 6. Portanto, o intervalo do segundo trimestre seria [4, 6]. Representado pela figura: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0008-03.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0008-03.png)
 
 # Verificando o aprendizado
 
@@ -204,7 +204,7 @@ Logo, o segundo trimestre seria o intervalo dos números que representam os mese
 
 Considere os intervalos a seguir: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0008-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0008-07.png)
 
 | A   | {x_∈_R; −1 < x ≤ 5} e {x_∈_R; 0,5 < x < 3,14} |
 | --- | --------------------------------------------- |
@@ -214,7 +214,7 @@ Considere os intervalos a seguir:
 
 E {x _∈_ R; −1 < x < 5} e {x _∈_ R; 0,5 < x < 3,14} 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0009-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0009-01.png)
 
 #### A alternativa B está correta.
 
@@ -230,11 +230,11 @@ b. {x _∈_ R; 0,5 ≤ x < 3,14} ou os números reais maiores ou iguais a 0,5 e 
 
 Veja, a seguir, o desempenho de um corredor durante uma competição dos 100 metros rasos. A reta em questão mostra a marcação da distância na pista e, a cada 10 metros, é apresentado o desempenho do corredor em comparação à sua velocidade máxima. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0009-09.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0009-09.png)
 
 Em qual dos intervalos a seguir o corredor manteve a sua velocidade maior ou igual à de 99% de sua capacidade máxima. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0009-11.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0009-11.png)
 
 <!-- Start of picture text -->
 
@@ -242,7 +242,7 @@ A [ 50 , 80 ]<br>B [ 30 , 100 ]<br>C [ 0, 50 ) e ( 80 , 100 ]<br><!-- End of pic
 
 D ( 59, 61 ) E [ 50 , ∞ ) 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0010-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0010-01.png)
 
 A alternativa A está correta. 
 
@@ -256,7 +256,7 @@ A palavra maior ou igual presume que estamos considerando o valor de 99% em noss
 
 Este módulo ficará mais fácil e interessante se você começar assistindo ao presente vídeo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0011-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0011-04.png)
 
 #### Conteúdo interativo
 
@@ -266,7 +266,7 @@ Na vida cotidiana, muitas quantidades mensuráveis dependem de uma ou mais vari�
 
 O plano cartesiano é uma das formas mais eficientes para representar o relacionamento entre duas ou mais variáveis. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0011-09.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0011-09.png)
 
 #### Saiba mais
 
@@ -278,7 +278,7 @@ Neste módulo, apresentaremos algumas ideias de como podemos fazer uso dessa fer
 
 ### Entendendo o plano cartesiano, marcando pontos com GeoGebra
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0011-15.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0011-15.png)
 
 #### Conteúdo interativo
 
@@ -286,7 +286,7 @@ Acesse a versão digital para assistir ao vídeo.
 
 O plano cartesiano apresenta duas linhas numéricas: uma horizontal, da esquerda para a direita, e outra vertical, de baixo para cima. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0012-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0012-00.png)
 
 Utiliza-se a letra x para ObserveÀ medida que x À medida que y simbolizar os valores que:aumenta, o ponto se aumenta, o ponto se sobre a reta horizontal move mais para a move mais para e a letra y para direita. Quando x cima. Quando y simbolizar os valores diminui, o ponto se diminui, o ponto se sobre a reta vertical. move mais para a move mais para esquerda. baixo. 
 
@@ -300,7 +300,7 @@ As coordenadas são sempre escritas em determinada ordem. A coordenada horizonta
 
 Par de números em uma ordem especial. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0012-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0012-07.png)
 
 #### Atenção
 
@@ -322,7 +322,7 @@ Pares ordenados para pontos no plano cartesiano. Marcelo Leonardo dos Santos Rai
 
 Agora, marcaremos as coordenadas no plano cartesiano. Sendo a primeira na reta horizontal, abscissa, e a segunda na vertical, ordenada. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0013-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0013-00.png)
 
 Pontos no plano cartesiano 
 
@@ -330,7 +330,7 @@ Vejamos agora um vídeo sobre a aplicação do conceito de plano cartesiano em r
 
 Aplicação do plano cartesiano na robótica 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0013-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0013-04.png)
 
 Conteúdo interativo Acesse a versão digital para assistir ao vídeo. 
 
@@ -340,7 +340,7 @@ Agora, vamos verificar se você entendeu por meio de uma atividade?
 
 Na figura a seguir, vemos o ponto (4, 2). 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0013-09.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0013-09.png)
 
 Diga o que ocorre se movimentássemos o ponto: 
 
@@ -355,7 +355,7 @@ Diga o que ocorre se movimentássemos o ponto:
 
 2. O ponto moveria 3 unidades para a esquerda, parando em (1, 2) e, depois, foi deslocado duas unidades para baixo, parando em (1, 0). 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0014-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0014-07.png)
 
 #### Saiba mais
 
@@ -371,7 +371,7 @@ Um gráfico, nessas condições, é uma estrutura matemática bem definida. Em t
 
 A imagem apresenta um gráfico de setores de uma cidade. Esses setores foram divididos de A a H, e de 0 a 3, assim a identificação de um setor pode ser feita da seguinte forma, como exemplo: A0, B3, F2 etc. Considere que todos os setores foram divididos em áreas iguais (considere os retângulos idênticos), e que existe a necessidade de se realizar uma entrega que saia de B0 e chegue em G0. O gráfico abaixo apresentam duas rotas para que seja realizada a entrega. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0015-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0015-00.png)
 
 Após observar essas rotas, analise as afirmativas "abaixo": 
 
@@ -383,13 +383,13 @@ Após observar essas rotas, analise as afirmativas "abaixo":
 
 Sabendo que a entrega deve ser feita o mais rápido possível, percorrendo a menor distância permitida, assinale a opção correta, sobre a veracidade das afirmações "acima": 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0015-06.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0015-06.png)
 
 <!-- Start of picture text -->
 
 A I- verdadeira, II- verdadeira, III- falsa<br>B I- falsa, II- verdadeira, III- falsa<br>C I- verdadeira, II- falsa, III- falsa<br>D I- verdadeira, II- falsa, III- verdadeira<br>E I- falsa, II- verdadeira, III- verdadeira<br><!-- End of picture text -->
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0015-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0015-07.png)
 
 A alternativa A está correta. 
 
@@ -401,7 +401,7 @@ retângulos verdes, sendo assim, as afirmativas I e II são verdadeiras. Por con
 
 No gráfico abaixo é mostrada a relação da altura de 7 indivíduos, com sua idade: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0016-03.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0016-03.png)
 
 ###### Relação da altura
 
@@ -414,13 +414,13 @@ Após observar o gráfico, assinale a opção que apresenta, respectivamente, o 
 | D   | D e C |
 | E   | A e C |
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0016-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0016-07.png)
 
 #### A alternativa E está correta.
 
 Uma vez que os quadrados possuem áreas iguais e os retângulos são considerados idênticos, o que determina a distância é a quantidade de retângulos pintados. Veja que temos 10 retângulos vermelhos e 7 retângulos verdes, sendo assim, as afirmativas I e II são verdadeiras. Por conta do fato de a entrega ter que ser feita o mais rápido possível, percorrendo o menor caminho, a rota mais adequada é a rota verde, que é mais curta, por isso a afirmativa II é falsa. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0017-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0017-00.png)
 
 Resposta do exercício 
 
@@ -432,7 +432,7 @@ Exemplo de aplicação do plano cartesiano
 
 Este módulo ficará mais fácil e interessante se você começar assistindo ao presente vídeo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0018-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0018-04.png)
 
 Conteúdo interativo 
 
@@ -442,7 +442,7 @@ O que é função?
 
 Evolução do conceito histórico de funções 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0018-09.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0018-09.png)
 
 Conteúdo interativo 
 
@@ -450,7 +450,7 @@ Acesse a versão digital para assistir ao vídeo.
 
 A palavra função apareceu pela primeira vez em um artigo de Gottfried Leibniz, em 1692. Ele chamou de função as quantidades geométricas variáveis relacionadas a uma curva. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0019-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0019-00.png)
 
 #### Gottfried Leibniz
 
@@ -458,13 +458,13 @@ Filósofo alemão (1646 - 1716) e figura central na história da Matemática e d
 
 No entanto, foi Daniel Bernoulli, em 1718, que definiu o conceito de função de maneira formal pela primeira vez, e se tratava de algo bem diferente do que conhecemos hoje em dia. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0020-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0020-00.png)
 
 #### Daniel Bernoulli
 
 Matemático suíço (1700 - 1782), lembrado por suas aplicações da Matemática à Mecânica. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0020-03.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0020-03.png)
 
 #### Saiba mais
 
@@ -476,7 +476,7 @@ A segunda variável é uma função da primeira variável.
 
 Uma função é, a rigor, uma tabela organizada 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0021-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0021-01.png)
 
 #### Conteúdo interativo
 
@@ -500,9 +500,9 @@ Vamos fazer uma tabela com a seguinte relação: a cada número real x, associam
 
 Pares ordenados de X e Y. Marcelo Leonardo dos Santos Rainha 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0022-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0022-00.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0022-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0022-01.png)
 
 <!-- Start of picture text -->
 
@@ -527,9 +527,9 @@ Desta vez, faremos uma tabela com a seguinte relação: a cada número real x, a
 
 Pares ordenados de X e Y Marcelo Leonardo dos Santos Rainha 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0023-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0023-00.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0023-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0023-01.png)
 
 <!-- Start of picture text -->
 
@@ -560,7 +560,7 @@ Informações do exemplo Marcelo Leonardo dos Santos Rainha
 
 Para preencher a última coluna, basta entendermos quantos azulejos de 0,1m de lado são necessários para preenchermos um metro quadrado. A figura exemplo ilustra a ideia de um metro quadrado dividido em azulejos de 10cm de lado e, como podemos ver, são necessários 100 azulejos. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0024-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0024-01.png)
 
 #### Figura exemplo
 
@@ -575,9 +575,9 @@ Podemos perceber que a quantidade 100 representa o número necessário de azulej
 
 Parede x custo em azulejos Marcelo Leonardo dos Santos Rainha 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0025-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0025-00.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0025-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0025-01.png)
 
 <!-- Start of picture text -->
 
@@ -603,9 +603,9 @@ Veja como exemplo uma tabela com as soluções da equação y² = x, onde x _∈
 
 Valores de X. Marcelo Leonardo dos Santos Rainha 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0026-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0026-00.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0026-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0026-01.png)
 
 <!-- Start of picture text -->
 
@@ -617,7 +617,7 @@ Quando esse tipo de fenômeno ocorrer, diremos que a relação estabelecida não
 
 Portanto, uma função f é uma tabela de pares ordenados com a seguinte propriedade:Se (x,y) e (x,b) estiverem na mesma tabela, então b = y. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0026-05.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0026-05.png)
 
 #### Resumindo
 
@@ -629,25 +629,25 @@ Dessa forma, ao observarmos um gráfico no plano cartesiano, o que devemos perce
 
 Veja os exemplos: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-00.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-01.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-02.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-02.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-03.png)
-
-<!-- Start of picture text -->
-
-Não é função<br><!-- End of picture text -->
-
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-03.png)
 
 <!-- Start of picture text -->
 
 Não é função<br><!-- End of picture text -->
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-05.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-04.png)
+
+<!-- Start of picture text -->
+
+Não é função<br><!-- End of picture text -->
+
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-05.png)
 
 <!-- Start of picture text -->
 
@@ -665,7 +665,7 @@ Agora, apresentaremos uma série de exemplos a fim de que você possa entender q
 
 A ilustração a seguir mostra um homem andando por um brinquedo em um parque: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0027-12.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0027-12.png)
 
 A partir da imagem acima, pense na seguinte questão: 
 
@@ -679,7 +679,7 @@ Segundo exemplo
 
 A ilustração a seguir apresenta um recipiente sendo cheio por água. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0028-01.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0028-01.png)
 
 A partir da imagem acima, pensa na seguinte questão: 
 
@@ -699,7 +699,7 @@ A imagem mostra um gráfico do desempenho do corredor Usain Bolt ao conquistar o
 
 A reta vertical apresenta a velocidade do corredor em metros por segundo (m/s), e a reta horizontal mostra a distância percorrida em metros. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0028-11.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0028-11.png)
 
 O gráfico é uma função que mede a velocidade do corredor em cada momento da trajetória. 
 
@@ -709,7 +709,7 @@ Já esta imagem mostra o crescimento do PIB argentino, do início dos anos 1960 
 
 O gráfico apresenta o histórico do desenvolvimento econômico argentino. A partir dele, podemos apresentar uma tendência, auxiliando um futuro investidor. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0028-16.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0028-16.png)
 
 # Atividade discursiva
 
@@ -719,7 +719,7 @@ Agora, com uma caneta e um papel, tente desenhar o gráfico da altura do homem e
 
 Observe o gráfico da altura do homem em função do tempo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0029-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0029-04.png)
 
 Altura em função do tempo. 
 
@@ -731,7 +731,7 @@ Agora, com uma caneta e um papel, tente desenhar o gráfico da quantidade de lit
 
 Ao analisarmos a ilustração com cuidado, percebemos que já havia água no balde; depois, ele recebe mais um litro de água, além do que já estava entrando, fazendo com que o fluxo de água fosse maior nesse intervalo de tempo, retornando, mais tarde, à vazão natural. Obtemos assim: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0029-10.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0029-10.png)
 
 Quantidade de litros de água em função do tempo em segundos. 
 
@@ -741,17 +741,17 @@ Quantidade de litros de água em função do tempo em segundos.
 
 Qual das opções a seguir não apresenta um gráfico de função? 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0030-03.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0030-03.png)
 
 ##### Marque a opção correta:
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0030-05.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0030-05.png)
 
 <!-- Start of picture text -->
 
 A A<br>B B<br>C C<br>D D<br>E E<br><!-- End of picture text -->
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0030-06.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0030-06.png)
 
 #### A alternativa C está correta.
 
@@ -759,7 +759,7 @@ Os itens A, B, D e E são funções, e o item C não é uma função, de acordo 
 
 Em relação à alternativa E, o ponto é que, na “tabela” que apresenta o gráfico, o que ocorreu foi que ela pulou alguns valores. De acordo com a definição de função, podemos entender que, em momento algum, é relatado que não é possível pularmos valores. Sendo assim, o item E não contradiz em nada a definição de função. Logo, também se trata de um gráfico de função. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0031-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0031-00.png)
 
 <!-- Start of picture text -->
 
@@ -769,7 +769,7 @@ Alternativa C<br><!-- End of picture text -->
 
 Em 2020, houve uma pandemia global provocada pelo vírus SARS-CoV-2. Tal pandemia trouxe danos incalculáveis às economias globais e provocou milhares de mortes pelo mundo inteiro. O estudo do epidemiologista Neil Ferguson, do Imperial College, apresentou um gráfico mostrando requisitos de leito de cuidados intensivos (UTI) por 100 mil habitantes em diferentes cenários: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0032-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0032-00.png)
 
 Assinale a alternativa correta: 
 
@@ -781,7 +781,7 @@ Assinale a alternativa correta:
 
 E Os picos de todos os cenários na Grã-Bretanha ocorrem no mês de junho. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0033-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0033-00.png)
 
 #### A alternativa D está correta.
 
@@ -795,7 +795,7 @@ No caso do item C, percebemos que os cenários amarelo e azul não chegam aos 15
 
 Esse raciocínio evidencia que a resposta é a letra D. O recorte a seguir (Recorte B) deixa claro que em todos os cenários o sistema de saúde inglês volta à normalidade no mês de agosto. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0033-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0033-07.png)
 
 Recorte A e Recorte B 
 
@@ -807,7 +807,7 @@ Recorte A e Recorte B
 
 Este módulo ficará mais fácil e interessante se você começar assistindo ao presente vídeo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0034-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0034-04.png)
 
 #### Conteúdo interativo
 
@@ -829,7 +829,7 @@ Descreveremos o conjunto das raízes apresentadas no gráfico das funções a se
 
 O gráfico das funções a serem consideradas está em roxo. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0034-15.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0034-15.png)
 
 Exemplo 1. 
 
@@ -845,7 +845,7 @@ As raízes de uma função são os valores da primeira coordenada, cujo gráfico
 
 Exemplo 2. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0034-23.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0034-23.png)
 
 Neste caso, temos uma única raiz, x = 1. 
 
@@ -855,7 +855,7 @@ Agora que você já compreendeu os exemplos, analise os gráficos a seguir e res
 
 Quais são as raízes das funções a seguir? 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0035-02.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0035-02.png)
 
 Função A (esquerda) e Função B (direita) 
 
@@ -877,7 +877,7 @@ O caso aqui é que todos os valores de x maiores que 4 fazem parte da nossa tabe
 
 Reconhecendo máximos e mínimos locais e globais 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0035-13.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0035-13.png)
 
 Conteúdo interativo 
 
@@ -885,15 +885,15 @@ Acesse a versão digital para assistir ao vídeo.
 
 Devemos sempre ter em mente que, quando falamos em ponto de máximo ou mínimo de um gráfico, este é um par ordenado, um elemento da nossa tabela, e, por isso, possui dois valores associados. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0036-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0036-00.png)
 
 O valor de x é o que geralmente chamamos na literatura de máximo ou mínimo. O valor de y = f (x) é o valor máximo ou valor mínimo. 
 
 Muitas vezes, podemos nos confundir com o que o problema pede quando essas ideias não estão claras. Considere o gráfico abaixo: 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0036-03.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0036-03.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0036-04.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0036-04.png)
 
 #### Exemplo
 
@@ -905,7 +905,7 @@ Trata-se do que chamamos na literatura de máximos e mínimos globais. Dado o gr
 
 ### Pontos notáveis de um gráfico
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0037-02.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0037-02.png)
 
 #### Conteúdo interativo
 
@@ -917,9 +917,9 @@ Acesse a versão digital para assistir ao vídeo.
 
 O gráfico abaixo apresenta a taxa de desemprego de 2013. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0037-08.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0037-08.png)
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0037-09.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0037-09.png)
 
 <!-- Start of picture text -->
 
@@ -934,7 +934,7 @@ Considerando as informações constantes no gráfico, em quais meses há o maior
 | D   | Maior índice: janeiro; menor índice: setembro.   |
 | E   | Maior índice: janeiro; menor índice: dezembro.   |
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0038-00.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0038-00.png)
 
 #### A alternativa B está correta.
 
@@ -946,11 +946,11 @@ O gráfico a seguir mostra o nível de água em um reservatório durante o ano d
 
 Se os níveis de água no reservatório dependem dos níveis de chuva na região, assinale, respectivamente, os meses do ano em que mais choveu e em que menos choveu no ano de 2015. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0038-06.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0038-06.png)
 
 Altura do nível da água (m) em função do tempo (meses) 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0038-08.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0038-08.png)
 
 <!-- Start of picture text -->
 
@@ -970,7 +970,7 @@ Este tema buscou apresentar as funções a partir de conceitos elementares, como
 
 No podcast a seguir, veremos um breve resumo sobre o tema. 
 
-![](Tema 3 - Gráficos e Interpretações Gráficas/input.pdf-0039-07.png)
+![](Tema%203%20-%20Gr%C3%A1ficos%20e%20Interpreta%C3%A7%C3%B5es%20Gr%C3%A1ficas/input.pdf-0039-07.png)
 
 #### Conteúdo interativo
 
