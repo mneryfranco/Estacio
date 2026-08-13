@@ -7,10 +7,8 @@
 # Executáveis compilados (não fazem sentido versionados)
 *.exe
 
-# PDFs e imagens de página de PDF (pesados demais pro clone no celular).
-# O material de referência (planos de ensino, slides) fica no Google Drive;
-# aqui ficam só notas de texto (resumos, exercícios, anotações).
+# PDFs (planos de ensino, slides) são pesados (vários de 5-10MB) e não são
+# referenciados pelas notas .md — ficam só no Google Drive como referência.
+# Imagens (.png/.jpeg) SÃO mantidas: são leves (~12KB em média) e usadas
+# como ilustração dentro das notas.
 *.pdf
-*.png
-*.jpg
-*.jpeg
