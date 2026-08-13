@@ -1,6 +1,7 @@
 ---
 tags: [estacio, matematica-e-logica, revisao, resumo]
 ---
+
 # Resumo — Matemática e Lógica (revisão final)
 
 Cheat-sheet condensado dos Temas 2 a 8. Definições curtas, fórmulas e exemplos mínimos — sem prosa longa.
