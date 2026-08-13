@@ -1,0 +1,8 @@
+# Configurações locais do Obsidian (estado de tela, plugins instalados, etc.)
+# Cada dispositivo mantém a sua própria — sincronizar isso pelo git causa
+# conflitos/travamentos no plugin Obsidian Git (especialmente no celular),
+# já que arquivos como workspace.json mudam sozinhos ao só abrir o app.
+.obsidian/
+
+# Executáveis compilados (não fazem sentido versionados)
+*.exe
