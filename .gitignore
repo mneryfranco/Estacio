@@ -6,3 +6,11 @@
 
 # Executáveis compilados (não fazem sentido versionados)
 *.exe
+
+# PDFs e imagens de página de PDF (pesados demais pro clone no celular).
+# O material de referência (planos de ensino, slides) fica no Google Drive;
+# aqui ficam só notas de texto (resumos, exercícios, anotações).
+*.pdf
+*.png
+*.jpg
+*.jpeg
