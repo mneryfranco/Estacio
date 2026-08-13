@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "22ff6859d1136e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c23d4b73564383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2283de4f145b13bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemática e Lógica/Resumo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resumo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a3a5701b36ae34c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e7dc6ac336b1aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8346cf73b444a5d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "053f10c08ca66a3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b05a3100fc3d9100",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2ebd7cfc9f54551",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb46fca1d9b9213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd73f1e6f8405b83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matemática e Lógica/Resumo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "1d6f129a59bb8523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matemática e Lógica/Resumo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "534dbfa287c792d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "085c2a7d1d6225aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "b472921fbc278069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matemática e Lógica/Resumo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2283de4f145b13bf",
+  "lastOpenFiles": [
+    "Matemática e Lógica/Tema 4 - Aprofundamento de Funções.md",
+    "Matemática e Lógica/Resumo.md",
+    "Programação em Python Para Análise de Dados/Resumo.md",
+    "Programação em Python Para Análise de Dados/7 - Python Aplicado a Estatística e Probabilidade.pdf",
+    "Programação em Python Para Análise de Dados/6 - Variáveis Aleatórias Contínuas Unidimensionais.pdf",
+    "Programação em Python Para Análise de Dados/5 - Variáveis Aleatórias Discretas Unidimensionais.pdf",
+    "Programação em Python Para Análise de Dados/4 - Probabilidade Condicional e Independência.pdf",
+    "Programação em Python Para Análise de Dados/3 - Probabilidades.pdf",
+    "Programação em Python Para Análise de Dados/2 - Análise de Dados Quantitativos Com Python.pdf",
+    "Programação em Python Para Análise de Dados",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0028-10.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0027-20.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0027-18.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0027-16.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0027-14.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0027-04.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0026-11.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0026-01.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0025-06.png",
+    "Matemática e Lógica/Tema 8 - Praticando/input.pdf-0025-05.png",
+    "Matemática e Lógica/Tema 8 - Praticando",
+    "Matemática e Lógica/Tema 7 - Métodos de Demonstração",
+    "Matemática e Lógica/Tema 6 - Cálculo de Predicados",
+    "Matemática e Lógica/Tema 8 - Praticando.md",
+    "Matemática e Lógica/Tema 7 - Métodos de Demonstração.md",
+    "Matemática e Lógica/Tema 6 - Cálculo de Predicados.md",
+    "Matemática e Lógica/Tema 5 - Cálculo Proposicional.md",
+    "Matemática e Lógica/Tema 3 - Gráficos e Interpretações Gráficas.md",
+    "Matemática e Lógica/Tema 2 - Teoria Dos Conjuntos e Princípios de Contagem.md",
+    "Entrega e Serviços em TI/Resumo.md",
+    "Engenharia de Software/Resumo.md",
+    "Arquitetura de Computadores/Resumo.md"
+  ]
+}
