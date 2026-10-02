@@ -60,9 +60,6 @@
 - Simplifica o trabalho iterativo e reduz formalismo, com atividades como modelagem, implementação, testes, implantação, gerenciamento de configuração, gestão de projetos e ambiente.
 - Atenção à confusão: **AUP deriva/simplifica o RUP; RAD não.**
 
-### Pegadinha de exercício
-- **Definição do XP**: apareceu uma questão em que tanto “padrões de codificação + integração contínua + testes” quanto “pequenos releases + cliente envolvido na especificação/priorização” descrevem características reais do XP, embora o gabarito tenha aceitado apenas a primeira. **Não tratar a segunda como falsa conceitualmente.**
-
 ### Atalhos para lembrar antes da prova
 - **Cascata = sequência.**
 - **Incremental = acrescentar funcionalidades planejadas.**
