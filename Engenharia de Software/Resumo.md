@@ -60,31 +60,8 @@
 - Simplifica o trabalho iterativo e reduz formalismo, com atividades como modelagem, implementação, testes, implantação, gerenciamento de configuração, gestão de projetos e ambiente.
 - Atenção à confusão: **AUP deriva/simplifica o RUP; RAD não.**
 
-## Dúvidas e pegadinhas que apareceram durante o estudo
-
-1. **“Scrum, RUP e XP ficam na camada de método ou processo?”**  
-   Para este material, pense neles como processos/metodologias/frameworks de desenvolvimento. UML é linguagem de modelagem e CASE é ferramenta de apoio.
-
-2. **“UML é uma ferramenta CASE?”**  
-   Não. **UML = linguagem/notação de modelagem. CASE = software/ferramenta** que pode dar suporte à UML e aos processos.
-
-3. **“RAD é uma variação do RUP?”**  
-   Não. O material apresenta RAD na linha dos modelos rápidos/incrementais e o relaciona ao cascata de alta velocidade. Quem é explicitamente uma simplificação ágil do RUP é o **AUP**.
-
-4. **“Release Planning vem antes de Iteration Planning?”**  
-   Sim, em níveis diferentes de planejamento: primeiro planeja-se o release em termos de histórias; depois cada iteração detalha as histórias selecionadas em tarefas.
-
-5. **“Quem escolhe as Story Cards: cliente ou programadores?”**  
-   Os desenvolvedores **estimam**; o cliente **prioriza/escolhe** considerando capacidade, valor e estimativas. Evitar a formulação de que os programadores simplesmente decidem quais histórias serão implementadas.
-
-6. **Pegadinha do exercício sobre Iteration Planning**  
-   A resposta esperada pelo material foi a **estimação, por cada programador, do tempo necessário para as tarefas sob sua responsabilidade**. Isso reforça a distinção: Story Cards no nível de Release Planning; tarefas no nível de Iteration Planning.
-
-7. **“O coach do XP designa programadores para as tarefas?”**  
-   Não. O coach orienta a aplicação do XP; não é um gerente de distribuição de tarefas.
-
-8. **Questão ambígua sobre definição do XP**  
-   Durante os exercícios apareceram duas afirmações conceitualmente compatíveis com XP: (a) padrões de codificação, integração contínua e testes; (b) pequenos/frequentes releases e cliente intimamente envolvido na especificação/priorização. O gabarito apontou apenas a primeira. Para estudo, não internalizar a segunda como característica falsa do XP; tratá-la como uma possível inconsistência/ambiguidade do exercício.
+### Pegadinha de exercício
+- **Definição do XP**: apareceu uma questão em que tanto “padrões de codificação + integração contínua + testes” quanto “pequenos releases + cliente envolvido na especificação/priorização” descrevem características reais do XP, embora o gabarito tenha aceitado apenas a primeira. **Não tratar a segunda como falsa conceitualmente.**
 
 ### Atalhos para lembrar antes da prova
 - **Cascata = sequência.**
