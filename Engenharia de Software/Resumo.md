@@ -136,7 +136,8 @@
 
 ### Qualidade de software
 - Qualidade de software combina **gestão da qualidade + produto útil + valor mensurável**.
-- **Produto útil** atende às necessidades/requisitos do usuário e busca estar livre de defeitos; **valor mensurável** representa benefícios para usuários e produtores, como menos manutenção e retrabalho.
+  - **Produto útil** atende às necessidades/requisitos do usuário e busca estar livre de defeitos;
+  - **valor mensurável** representa benefícios para usuários e produtores, como menos manutenção e retrabalho.
 - Três atividades da gestão da qualidade: **garantia estabelece → planejamento adapta → controle verifica**.
   - **Garantia da qualidade**: estabelece procedimentos e padrões organizacionais.
   - **Planejamento da qualidade**: adapta esses procedimentos e padrões ao projeto específico.
@@ -156,8 +157,10 @@
   - **Eficiência**: recursos computacionais/código necessários para executar as funções.
   - **Integridade**: controle contra acesso não autorizado ao software e aos dados.
   - **Usabilidade**: esforço para aprender, operar, fornecer entradas e interpretar saídas.
-- **Revisão do produto** — facilidade de modificar/corrigir: **manutenibilidade, flexibilidade e testabilidade**.
-- **Transição do produto** — uso em outros contextos/ambientes: **portabilidade, reusabilidade e interoperabilidade**.
+- **Revisão do produto** — facilidade de modificar/corrigir:
+  - **manutenibilidade, flexibilidade e testabilidade**.
+- **Transição do produto** — uso em outros contextos/ambientes:
+  - **portabilidade, reusabilidade e interoperabilidade**.
 
 ### Custos da qualidade
 - **Custo total da qualidade = conformidade + não conformidade**. “Custo” inclui dinheiro e recursos consumidos, como tempo, esforço, ferramentas e retrabalho.
