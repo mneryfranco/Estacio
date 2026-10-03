@@ -127,3 +127,51 @@
 - **XP = práticas técnicas + histórias + feedback rápido.**
 - **Scrum = Sprint + backlog + inspeção/adaptação.**
 - **AUP = RUP simplificado/agilizado.**
+
+---
+
+## Tema 5 — Qualidade de Software
+
+### Módulo 1 — Qualidade de processo e de produto
+
+### Qualidade de software
+- Qualidade de software combina **gestão da qualidade + produto útil + valor mensurável**.
+- **Produto útil** atende às necessidades/requisitos do usuário e busca estar livre de defeitos; **valor mensurável** representa benefícios para usuários e produtores, como menos manutenção e retrabalho.
+- Três atividades da gestão da qualidade: **garantia estabelece → planejamento adapta → controle verifica**.
+  - **Garantia da qualidade**: estabelece procedimentos e padrões organizacionais.
+  - **Planejamento da qualidade**: adapta esses procedimentos e padrões ao projeto específico.
+  - **Controle da qualidade**: verifica se os procedimentos e padrões definidos estão sendo seguidos.
+- Idealmente, a garantia da qualidade deve ter independência da equipe de desenvolvimento, reduzindo o risco de pressões de prazo comprometerem a qualidade.
+
+### Qualidade do processo
+- Um processo definido ajuda a controlar a complexidade do desenvolvimento. **Quanto maior a complexidade do sistema, mais formal deve ser o processo adotado.**
+- Atividades genéricas: **comunicação → planejamento → modelagem → construção → entrega**.
+- Ideia central: o processo deve possuir **mecanismos estruturados para detectar defeitos em cada etapa antes que se propaguem para as seguintes**.
+- Requisitos, documentos e diagramas também podem conter defeitos. Sua análise pode envolver **testes de verificação/estáticos**, sem executar o software.
+
+### Qualidade do produto — fatores de McCall
+- **Operação do produto** — pergunta-guia: **“O software funciona bem e de forma confiável quando está sendo usado?”**
+  - **Correção**: atende à especificação e às necessidades do cliente.
+  - **Confiabilidade**: desempenha a função esperada com a precisão requerida.
+  - **Eficiência**: recursos computacionais/código necessários para executar as funções.
+  - **Integridade**: controle contra acesso não autorizado ao software e aos dados.
+  - **Usabilidade**: esforço para aprender, operar, fornecer entradas e interpretar saídas.
+- **Revisão do produto** — facilidade de modificar/corrigir: **manutenibilidade, flexibilidade e testabilidade**.
+- **Transição do produto** — uso em outros contextos/ambientes: **portabilidade, reusabilidade e interoperabilidade**.
+
+### Custos da qualidade
+- **Custo total da qualidade = conformidade + não conformidade**. “Custo” inclui dinheiro e recursos consumidos, como tempo, esforço, ferramentas e retrabalho.
+- **Conformidade**: custos para buscar qualidade.
+  - **Prevenção**: metodologias, treinamento, ferramentas, procedimentos etc.
+  - **Detecção/avaliação**: inspeções, revisões e atividades para encontrar defeitos.
+- **Não conformidade**: custos decorrentes de defeitos.
+  - **Falhas internas**: descobertas antes de o produto chegar ao cliente.
+  - **Falhas externas**: descobertas após o cliente ser impactado.
+- Lógica: economizar em prevenção/detecção pode aumentar muito o custo das falhas depois. O objetivo é **otimizar o custo total sem comprometer a qualidade**, não simplesmente gastar o mínimo possível.
+
+### Atalhos para lembrar
+- **Garantia estabelece → planejamento adapta → controle verifica.**
+- **Qualidade do processo = detectar antes que o defeito se propague.**
+- **Produto: operação = usar; revisão = modificar; transição = levar/reutilizar em outros contextos.**
+- **Custos: prevenir → detectar → falha interna → falha externa.**
+
