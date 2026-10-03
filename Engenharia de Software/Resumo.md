@@ -178,3 +178,63 @@
 - **Produto: operação = usar; revisão = modificar; transição = levar/reutilizar em outros contextos.**
 - **Custos: prevenir → detectar → falha interna → falha externa.**
 
+
+### Módulo 2 — Processo de garantia da qualidade de software
+
+### SQA — Software Quality Assurance
+- **SQA = Garantia da Qualidade de Software**: estrutura de responsabilidades, procedimentos, processos e recursos usada para garantir que software e serviços atendam às especificações e necessidades do cliente.
+- O processo de SQA **define/seleciona padrões** para o processo e para o produto e pode selecionar ferramentas e métodos que apoiem esses padrões.
+- Ideia central: **qualidade = conformidade aos requisitos**, olhando o software também do ponto de vista do cliente.
+
+### Atividades da garantia da qualidade
+- **Padrões:** garantir que regras e padrões definidos sejam seguidos.
+- **Revisões e auditorias:** encontrar erros nos artefatos e verificar se processos e procedimentos estão sendo cumpridos e são eficazes.
+- **Testes:** garantir que os testes planejados sejam implementados e executados.
+- **Coleta e análise de erros/defeitos:** registrar e analisar erros para identificar padrões e propor melhorias.
+- **Gerenciamento de mudanças:** definir procedimentos para controlar alterações no software.
+- **Educação:** capacitar e aperfeiçoar a equipe de desenvolvimento.
+- **Gerência dos fornecedores:** garantir requisitos de qualidade nos produtos e serviços adquiridos externamente.
+- **Administração da segurança:** proteger dados e software contra acessos e alterações não autorizados.
+- **Proteção:** avaliar o impacto das falhas e adotar medidas para reduzir seus efeitos.
+- **Administração de riscos:** verificar se os riscos estão sendo gerenciados adequadamente e se existem planos de contingência.
+
+### Padrões de software
+- **Padrões de produto = “o que sai”**: regras aplicadas aos artefatos/produtos, como padrões de documentação e de codificação.
+- **Padrões de processo = “como se faz”**: regras sobre os processos que devem ser seguidos durante o desenvolvimento, como o processo de engenharia de requisitos.
+- Os padrões registram **boas práticas**, evitam repetição de erros, dão uma base verificável para a qualidade e preservam conhecimento quando membros da equipe são substituídos.
+- A equipe de qualidade pode se basear em padrões nacionais/internacionais; é recomendável envolver a equipe de desenvolvimento, revisar os padrões periodicamente e usar ferramentas CASE para apoiá-los.
+
+### ISO 9000/9001 e Manual da Qualidade
+- A família **ISO 9000** é uma referência geral de **gestão da qualidade**, não exclusiva de software.
+- A organização pode usar esse referencial para estruturar seu sistema e seu **Manual da Qualidade**.
+  - **ISO 9000/9001 → referência → sistema/Manual da Qualidade da organização.**
+- **Manual da Qualidade = visão da organização:** políticas, responsabilidades, padrões e procedimentos gerais.
+- **Plano SQA = visão do projeto:** define como a garantia da qualidade será aplicada em um projeto específico, considerando suas necessidades, complexidade e riscos.
+  - Sequência mental: **ISO → organização/Manual da Qualidade → Plano SQA do projeto**.
+- A lógica da ISO é ter um sistema de qualidade **definido, seguido, verificado e continuamente melhorado**; não significa garantir software com zero defeitos.
+
+### ISO/IEC 9126 — qualidade do produto de software
+- É voltada especificamente à **qualidade do produto de software**.
+- Seis características principais: **funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade e portabilidade**.
+- Faz paralelo com os fatores de McCall, mas organiza as características de forma mais enxuta.
+
+### Qualidade no PMBOK
+- O PMBOK apresenta a qualidade pela perspectiva do **gerenciamento de um projeto específico**:
+  - **Planejar o gerenciamento da qualidade:** definir requisitos/padrões e como serão atendidos.
+  - **Gerenciar a qualidade:** executar as atividades planejadas e atuar sobre os processos.
+  - **Controlar a qualidade:** medir/verificar se resultados e entregas atendem aos requisitos.
+- Atalho: **planejar define → gerenciar executa → controlar verifica**.
+- A lógica lembra o **PDCA**: planejar, executar, verificar e agir/melhorar.
+
+### Três perspectivas para não confundir
+- **Organização → ISO 9000/9001:** como a organização estrutura a gestão da qualidade.
+- **Produto de software → ISO/IEC 9126:** quais características representam a qualidade do produto.
+- **Projeto → PMBOK + Plano SQA:** como a qualidade será planejada, gerenciada e controlada no contexto daquele projeto.
+- Não são exatamente três níveis de padrões, mas **três perspectivas complementares da qualidade**.
+
+### Atalhos para lembrar
+- **SQA = Software Quality Assurance = Garantia da Qualidade de Software.**
+- **Produto = o que sai; processo = como se faz.**
+- **ISO 9000/9001 = organização; ISO 9126 = produto; PMBOK = projeto.**
+- **Manual da Qualidade = organização; Plano SQA = projeto.**
+
