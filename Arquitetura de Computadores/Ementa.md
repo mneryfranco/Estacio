@@ -1,4 +1,4 @@
-# Resumo — Arquitetura de Computadores (ARA1381)
+# Ementa — Arquitetura de Computadores (ARA1381)
 
 > Baseado na leitura do conteúdo real (Temas 2–8), não só na ementa.
 
