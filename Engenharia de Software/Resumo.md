@@ -271,6 +271,9 @@
 #### Controle da qualidade — aprofundamento
 - Complementando a definição do Módulo 1: aqui o controle é visto na prática como **medir/testar resultados e entregas e compará-los aos critérios definidos no planejamento**.
 - Se houver desvio, ele é registrado e pode originar correções/ações corretivas.
+- **Métricas estáticas** são obtidas **sem executar o software**, a partir de artefatos como código-fonte, requisitos, diagramas e documentação.
+- **Métricas dinâmicas** são obtidas **com o software em execução**, observando seu comportamento, como tempo de resposta, consumo de recursos ou ocorrência de falhas.
+- Atalho: **estática = mede sem executar; dinâmica = mede executando**.
 
 #### Dificuldades e pegadinhas observadas
 - **Planejamento × controle:** planejar testes não é executá-los. Planejamento define **o que/como será verificado**; controle efetivamente **mede e compara**.
@@ -283,5 +286,6 @@
 - **Verificação = processo/artefatos → revisão + auditoria.**
 - **Validação = produto executando → unidade + integração + sistema + aceite.**
 - **Controle = medir/testar e comparar com o planejado.**
+- **Métrica estática = sem executar; métrica dinâmica = em execução.**
 - **Documento → revisão; atividade → auditoria; software rodando → validação.**
 
