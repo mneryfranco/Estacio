@@ -240,25 +240,20 @@
 
 ### Módulo 3 — Planejamento e controle da qualidade
 
-### Plano de qualidade e planejamento segundo o PMBOK
-- A organização possui padrões gerais de qualidade; o **plano de qualidade/Plano SQA do projeto** adapta esses padrões ao contexto, à complexidade e aos riscos do projeto.
-- **Manual da Qualidade = organização; Plano SQA = projeto específico.**
-- No PMBOK, **Planejar o Gerenciamento da Qualidade** identifica os requisitos/padrões de qualidade do projeto e das entregas e define **como o projeto demonstrará conformidade**.
-- A Tabela 2 deve ser entendida como três conjuntos, e **não como correspondência linha a linha**:
+### Planejamento segundo o PMBOK — aprofundamento
+- No Módulo 2 já ficaram consolidadas as relações **Manual da Qualidade = organização; Plano SQA = projeto** e **planejar → gerenciar → controlar**. Aqui o material aprofunda como ocorre o planejamento.
+- A Tabela 2 do processo **Planejar o Gerenciamento da Qualidade** deve ser entendida como três conjuntos, e **não como correspondência linha a linha**:
   - **Entradas** = informações já disponíveis para planejar;
   - **Técnicas e ferramentas** = meios usados para trabalhar essas informações;
   - **Saídas** = definições produzidas pelo planejamento, com destaque para o Plano de Gerenciamento da Qualidade e as métricas.
 - Entre as técnicas/ferramentas está o **planejamento de testes e inspeções**, que faz a ponte para os testes e revisões estudados em seguida.
-- Atalho: **definir padrão, métrica, critério ou como verificar = planejamento; medir/testar o resultado e comparar com o critério = controle.**
-- Relação mental com PDCA: **planejar antes de executar e verificar**.
+- Aplicação prática da distinção já estudada: **definir padrão, métrica, critério ou como verificar = planejamento; medir/testar e comparar com o critério = controle.**
 
 ### Planejamento de testes e revisões — modelo em U
 - O material organiza a garantia da qualidade em dois lados complementares:
   - **Verificação → foco no processo e nos artefatos intermediários.**
   - **Validação → foco no produto de software em execução.**
-- Regra clássica:
-  - **Verificação = “estamos construindo o produto corretamente?”**
-  - **Validação = “estamos construindo o produto correto?”**
+- A regra **“verificação = construir corretamente; validação = construir o produto correto”** já apareceu no Tema 3; aqui ela é aprofundada pelo modelo em U.
 - Casos de uso, requisitos, diagramas, modelos, designs e protótipos são **produtos de trabalho/artefatos intermediários**; sua análise entra na verificação.
 - O código-fonte também pode ser revisado estaticamente, mas, na classificação enfatizada pelo material, **executar o código para observar seu comportamento** entra nos testes de validação.
 
@@ -270,16 +265,11 @@
 
 ### Validação — produto em execução
 - Os testes de validação são aplicados ao software executável para verificar seu comportamento e atendimento aos requisitos.
-- Níveis já vistos anteriormente reaparecem aqui sob a ótica da qualidade:
-  - **unidade** → componente isolado;
-  - **integração** → interação/compatibilidade entre componentes;
-  - **sistema** → produto integrado em ambiente próximo do real;
-  - **aceite** → atendimento às necessidades/critérios de aceitação.
+- Os níveis **unidade, integração, sistema e aceite**, já resumidos no Tema 3, reaparecem aqui sob a ótica da **validação do produto**.
 - Testes como **recuperação, segurança, esforço e desempenho** também entram no lado da validação do produto.
 
-### Controle da qualidade
-- **Controle da qualidade = medir, testar e comparar resultados/entregas com os critérios definidos no planejamento.**
-- Exemplo: se o planejamento definiu tempo de resposta máximo de 2 segundos, o controle mede o sistema e verifica se esse limite foi atendido.
+### Controle da qualidade — aprofundamento
+- Complementando a definição do Módulo 1: aqui o controle é visto na prática como **medir/testar resultados e entregas e compará-los aos critérios definidos no planejamento**.
 - Se houver desvio, ele é registrado e pode originar correções/ações corretivas.
 
 ### Dificuldades e pegadinhas observadas
