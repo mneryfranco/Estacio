@@ -238,3 +238,60 @@
 - **ISO 9000/9001 = organização; ISO 9126 = produto; PMBOK = projeto.**
 - **Manual da Qualidade = organização; Plano SQA = projeto.**
 
+### Módulo 3 — Planejamento e controle da qualidade
+
+### Plano de qualidade e planejamento segundo o PMBOK
+- A organização possui padrões gerais de qualidade; o **plano de qualidade/Plano SQA do projeto** adapta esses padrões ao contexto, à complexidade e aos riscos do projeto.
+- **Manual da Qualidade = organização; Plano SQA = projeto específico.**
+- No PMBOK, **Planejar o Gerenciamento da Qualidade** identifica os requisitos/padrões de qualidade do projeto e das entregas e define **como o projeto demonstrará conformidade**.
+- A Tabela 2 deve ser entendida como três conjuntos, e **não como correspondência linha a linha**:
+  - **Entradas** = informações já disponíveis para planejar;
+  - **Técnicas e ferramentas** = meios usados para trabalhar essas informações;
+  - **Saídas** = definições produzidas pelo planejamento, com destaque para o Plano de Gerenciamento da Qualidade e as métricas.
+- Entre as técnicas/ferramentas está o **planejamento de testes e inspeções**, que faz a ponte para os testes e revisões estudados em seguida.
+- Atalho: **definir padrão, métrica, critério ou como verificar = planejamento; medir/testar o resultado e comparar com o critério = controle.**
+- Relação mental com PDCA: **planejar antes de executar e verificar**.
+
+### Planejamento de testes e revisões — modelo em U
+- O material organiza a garantia da qualidade em dois lados complementares:
+  - **Verificação → foco no processo e nos artefatos intermediários.**
+  - **Validação → foco no produto de software em execução.**
+- Regra clássica:
+  - **Verificação = “estamos construindo o produto corretamente?”**
+  - **Validação = “estamos construindo o produto correto?”**
+- Casos de uso, requisitos, diagramas, modelos, designs e protótipos são **produtos de trabalho/artefatos intermediários**; sua análise entra na verificação.
+- O código-fonte também pode ser revisado estaticamente, mas, na classificação enfatizada pelo material, **executar o código para observar seu comportamento** entra nos testes de validação.
+
+### Verificação — revisões e auditorias
+- **Revisão = foco em documentos/artefatos:** analisa se requisitos, modelos, especificações etc. estão corretos, completos e consistentes.
+- **Auditoria = foco nas atividades/processo:** verifica se a equipe realmente segue o processo, os procedimentos e os padrões estabelecidos.
+- Uma auditoria pode encontrar **não conformidade de processo sem encontrar defeito no produto**.
+- Atalho: **documento/artefato → revisão; atividade/processo → auditoria.**
+
+### Validação — produto em execução
+- Os testes de validação são aplicados ao software executável para verificar seu comportamento e atendimento aos requisitos.
+- Níveis já vistos anteriormente reaparecem aqui sob a ótica da qualidade:
+  - **unidade** → componente isolado;
+  - **integração** → interação/compatibilidade entre componentes;
+  - **sistema** → produto integrado em ambiente próximo do real;
+  - **aceite** → atendimento às necessidades/critérios de aceitação.
+- Testes como **recuperação, segurança, esforço e desempenho** também entram no lado da validação do produto.
+
+### Controle da qualidade
+- **Controle da qualidade = medir, testar e comparar resultados/entregas com os critérios definidos no planejamento.**
+- Exemplo: se o planejamento definiu tempo de resposta máximo de 2 segundos, o controle mede o sistema e verifica se esse limite foi atendido.
+- Se houver desvio, ele é registrado e pode originar correções/ações corretivas.
+
+### Dificuldades e pegadinhas observadas
+- **Planejamento × controle:** planejar testes não é executá-los. Planejamento define **o que/como será verificado**; controle efetivamente **mede e compara**.
+- **Verificação × validação:** não reduzir “produto” a qualquer coisa produzida durante o projeto. Documentos, diagramas e modelos são artefatos intermediários e entram na verificação; o **software em execução** é o foco da validação.
+- **Revisão × auditoria:** revisão olha o artefato; auditoria olha se a atividade/processo foi cumprida.
+- A Tabela 2 do PMBOK **não deve ser lida horizontalmente linha por linha**; as três colunas representam conjuntos de entradas, técnicas/ferramentas e saídas.
+
+### Atalhos para lembrar antes da prova
+- **Planejamento = definir como provar a qualidade.**
+- **Verificação = processo/artefatos → revisão + auditoria.**
+- **Validação = produto executando → unidade + integração + sistema + aceite.**
+- **Controle = medir/testar e comparar com o planejado.**
+- **Documento → revisão; atividade → auditoria; software rodando → validação.**
+
