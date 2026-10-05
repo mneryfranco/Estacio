@@ -134,7 +134,7 @@
 
 ### Módulo 1 — Qualidade de processo e de produto
 
-### Qualidade de software
+#### Qualidade de software
 - Qualidade de software combina **gestão da qualidade + produto útil + valor mensurável**.
   - **Produto útil** atende às necessidades/requisitos do usuário e busca estar livre de defeitos;
   - **valor mensurável** representa benefícios para usuários e produtores, como menos manutenção e retrabalho.
@@ -144,13 +144,13 @@
   - **Controle da qualidade**: verifica se os procedimentos e padrões definidos estão sendo seguidos.
 - Idealmente, a garantia da qualidade deve ter independência da equipe de desenvolvimento, reduzindo o risco de pressões de prazo comprometerem a qualidade.
 
-### Qualidade do processo
+#### Qualidade do processo
 - Um processo definido ajuda a controlar a complexidade do desenvolvimento. **Quanto maior a complexidade do sistema, mais formal deve ser o processo adotado.**
 - Atividades genéricas: **comunicação → planejamento → modelagem → construção → entrega**.
 - Ideia central: o processo deve possuir **mecanismos estruturados para detectar defeitos em cada etapa antes que se propaguem para as seguintes**.
 - Requisitos, documentos e diagramas também podem conter defeitos. Sua análise pode envolver **testes de verificação/estáticos**, sem executar o software.
 
-### Qualidade do produto — fatores de McCall
+#### Qualidade do produto — fatores de McCall
 - **Operação do produto** — pergunta-guia: **“O software funciona bem e de forma confiável quando está sendo usado?”**
   - **Correção**: atende à especificação e às necessidades do cliente.
   - **Confiabilidade**: desempenha a função esperada com a precisão requerida.
@@ -162,7 +162,7 @@
 - **Transição do produto** — uso em outros contextos/ambientes:
   - **portabilidade, reusabilidade e interoperabilidade**.
 
-### Custos da qualidade
+#### Custos da qualidade
 - **Custo total da qualidade = conformidade + não conformidade**. “Custo” inclui dinheiro e recursos consumidos, como tempo, esforço, ferramentas e retrabalho.
 - **Conformidade**: custos para buscar qualidade.
   - **Prevenção**: metodologias, treinamento, ferramentas, procedimentos etc.
@@ -172,7 +172,7 @@
   - **Falhas externas**: descobertas após o cliente ser impactado.
 - Lógica: economizar em prevenção/detecção pode aumentar muito o custo das falhas depois. O objetivo é **otimizar o custo total sem comprometer a qualidade**, não simplesmente gastar o mínimo possível.
 
-### Atalhos para lembrar
+#### Atalhos para lembrar
 - **Garantia estabelece → planejamento adapta → controle verifica.**
 - **Qualidade do processo = detectar antes que o defeito se propague.**
 - **Produto: operação = usar; revisão = modificar; transição = levar/reutilizar em outros contextos.**
@@ -181,12 +181,12 @@
 
 ### Módulo 2 — Processo de garantia da qualidade de software
 
-### SQA — Software Quality Assurance
+#### SQA — Software Quality Assurance
 - **SQA = Garantia da Qualidade de Software**: estrutura de responsabilidades, procedimentos, processos e recursos usada para garantir que software e serviços atendam às especificações e necessidades do cliente.
 - O processo de SQA **define/seleciona padrões** para o processo e para o produto e pode selecionar ferramentas e métodos que apoiem esses padrões.
 - Ideia central: **qualidade = conformidade aos requisitos**, olhando o software também do ponto de vista do cliente.
 
-### Atividades da garantia da qualidade
+#### Atividades da garantia da qualidade
 - **Padrões:** garantir que regras e padrões definidos sejam seguidos.
 - **Revisões e auditorias:** encontrar erros nos artefatos e verificar se processos e procedimentos estão sendo cumpridos e são eficazes.
 - **Testes:** garantir que os testes planejados sejam implementados e executados.
@@ -198,13 +198,13 @@
 - **Proteção:** avaliar o impacto das falhas e adotar medidas para reduzir seus efeitos.
 - **Administração de riscos:** verificar se os riscos estão sendo gerenciados adequadamente e se existem planos de contingência.
 
-### Padrões de software
+#### Padrões de software
 - **Padrões de produto = “o que sai”**: regras aplicadas aos artefatos/produtos, como padrões de documentação e de codificação.
 - **Padrões de processo = “como se faz”**: regras sobre os processos que devem ser seguidos durante o desenvolvimento, como o processo de engenharia de requisitos.
 - Os padrões registram **boas práticas**, evitam repetição de erros, dão uma base verificável para a qualidade e preservam conhecimento quando membros da equipe são substituídos.
 - A equipe de qualidade pode se basear em padrões nacionais/internacionais; é recomendável envolver a equipe de desenvolvimento, revisar os padrões periodicamente e usar ferramentas CASE para apoiá-los.
 
-### ISO 9000/9001 e Manual da Qualidade
+#### ISO 9000/9001 e Manual da Qualidade
 - A família **ISO 9000** é uma referência geral de **gestão da qualidade**, não exclusiva de software.
 - A organização pode usar esse referencial para estruturar seu sistema e seu **Manual da Qualidade**.
   - **ISO 9000/9001 → referência → sistema/Manual da Qualidade da organização.**
@@ -213,12 +213,12 @@
   - Sequência mental: **ISO → organização/Manual da Qualidade → Plano SQA do projeto**.
 - A lógica da ISO é ter um sistema de qualidade **definido, seguido, verificado e continuamente melhorado**; não significa garantir software com zero defeitos.
 
-### ISO/IEC 9126 — qualidade do produto de software
+#### ISO/IEC 9126 — qualidade do produto de software
 - É voltada especificamente à **qualidade do produto de software**.
 - Seis características principais: **funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade e portabilidade**.
 - Faz paralelo com os fatores de McCall, mas organiza as características de forma mais enxuta.
 
-### Qualidade no PMBOK
+#### Qualidade no PMBOK
 - O PMBOK apresenta a qualidade pela perspectiva do **gerenciamento de um projeto específico**:
   - **Planejar o gerenciamento da qualidade:** definir requisitos/padrões e como serão atendidos.
   - **Gerenciar a qualidade:** executar as atividades planejadas e atuar sobre os processos.
@@ -226,13 +226,13 @@
 - Atalho: **planejar define → gerenciar executa → controlar verifica**.
 - A lógica lembra o **PDCA**: planejar, executar, verificar e agir/melhorar.
 
-### Três perspectivas para não confundir
+#### Três perspectivas para não confundir
 - **Organização → ISO 9000/9001:** como a organização estrutura a gestão da qualidade.
 - **Produto de software → ISO/IEC 9126:** quais características representam a qualidade do produto.
 - **Projeto → PMBOK + Plano SQA:** como a qualidade será planejada, gerenciada e controlada no contexto daquele projeto.
 - Não são exatamente três níveis de padrões, mas **três perspectivas complementares da qualidade**.
 
-### Atalhos para lembrar
+#### Atalhos para lembrar
 - **SQA = Software Quality Assurance = Garantia da Qualidade de Software.**
 - **Produto = o que sai; processo = como se faz.**
 - **ISO 9000/9001 = organização; ISO 9126 = produto; PMBOK = projeto.**
@@ -240,7 +240,7 @@
 
 ### Módulo 3 — Planejamento e controle da qualidade
 
-### Planejamento segundo o PMBOK — aprofundamento
+#### Planejamento segundo o PMBOK — aprofundamento
 - No Módulo 2 já ficaram consolidadas as relações **Manual da Qualidade = organização; Plano SQA = projeto** e **planejar → gerenciar → controlar**. Aqui o material aprofunda como ocorre o planejamento.
 - A Tabela 2 do processo **Planejar o Gerenciamento da Qualidade** deve ser entendida como três conjuntos, e **não como correspondência linha a linha**:
   - **Entradas** = informações já disponíveis para planejar;
@@ -249,7 +249,7 @@
 - Entre as técnicas/ferramentas está o **planejamento de testes e inspeções**, que faz a ponte para os testes e revisões estudados em seguida.
 - Aplicação prática da distinção já estudada: **definir padrão, métrica, critério ou como verificar = planejamento; medir/testar e comparar com o critério = controle.**
 
-### Planejamento de testes e revisões — modelo em U
+#### Planejamento de testes e revisões — modelo em U
 - O material organiza a garantia da qualidade em dois lados complementares:
   - **Verificação → foco no processo e nos artefatos intermediários.**
   - **Validação → foco no produto de software em execução.**
@@ -257,28 +257,28 @@
 - Casos de uso, requisitos, diagramas, modelos, designs e protótipos são **produtos de trabalho/artefatos intermediários**; sua análise entra na verificação.
 - O código-fonte também pode ser revisado estaticamente, mas, na classificação enfatizada pelo material, **executar o código para observar seu comportamento** entra nos testes de validação.
 
-### Verificação — revisões e auditorias
+#### Verificação — revisões e auditorias
 - **Revisão = foco em documentos/artefatos:** analisa se requisitos, modelos, especificações etc. estão corretos, completos e consistentes.
 - **Auditoria = foco nas atividades/processo:** verifica se a equipe realmente segue o processo, os procedimentos e os padrões estabelecidos.
 - Uma auditoria pode encontrar **não conformidade de processo sem encontrar defeito no produto**.
 - Atalho: **documento/artefato → revisão; atividade/processo → auditoria.**
 
-### Validação — produto em execução
+#### Validação — produto em execução
 - Os testes de validação são aplicados ao software executável para verificar seu comportamento e atendimento aos requisitos.
 - Os níveis **unidade, integração, sistema e aceite**, já resumidos no Tema 3, reaparecem aqui sob a ótica da **validação do produto**.
 - Testes como **recuperação, segurança, esforço e desempenho** também entram no lado da validação do produto.
 
-### Controle da qualidade — aprofundamento
+#### Controle da qualidade — aprofundamento
 - Complementando a definição do Módulo 1: aqui o controle é visto na prática como **medir/testar resultados e entregas e compará-los aos critérios definidos no planejamento**.
 - Se houver desvio, ele é registrado e pode originar correções/ações corretivas.
 
-### Dificuldades e pegadinhas observadas
+#### Dificuldades e pegadinhas observadas
 - **Planejamento × controle:** planejar testes não é executá-los. Planejamento define **o que/como será verificado**; controle efetivamente **mede e compara**.
 - **Verificação × validação:** não reduzir “produto” a qualquer coisa produzida durante o projeto. Documentos, diagramas e modelos são artefatos intermediários e entram na verificação; o **software em execução** é o foco da validação.
 - **Revisão × auditoria:** revisão olha o artefato; auditoria olha se a atividade/processo foi cumprida.
 - A Tabela 2 do PMBOK **não deve ser lida horizontalmente linha por linha**; as três colunas representam conjuntos de entradas, técnicas/ferramentas e saídas.
 
-### Atalhos para lembrar antes da prova
+#### Atalhos para lembrar antes da prova
 - **Planejamento = definir como provar a qualidade.**
 - **Verificação = processo/artefatos → revisão + auditoria.**
 - **Validação = produto executando → unidade + integração + sistema + aceite.**
