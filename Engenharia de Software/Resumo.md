@@ -271,9 +271,6 @@
 #### Controle da qualidade — aprofundamento
 - Complementando a definição do Módulo 1: aqui o controle é visto na prática como **medir/testar resultados e entregas e compará-los aos critérios definidos no planejamento**.
 - Se houver desvio, ele é registrado e pode originar correções/ações corretivas.
-- **Métricas estáticas** são obtidas **sem executar o software**, a partir de artefatos como código-fonte, requisitos, diagramas e documentação.
-- **Métricas dinâmicas** são obtidas **com o software em execução**, observando seu comportamento, como tempo de resposta, consumo de recursos ou ocorrência de falhas.
-- Atalho: **estática = mede sem executar; dinâmica = mede executando**.
 
 #### Dificuldades e pegadinhas observadas
 - **Planejamento × controle:** planejar testes não é executá-los. Planejamento define **o que/como será verificado**; controle efetivamente **mede e compara**.
@@ -286,6 +283,49 @@
 - **Verificação = processo/artefatos → revisão + auditoria.**
 - **Validação = produto executando → unidade + integração + sistema + aceite.**
 - **Controle = medir/testar e comparar com o planejado.**
-- **Métrica estática = sem executar; métrica dinâmica = em execução.**
 - **Documento → revisão; atividade → auditoria; software rodando → validação.**
+
+### Módulo 4 — Medições e métricas do software
+
+#### Medição
+- **Medida** = indicação quantitativa de um atributo; **medição** = ato de determinar uma medida; **métrica** = medida quantitativa do grau em que um sistema, componente ou processo possui determinado atributo.
+- A medição permite comparar componentes, padrões da organização e dados históricos para avaliar a qualidade do software e a eficácia de processos, ferramentas e métodos.
+
+#### Processo de medição
+- Fluxo: **escolher as medições → selecionar os componentes → medir as características → identificar medições anômalas → analisar componentes anômalos**.
+- Uma medição anômala pode indicar problema, mas **não significa automaticamente baixa qualidade**; é preciso analisar o componente e o contexto.
+- Manter dados históricos dos projetos ajuda a comparar qualidade e validar relações entre atributos internos e características de qualidade.
+
+#### Método GQM — Goal, Question, Metric
+- Técnica para planejar medições e identificar métricas significativas: **Objetivo → Questões → Métricas**.
+- **Objetivo:** define o que se deseja avaliar.
+- **Questões:** fazem a ponte entre o objetivo e aquilo que precisa ser observado.
+- **Métricas:** fornecem as medidas necessárias para responder às questões.
+- Exemplo do material: **garantir que todos os requisitos funcionais sejam testados → qual a cobertura dos testes? → número de requisitos testados**.
+
+#### Métricas de controle/processo e de previsão/produto
+- **Métricas de controle ou de processo** apoiam o gerenciamento dos processos. Podem medir tempo, recursos/esforço e número de ocorrências, como defeitos ou mudanças de requisitos.
+- **Métricas de previsão ou de produto** quantificam atributos do produto, como tamanho em linhas de código ou número de métodos por classe.
+- As medições de processo ajudam a decidir se o **processo** deve mudar; as métricas de produto ajudam a decidir se o **software** precisa mudar ou se está pronto para produção.
+
+#### Métricas estáticas e dinâmicas
+- São duas classes das **métricas de produto/previsão**.
+- **Estáticas:** obtidas de representações do sistema, como projeto, programa/código ou documentação, sem executar o software. Ajudam a avaliar complexidade, compreensibilidade e manutenibilidade.
+- Exemplos estáticos: **fan-in, fan-out, comprimento do código e complexidade ciclomática**.
+- **Dinâmicas:** medidas com o software em execução, durante teste de sistema ou operação. Ajudam especialmente a avaliar eficiência e confiabilidade.
+- Exemplos dinâmicos ligados à confiabilidade: total de falhas relatadas, número de falhas corrigidas, tempo médio entre falhas e porcentagem de falhas corrigidas.
+- Atalho: **estática = sem executar; dinâmica = executando**.
+
+#### Dificuldades e pegadinhas observadas
+- **Medida × medição × métrica:** medida é a indicação quantitativa; medição é o ato de obtê-la; métrica quantifica o grau de determinado atributo.
+- **Anomalia não implica defeito:** um valor fora do padrão é um sinal para investigar, não prova automática de baixa qualidade.
+- **Processo × produto:** controle/processo mede o processo; previsão/produto mede atributos do software.
+- **Estática × dinâmica:** o critério é se a medição depende do software em execução.
+
+#### Atalhos para lembrar antes da prova
+- **Medida = valor; medição = ato; métrica = atributo quantificado.**
+- **GQM = Goal → Question → Metric.**
+- **Controle = processo; previsão = produto.**
+- **Estática = sem executar; dinâmica = executando.**
+- **Complexidade ciclomática = caminhos independentes no código.**
 
