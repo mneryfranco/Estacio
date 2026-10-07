@@ -329,3 +329,98 @@
 - **Estática = sem executar; dinâmica = executando.**
 - **Complexidade ciclomática = caminhos independentes no código.**
 
+---
+
+## Tema 6 — Gerenciamento de Configurações
+
+### Módulo 1 — Planejamento de gerenciamento de configurações
+
+#### Gerenciamento de Configurações de Software (GCS)
+- O software muda continuamente por requisitos, defeitos, tecnologia, plataforma, hardware, negócio, orçamento e cronograma. O **GCS controla essa evolução ao longo de todo o ciclo de vida**.
+- O GCS identifica os artefatos afetados, suas relações e versões, controla alterações e permite auditar e relatar o que mudou.
+- Pressman organiza o GCS em quatro tipos de elementos: **componente, processo, construção e humanos**.
+- O plano de GCS define **itens de configuração, responsabilidades, políticas de mudança/versão, ferramentas e registros/banco de dados de configuração**.
+
+#### Itens de Configuração de Software (ICS) e referência
+- **ICS** é uma informação/artefato colocado sob controle de configuração: documento ou parte dele, caso/conjunto de testes, programa, componente e até versões específicas de ferramentas como compiladores e IDEs.
+- Os objetos de configuração possuem nome, atributos e relações com outros objetos.
+- **Referência** é uma especificação ou produto formalmente revisado e aprovado que passa a servir de base para o desenvolvimento; depois disso, sua alteração deve seguir controle formal.
+- Atalho: **ICS = o que será controlado; referência = ICS aprovado que passa a ser controlado formalmente**.
+
+### Módulo 2 — Gerenciamento de mudanças, versões e releases
+
+#### Processo de GCS e controle de mudanças
+- Cinco tarefas centrais: **identificação → controle de alterações → controle de versão → auditoria de configuração → relatos**.
+- Uma solicitação de mudança é registrada, validada e analisada quanto a **impacto, custo e prioridade** antes de ser aprovada e implementada.
+- O **CCM (Comitê de Controle de Mudanças)** avalia/autoriza mudanças relevantes; não significa que o próprio comitê as implemente.
+
+#### Codeline, baseline, mainline e release
+- **Codeline** = sequência de versões de um componente/código ao longo de sua evolução.
+- **Baseline** = definição de uma configuração específica do sistema, indicando exatamente as versões dos componentes, bibliotecas, arquivos de configuração e demais informações necessárias. Permite reconstruir aquele estado posteriormente.
+- Uma baseline **não é sobrescrita automaticamente** quando um componente evolui; uma nova combinação aprovada pode formar outra baseline.
+- **Mainline** = sequência de baselines que representa a evolução das configurações do sistema.
+- **Release** = versão do sistema distribuída aos clientes; pode incluir executável, documentação e arquivos de configuração.
+- Pegadinha: **baseline ≠ release**. Uma baseline pode permanecer interna; quando uma configuração é efetivamente distribuída aos clientes, temos uma release.
+- Atalho: **codeline = evolução de um componente; baseline = fotografia da configuração; mainline = sequência de fotografias; release = versão lançada ao cliente**.
+
+#### Controle de versões: centralizado e distribuído
+- **Centralizado**: existe um repositório central, como no modelo apresentado com SVN.
+- **Distribuído**: desenvolvedores possuem repositórios locais, como no Git.
+- **Check-out = repositório → área de trabalho**; **check-in = área de trabalho → repositório**, criando/registrando nova versão no modelo apresentado pelo material.
+- No **Git**, commit registra a alteração no **repositório local**; push envia commits para outro repositório, normalmente o remoto.
+- Controle de versões **não é apenas backup**: mantém histórico, identifica versões e dá suporte ao desenvolvimento paralelo.
+- Desenvolvimento paralelo não significa impedir que duas pessoas alterem o mesmo componente; conflitos podem ocorrer e precisam ser conciliados na integração.
+
+### Módulo 3 — Construção de sistemas
+
+#### Build e ambientes
+- **Construção (build)** cria o sistema executável combinando componentes compilados, bibliotecas externas, arquivos de configuração e outras informações necessárias.
+- As ferramentas de build podem integrar-se ao controle de versões, analisar dependências, realizar recompilação mínima, ligar componentes, executar testes e gerar relatórios/documentação.
+- O material distingue **sistema de desenvolvimento**, **servidor de construção** e **ambiente/plataforma de destino**.
+
+#### Código-fonte, código-objeto e recompilação mínima
+- **Código-fonte** = código escrito pelo programador.
+- **Código-objeto** = resultado da compilação do código-fonte; normalmente ainda precisa ser ligado a outros objetos/bibliotecas para formar o executável.
+- Fluxo: **fonte → compilação → objeto → ligação → executável**.
+- **Recompilação mínima** usa as dependências para reconstruir apenas componentes alterados e os que dependem deles.
+- **Timestamp** compara datas de modificação: fonte mais novo que objeto indica necessidade de recompilação.
+- **Checksum/assinatura** depende do conteúdo e pode relacionar uma versão do fonte ao objeto correspondente.
+- Atalho: **timestamp olha quando mudou; checksum olha o conteúdo**.
+
+#### Integração Contínua (CI)
+- **CI = Continuous Integration = Integração Contínua**.
+- Alterações são integradas frequentemente à linha compartilhada e verificadas por **build e testes**, geralmente automatizados, para revelar incompatibilidades cedo.
+- CI **não impede conflitos nem garante que alterações incompatíveis nunca ocorram**; ajuda a descobri-los rapidamente quando as mudanças são combinadas.
+- **CI ≠ teste de integração**: CI é uma prática/processo; teste de integração é um tipo de teste que verifica a interação entre componentes.
+- **CI também não implica implantação automática em produção**.
+- Atalho: **CI = integrar frequentemente + construir/testar → descobrir problemas cedo**.
+
+### Módulo 4 — Ferramentas CASE para gerenciamento de configurações
+
+#### Ambientes e apoio CASE
+- **CASE (Computer-Aided Software Engineering)** abrange ferramentas computacionais de apoio às atividades de Engenharia de Software.
+- **Ambiente aberto** usa ferramentas separadas para as atividades e as integra por procedimentos organizacionais; **ambiente integrado** reúne controle de versões, construção e rastreamento de mudanças.
+- No gerenciamento de mudanças, ferramentas podem oferecer **editor de formulários, workflow, banco de dados de mudanças e relatórios**.
+- No gerenciamento de versões, apoiam identificação de versões/releases, armazenamento por diferenças (**deltas**), histórico, desenvolvimento paralelo e múltiplos projetos.
+- Ferramentas de construção automatizam builds, reduzem erro humano e podem minimizar recompilações.
+- O material agrupa ferramentas CASE de GCS em **suporte individual, suporte ao projeto e suporte completo à organização**.
+
+#### Dificuldades e pegadinhas observadas
+- **Baseline × release:** baseline identifica uma configuração; release é a versão efetivamente distribuída aos clientes.
+- **Codeline × baseline:** codeline acompanha versões de um componente; baseline seleciona versões específicas para definir uma configuração.
+- **Check-out × check-in:** check-out retira/copia do repositório para trabalhar; check-in devolve a alteração ao repositório.
+- **Commit × push no Git:** commit salva no repositório local; push envia esses commits ao remoto.
+- **Controle de versões × bloqueio:** gerenciamento de versões dá suporte ao trabalho paralelo; não significa necessariamente proibir alterações simultâneas no mesmo arquivo.
+- **CI:** sua função não é impedir todo conflito, mas integrar e verificar frequentemente para detectar problemas cedo.
+- **Observação sobre o material:** a explicação do gabarito da questão 2 do Módulo 3 troca os sentidos de check-in/check-out; as definições apresentadas no Módulo 4 e no restante do tema são **check-out para retirar do repositório e check-in para devolver**.
+
+#### Atalhos para lembrar antes da prova
+- **GCS = identificar + controlar mudanças/versões + auditar + relatar.**
+- **Codeline = versões de um componente.**
+- **Baseline = configuração específica; mainline = sequência de baselines; release = lançada ao cliente.**
+- **Check-out = sai do repositório; check-in = entra no repositório.**
+- **Git: commit = local; push = remoto.**
+- **Fonte → compilação → objeto → ligação → executável.**
+- **Recompilação mínima = refazer somente o necessário pelas dependências.**
+- **CI = integrar + build/testes frequentes.**
+
