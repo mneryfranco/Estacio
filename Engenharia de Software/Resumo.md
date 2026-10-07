@@ -2,6 +2,44 @@
 
 > Material de revisão construído ao longo dos estudos, com conceitos essenciais, dúvidas e pegadinhas encontradas nos exercícios.
 
+## Visão geral da disciplina — função de cada tema
+
+> O **Tema 1** é introdutório e não está resumido neste repositório. Para os demais, use este mapa para não confundir níveis de abstração, fases do desenvolvimento e modelos de processo.
+
+### Tema 2 — Fundamentos de software e gerenciamento de projetos
+- Dá a **visão geral da Engenharia de Software**: o que é software, requisitos, processo de software, atividades genéricas e fundamentos de gerenciamento de projetos.
+- Atividades genéricas: **comunicação → planejamento → modelagem → construção → entrega**.
+- Pergunta-guia: **“Qual é a visão geral de como se desenvolve e gerencia software?”**
+
+### Tema 3 — Fases do Desenvolvimento de Software
+- Detalha **o que é feito durante o desenvolvimento**: engenharia de requisitos, projeto/modelagem, implementação e testes, implantação e manutenção.
+- Há relação com as atividades genéricas do Tema 2, mas as listas **não são classificações idênticas nem termos exclusivos**: comunicação se relaciona fortemente a requisitos; modelagem a projeto/modelagem; construção a implementação/testes; entrega a implantação. Planejamento atravessa várias atividades, e manutenção não tem correspondência única na lista genérica.
+- Pergunta-guia: **“Quais trabalhos precisam ser realizados para transformar uma necessidade em software e mantê-lo?”**
+
+### Tema 4 — Modelos de processos de desenvolvimento de software
+- Mostra **como as atividades do desenvolvimento podem ser organizadas ao longo do projeto**.
+- Aqui entram modelos e abordagens como **cascata, incremental, evolucionário, prototipação, espiral, RUP/AUP, XP e Scrum**, conforme o material.
+- Pegadinha: **fase/atividade de desenvolvimento não é a mesma coisa que modelo de processo**. Um modelo organiza atividades que também aparecem em outras classificações e pode reutilizar nomes como “planejamento”.
+- Pergunta-guia: **“Como podemos organizar as atividades do desenvolvimento?”**
+
+### Tema 5 — Qualidade de Software
+- Trata de **como avaliar, planejar, garantir e controlar a qualidade**, tanto do processo quanto do produto.
+- Inclui atributos de qualidade, SQA, padrões, revisões, auditorias, verificação, validação, testes e métricas.
+- Pergunta-guia: **“Como sabemos e garantimos que o software tem qualidade?”**
+
+### Tema 6 — Gerenciamento de Configurações
+- Trata de **como controlar a evolução dos artefatos e do software**: mudanças, versões, baselines, releases, builds, ferramentas e integração contínua.
+- Pergunta-guia: **“Como mantemos sob controle tudo que muda e evolui no software?”**
+
+### Atalho para separar os temas
+- **Tema 2 = visão geral.**
+- **Tema 3 = o que fazemos.**
+- **Tema 4 = como organizamos.**
+- **Tema 5 = como garantimos a qualidade.**
+- **Tema 6 = como controlamos mudanças e versões.**
+
+---
+
 # Revisão acumulativa — pontos estudados
 
 ## Tema 2 — Fundamentos de software e gerenciamento de projetos
