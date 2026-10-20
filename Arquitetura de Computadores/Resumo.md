@@ -17,3 +17,11 @@
 - **Dificuldade a revisar:** entender *por que* o termo consensual não acrescenta combinações, em vez de apenas memorizar a fórmula.
 
 Fonte-base: [Tema 5 — Lógica Digital](5%20-%20L%C3%B3gica%20Digital.md), seção “Lei do consenso (Cobertura)”.
+
+#### Reconhecimento de padrões — Prática 2
+
+- Procure produtos quase idênticos, como `A·B·C + A·B·¬C`: fatorando `A·B`, obtém-se `A·B·(C+¬C)=A·B`.
+- Outra dupla: `A·B·C + A·¬B·C=A·C·(B+¬B)=A·C`.
+- No exemplo da Prática 2, as duas duplas permitem `X=A·B+A·C=A·(B+C)`. A apostila apresenta `A·B+A·C`; ambas as formas são equivalentes.
+- **Atalho de prova:** dois produtos que só diferem por uma variável complementada permitem eliminar essa variável: `P·Y+P·¬Y=P`.
+- **Dificuldade:** reconhecer o par antes de escolher a lei; busque a parte comum e o par `Y/¬Y`.
