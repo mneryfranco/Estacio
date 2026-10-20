@@ -25,3 +25,10 @@ Fonte-base: [Tema 5 — Lógica Digital](5%20-%20L%C3%B3gica%20Digital.md), seç
 - No exemplo da Prática 2, as duas duplas permitem `X=A·B+A·C=A·(B+C)`. A apostila apresenta `A·B+A·C`; ambas as formas são equivalentes.
 - **Atalho de prova:** dois produtos que só diferem por uma variável complementada permitem eliminar essa variável: `P·Y+P·¬Y=P`.
 - **Dificuldade:** reconhecer o par antes de escolher a lei; busque a parte comum e o par `Y/¬Y`.
+
+#### Reconhecimento de padrões — Prática 3
+
+- **Expressão da imagem:** `X=A·B·C + A·¬C + A·¬B`. Primeiro identifique o fator comum `A` nos três produtos: `X=A·(B·C+¬C+¬B)`.
+- **Pista para o próximo passo:** pela lei de De Morgan, `¬B+¬C=¬(B·C)`. Assim, os dois termos `B·C` e `¬(B·C)` são complementares, cuja soma OR é `1`. Portanto, `X=A·1=A`.
+- **Atalho de prova:** se todos os termos têm um fator comum, tente fatorá-lo antes de distribuir. Dentro do parêntese, procure `Y+¬Y`, mesmo quando `¬Y` está disfarçado como soma de variáveis negadas (`¬B+¬C`).
+- **Dificuldade a revisar:** o reconhecimento da negação de um produto pela lei de De Morgan, sem depender do gabarito.
