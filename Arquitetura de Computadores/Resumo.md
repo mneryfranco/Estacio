@@ -56,3 +56,15 @@ Fonte-base: [Tema 5 — Lógica Digital](5%20-%20L%C3%B3gica%20Digital.md), seç
 - **Ponto para revisão:** primeiro identificar os eixos “instrução/dado”, depois distinguir organização do processamento (Flynn), dos processadores (SMP) e acesso à memória (UMA/NUMA).
 
 Fonte-base: [Tema 6 — Processamento em paralelo](6%20-%20Processamento%20em%20Paralelo.md), seção “Múltiplos processadores”.
+
+#### Esquemas de interconexão — complementos ao vídeo
+
+- **Limite da fonte-base:** a seção “Esquemas de interconexão de processadores” remete a vídeo interativo; seu conteúdo exato não está transcrito no repositório. Os conceitos abaixo são complementares, baseados em referências externas, e não uma reconstrução confirmada da fala do professor.
+- **Crossbar (matriz de comutação):** uma matriz de conexões entre processadores e módulos de memória. Cada cruzamento pode estabelecer uma rota entre uma CPU e um banco de RAM. CPUs diferentes podem acessar bancos distintos ao mesmo tempo, mas o mesmo banco pode gerar disputa. O número de conexões/custo cresce com o tamanho da matriz.
+- **Malha (mesh):** nós de processamento organizados em grade; cada nó comunica-se diretamente com seus vizinhos na grade.
+- **Toro (torus):** parecido com uma malha, com ligações adicionais entre bordas opostas, criando caminhos de retorno (*wraparound*). Não exige que o hardware tenha forma física de rosquinha.
+- **Hipercubo (hypercube):** nós conectados segundo as arestas de um cubo generalizado a várias dimensões; uma rede com d dimensões possui 2^d nós e d vizinhos diretos por nó.
+- **Distinção para prova:** SMP/AMP descrevem a **atribuição de papéis aos processadores**; UMA/NUMA descrevem **características do tempo de acesso à memória**; crossbar/malha/toro/hipercubo descrevem **topologias de interconexão**. Não são classes mutuamente exclusivas na mesma dimensão de análise.
+- **Pegadinha:** “matricial” pode referir-se a conexão CPU–memória por crossbar ou a uma malha de nós; a lembrança de cruzamentos entre processadores e RAM favorece a primeira hipótese, sem permitir afirmar o conteúdo exato do vídeo.
+
+Referências complementares: [Emory — Crossbar Switch](https://www.cs.emory.edu/~cheung/Courses/355/Syllabus/90-parallel/CrossBar.html); [Computer Architecture — Interconnection Networks](https://caaqa.bmukou.org/appendix-f.html); [IEEE — Hypercubes](https://technav.ieee.org/topic/hypercubes/).
