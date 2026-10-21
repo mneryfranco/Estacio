@@ -50,6 +50,7 @@ Fonte-base: [Tema 5 — Lógica Digital](5%20-%20L%C3%B3gica%20Digital.md), seç
 - **SMP (multiprocessamento simétrico):** dois ou mais processadores de funções equivalentes, sob um mesmo sistema operacional, compartilhando memória principal **e dispositivos de entrada/saída**.
 - **UMA x NUMA:** em UMA, o tempo de acesso à memória é aproximadamente uniforme entre processadores; em NUMA, a memória local ao processador/nó tende a ser mais rápida que memória remota. O barramento comum pode gerar gargalo no UMA; acessos remotos podem prejudicar o NUMA.
 - **Coerência de cache:** evita que processadores trabalhem com cópias inconsistentes de um dado compartilhado. No UMA, o material exemplifica escuta do barramento; em CC-NUMA, há protocolo para coordenar nós e versões dos dados.
+  - **Pegadinha:** coerência não é manter cada cache sempre idêntico à RAM. Se a CPU 1 altera `X=100` para `X=110` em sua cache, pode invalidar a cópia da CPU 2 antes de atualizar a RAM; uma nova leitura da CPU 2 deve receber a versão coerente. A coerência é entre as visões das CPUs, não uma cópia imediata da memória principal. Isso tampouco substitui sincronização de acessos concorrentes.
 - **Pegadinhas:** SMP **não** significa periféricos de E/S exclusivos; SIMD **não** exige necessariamente vários processadores físicos; *pipeline* em processador SISD não o transforma automaticamente em MIMD.
 - **Ponto para revisão:** primeiro identificar os eixos “instrução/dado”, depois distinguir organização do processamento (Flynn), dos processadores (SMP) e acesso à memória (UMA/NUMA).
 
