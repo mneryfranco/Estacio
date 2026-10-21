@@ -32,3 +32,24 @@ Fonte-base: [Tema 5 — Lógica Digital](5%20-%20L%C3%B3gica%20Digital.md), seç
 - **Pista para o próximo passo:** pela lei de De Morgan, `¬B+¬C=¬(B·C)`. Assim, os dois termos `B·C` e `¬(B·C)` são complementares, cuja soma OR é `1`. Portanto, `X=A·1=A`.
 - **Atalho de prova:** se todos os termos têm um fator comum, tente fatorá-lo antes de distribuir. Dentro do parêntese, procure `Y+¬Y`, mesmo quando `¬Y` está disfarçado como soma de variáveis negadas (`¬B+¬C`).
 - **Dificuldade a revisar:** o reconhecimento da negação de um produto pela lei de De Morgan, sem depender do gabarito.
+
+## Tema 6 — Processamento em paralelo
+
+### Módulo 2 — Tipos de organizações de processadores paralelos
+
+#### Múltiplos processadores — taxonomia de Flynn
+
+- **Ideia central:** paralelismo permite que partes de um trabalho avancem ao mesmo tempo, mas depende de operações independentes e coordenação; não implica que qualquer programa ficará proporcionalmente mais rápido.
+- **Dois critérios da taxonomia de Flynn:** quantidade de **fluxos de instruções** (o que executar) e de **fluxos de dados** (sobre quais valores executar). *Single* = único; *Multiple* = múltiplos.
+  - **SISD:** uma instrução sobre um fluxo de dados; organização sequencial clássica. Pode empregar pipeline e outras técnicas de paralelismo interno sem se tornar SIMD/MIMD por isso.
+  - **SIMD:** uma instrução aplicada a múltiplos dados; exemplo: somar 1 simultaneamente aos elementos de um vetor.
+  - **MISD:** múltiplos fluxos de instruções sobre um único fluxo de dados; o material trata como caso teórico/não usual.
+  - **MIMD:** múltiplos fluxos de instruções sobre múltiplos dados; diferentes processadores/núcleos podem executar tarefas distintas, com sincronização quando compartilham recursos.
+- **Atalho de prova:** em **SIMD**, repete-se a **mesma operação em valores diferentes**; em **MIMD**, executam-se **operações diferentes sobre dados diferentes**. A primeira letra refere-se às instruções; a segunda, aos dados.
+- **SMP (multiprocessamento simétrico):** dois ou mais processadores de funções equivalentes, sob um mesmo sistema operacional, compartilhando memória principal **e dispositivos de entrada/saída**.
+- **UMA x NUMA:** em UMA, o tempo de acesso à memória é aproximadamente uniforme entre processadores; em NUMA, a memória local ao processador/nó tende a ser mais rápida que memória remota. O barramento comum pode gerar gargalo no UMA; acessos remotos podem prejudicar o NUMA.
+- **Coerência de cache:** evita que processadores trabalhem com cópias inconsistentes de um dado compartilhado. No UMA, o material exemplifica escuta do barramento; em CC-NUMA, há protocolo para coordenar nós e versões dos dados.
+- **Pegadinhas:** SMP **não** significa periféricos de E/S exclusivos; SIMD **não** exige necessariamente vários processadores físicos; *pipeline* em processador SISD não o transforma automaticamente em MIMD.
+- **Ponto para revisão:** primeiro identificar os eixos “instrução/dado”, depois distinguir organização do processamento (Flynn), dos processadores (SMP) e acesso à memória (UMA/NUMA).
+
+Fonte-base: [Tema 6 — Processamento em paralelo](6%20-%20Processamento%20em%20Paralelo.md), seção “Múltiplos processadores”.
