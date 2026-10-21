@@ -44,6 +44,7 @@ Fonte-base: [Tema 5 — Lógica Digital](5%20-%20L%C3%B3gica%20Digital.md), seç
   - **SISD:** uma instrução sobre um fluxo de dados; organização sequencial clássica. Pode empregar pipeline e outras técnicas de paralelismo interno sem se tornar SIMD/MIMD por isso.
   - **SIMD:** uma instrução aplicada a múltiplos dados; exemplo: somar 1 simultaneamente aos elementos de um vetor.
   - **MISD:** múltiplos fluxos de instruções sobre um único fluxo de dados; o material trata como caso teórico/não usual.
+    - **Exemplo apenas ilustrativo:** imagine o mesmo fluxo de leituras de um sensor sendo enviado a diferentes unidades, cada uma executando um algoritmo distinto sobre esses dados. Essa analogia ajuda a distinguir as letras, mas não é prova de uma implementação MISD real. **Pegadinha:** *pipeline* comum e execução sequencial de etapas não são, por si só, exemplos de MISD.
   - **MIMD:** múltiplos fluxos de instruções sobre múltiplos dados; diferentes processadores/núcleos podem executar tarefas distintas, com sincronização quando compartilham recursos.
 - **Atalho de prova:** em **SIMD**, repete-se a **mesma operação em valores diferentes**; em **MIMD**, executam-se **operações diferentes sobre dados diferentes**. A primeira letra refere-se às instruções; a segunda, aos dados.
 - **SMP (multiprocessamento simétrico):** dois ou mais processadores de funções equivalentes, sob um mesmo sistema operacional, compartilhando memória principal **e dispositivos de entrada/saída**.
