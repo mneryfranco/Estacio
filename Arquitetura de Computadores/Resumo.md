@@ -69,3 +69,54 @@ Fonte-base: [Tema 6 — Processamento em paralelo](6%20-%20Processamento%20em%20
 - **Pegadinha:** “matricial” pode referir-se a conexão CPU–memória por crossbar ou a uma malha de nós; a lembrança de cruzamentos entre processadores e RAM favorece a primeira hipótese, sem permitir afirmar o conteúdo exato do vídeo.
 
 Referências complementares: [Emory — Crossbar Switch](https://www.cs.emory.edu/~cheung/Courses/355/Syllabus/90-parallel/CrossBar.html); [Computer Architecture — Interconnection Networks](https://caaqa.bmukou.org/appendix-f.html); [IEEE — Hypercubes](https://technav.ieee.org/topic/hypercubes/).
+
+
+## Tema 7 — Arquiteturas RISC x CISC
+
+### Conjunto de instruções e motivações
+
+#### Conceitos e comparações
+
+- **ISA (Instruction Set Architecture)** define instruções, registradores, formatos e endereçamento visíveis ao software. Distinguir ISA de **microarquitetura**, a implementação interna do chip.
+- **CISC (Complex Instruction Set Computer):** instruções e modos de endereçamento mais variados; algumas instruções combinam acesso à memória e operação aritmética. Exemplos: VAX e família x86. **Complexa** não significa necessariamente maior em bits, mais lenta, nem executada em um ciclo.
+- **RISC (Reduced Instruction Set Computer):** tende a operações regulares entre registradores e ao modelo **load/store**: carregar dados da memória, operar nos registradores e armazenar de volta. Exemplos: ARM e RISC-V.
+- **Exemplo conceitual:** uma soma envolvendo valor na memória pode aparecer como uma instrução arquitetural CISC; numa ISA RISC load/store pode exigir a sequência carregar → somar → armazenar. A quantidade exata varia conforme a ISA, os dados e os registradores disponíveis.
+- **R-R, R-M e M-M:** indicam operandos registrador–registrador, registrador–memória e memória–memória; não são categorias de paralelismo.
+- **Motivação histórica do CISC:** memória cara e limitada, código compacto, instruções especializadas e tentativa de aproximar as operações de máquina às linguagens de alto nível. A compatibilidade com programas legados explica parte da permanência do x86.
+- **Motivação histórica do RISC:** operações simples e frequentes, uso intensivo de registradores e regularidade de instruções favorecendo decodificação e pipeline; avanços dos compiladores fortaleceram essa proposta.
+- **Vantagens e limites:** CISC pode proporcionar densidade de código e compatibilidade; RISC pode facilitar certos projetos e otimizações. **Nenhum dos dois garante maior velocidade ou menor consumo por definição.**
+- **Hoje:** chips x86 frequentemente decodificam instruções complexas em micro-operações internas e usam pipeline, execução superescalar e especulação. Chips ARM também podem ser internamente sofisticados. RISC/CISC não são uma divisão simples entre “moderno” e “antigo”.
+- **Apple ARM versus PCs x86:** eficiência, compatibilidade, integração, escolhas de projeto, fabricação, cache, software e frequência importam. Não atribuir automaticamente a eficiência de um chip Apple apenas à ISA RISC.
+
+### Tempo de execução, GHz, CPI e IPC
+
+#### Fórmulas e exercícios resolvidos
+
+- **Clock:** 1 Hz = um ciclo por segundo; 1 GHz = um bilhão de ciclos por segundo. Assim, 4 GHz = quatro bilhões de ciclos por segundo, ou 0,25 nanossegundo por ciclo. **Ciclo não equivale necessariamente a instrução concluída.**
+- **CPI (Cycles Per Instruction):** ciclos totais ÷ instruções concluídas; **IPC (Instructions Per Cycle):** instruções concluídas ÷ ciclos totais. Medidos no mesmo intervalo, são inversos: IPC = 1/CPI.
+- Exemplo: 20 ciclos para 10 instruções → CPI 2, IPC 0,5. Já 20 ciclos para 40 instruções → CPI 0,5, IPC 2. **CPI 0,5 é uma média de vazão**, não latência de meia oscilação para uma instrução individual.
+- **Tempo de CPU (modelo didático):** quantidade de instruções × CPI ÷ frequência. A ISA e o compilador afetam a contagem; programa e microarquitetura afetam o CPI. Não comparar máquinas apenas por GHz ou número de instruções.
+- **Exercício A/B:** A executa 1 milhão de instruções com CPI 2 → 2 milhões de ciclos. B executa 1,5 milhão com CPI 1 → 1,5 milhão de ciclos. Na mesma frequência, B termina primeiro. A 4 GHz e B a 2 GHz: A leva 0,5 ms e B leva 0,75 ms. Nesse cenário A é **50% mais rápido** em desempenho relativo, embora seu **tempo seja 33,3% menor** que o de B.
+- **Compensação:** A com 2 GHz e CPI 1; B com 4 GHz e CPI 2; mesma contagem de instruções → ambos concluem em média 2 bilhões de instruções por segundo, empatando no modelo.
+- **Porcentagens de prova:** reduzir CPI de 2 para 1 com frequência e instruções constantes reduz o tempo em 50% e dobra o desempenho (aumento de 100%).
+
+### Pipeline, superescalar e obstáculos
+
+#### Vazão versus latência e riscos
+
+- **Pipeline:** sobrepõe etapas de várias instruções, como linha de montagem. A **vazão** (quantas se concluem por tempo) melhora, mesmo que a **latência** individual (tempo para uma instrução percorrer as etapas) não diminua. Um pipeline simples de uma via pode concluir aproximadamente uma instrução por ciclo depois de cheio, em condições ideais.
+- **Superescalar:** permite processar múltiplas instruções em paralelo dentro de um núcleo. Duas vias podem alcançar até duas instruções por ciclo em condições ideais, mas **não garantem IPC 2**.
+- **Dependência de dados:** uma operação depende do resultado de outra; por exemplo, somar 5 ao registrador A e depois multiplicar A por 3. A segunda precisa aguardar o resultado relevante. Duas somas independentes podem aproveitar paralelismo se houver hardware.
+- **Conflito estrutural:** duas operações independentes disputam um único recurso. Com uma unidade multiplicadora capaz de iniciar uma operação por ciclo, duas multiplicações independentes não podem ser iniciadas juntas.
+- **Risco de controle:** um desvio condicional torna incerta a próxima instrução. A CPU pode esperar ou usar **predição de desvios** e execução especulativa. Se prever errado, descarta as instruções especulativas no caminho incorreto (limpeza do pipeline, *flush*) e redireciona a busca, desperdiçando ciclos — sem recomeçar o programa inteiro.
+- **Exemplo de previsão:** em 100 desvios, 95% de acerto → 5 erros; 70% → 30 erros. Se cada erro custar hipoteticamente 10 ciclos, perdem-se 50 versus 300 ciclos. Menos erros geralmente reduzem CPI e tempo, mantidas as demais condições.
+
+#### Pegadinhas
+
+- RISC **não é necessariamente mais rápido**; CISC **pode usar pipeline**.
+- Menos instruções **não garantem** menor tempo: considerar contagem × CPI ÷ frequência.
+- Mais GHz **não garante** maior desempenho.
+- CPI é uma **média**, distinta da latência de cada instrução.
+- Pipeline, superescalar e SMT não são sinônimos; dependências, recursos e desvios impedem vazão ideal.
+
+Fonte-base: [Tema 7 — Arquitetura RISC x CISC](7%20-%20Arquitetura%20Risc%20X%20Cisc.md). Exemplos, fórmulas e ressalvas complementares consolidados da revisão dialogada.
