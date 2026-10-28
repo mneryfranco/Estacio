@@ -16,7 +16,7 @@
 
 | Tema | Situação geral | Evidências | Pendências prioritárias |
 |---|---|---|---|
-| **2 — Base Computacional** | **Em desenvolvimento (cobertura incompleta)** | Q12: SO correto, justificado sem eliminação | BIOS/UEFI (Q13 pendente), gerações, hardware × software, redes/Internet, escalonamento |
+| **2 — Base Computacional** | **Em desenvolvimento (cobertura incompleta)** | Q12: SO correto, justificado sem eliminação; Q13: BIOS/UEFI correta por reconhecimento | BIOS/UEFI em situação prática, gerações, hardware × software, redes/Internet, escalonamento |
 | **3 — Componentes de Hardware** | **Em desenvolvimento (cobertura incompleta)** | Q1 endereços correto após ajuste; cache e Von Neumann corretos; Q8 sequência CI–REM–RDM–RI acertada inicialmente por chute e duas fixações corretas | Revisar registradores sem dicas; DMA, hierarquia, barramentos, E/S, transmissão serial/paralela, tipos de SO |
 | **4 — Representação de Dados** | **Bom desempenho parcial** | Q3 binário→decimal correto e explicado; Q9 binário→hexadecimal por grupos correto e explicado | Conversões em outros sentidos, octal, aritmética em bases, unidades/prefixos, ASCII/Unicode |
 | **5 — Lógica Digital** | **Em desenvolvimento** | Q2 simplificação precisou de explicação; distributiva direta correta; XOR correto; Q11 fatoração e complemento concluídos com perguntas guiadas | Resolver simplificações *sozinho*; De Morgan, absorção/consenso, NAND/NOR/XNOR, tabelas-verdade, precedência, bit a bit |
@@ -44,7 +44,7 @@
 | Flynn | GPU / SIMD | Correta: SIMD | Expandiu *Single Instruction Multiple Data* |
 | NUMA | Latência não uniforme | Correta: B | Justificou pela localidade da memória |
 | Q12 | Papel do sistema operacional | Correta: E | Justificou por conhecimento da função |
-| Q13 | BIOS/UEFI e boot | **Pendente de resposta** | Próxima questão apresentada |
+| Q13 | BIOS/UEFI e boot | Correta: C | Conhece a função básica; falta aplicação prática |
 
 ## Dificuldades, pegadinhas e atalhos
 
@@ -56,7 +56,7 @@
 
 ## Próximas ações
 
-1. Concluir Q13 (BIOS/UEFI) e testar gerações, redes e hardware/software no Tema 2.
+1. Testar BIOS/UEFI em cenário prático, gerações, redes e hardware/software no Tema 2.
 2. Intercalar tópicos ainda não testados com retomadas **sem ajuda** de booleana, registradores e SMT.
 3. Aplicar cálculos de bases/unidades, pipeline e exercícios integradores do Tema 8.
 4. Atualizar tabela, registro e dificuldades após novos exercícios; não apagar histórico, registrar evolução.
