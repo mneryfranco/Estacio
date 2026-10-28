@@ -18,7 +18,7 @@
 |---|---|---|---|
 | **2 — Base Computacional** | **Em desenvolvimento (cobertura incompleta)** | Q12: SO correto, justificado sem eliminação; Q13: BIOS/UEFI correta por reconhecimento; Q14: gerações incorreta, confundiu transistores com circuitos integrados | BIOS/UEFI em situação prática; gerações (revisar sequência), hardware × software, redes/Internet, escalonamento |
 | **3 — Componentes de Hardware** | **Em desenvolvimento (cobertura incompleta)** | Q1 endereços correto após ajuste; cache e Von Neumann corretos; Q8 sequência CI–REM–RDM–RI acertada inicialmente por chute e duas fixações corretas; Q15 hierarquia correta; Q16 DMA ainda não conhecido | Revisar registradores sem dicas; DMA (conceito inicialmente desconhecido), barramentos, E/S, transmissão serial/paralela, tipos de SO |
-| **4 — Representação de Dados** | **Bom desempenho parcial** | Q3 binário→decimal correto e explicado; Q9 binário→hexadecimal por grupos correto e explicado | Conversões em outros sentidos, octal, aritmética em bases, unidades/prefixos, ASCII/Unicode |
+| **4 — Representação de Dados** | **Bom desempenho parcial** | Q3 binário→decimal correto e explicado; Q9 binário→hexadecimal por grupos correto e explicado; Q17 Unicode correta por reconhecimento | Conversões em outros sentidos, octal, aritmética em bases, unidades/prefixos, comparação aplicada de ASCII/Unicode/UTF-8 |
 | **5 — Lógica Digital** | **Em desenvolvimento** | Q2 simplificação precisou de explicação; distributiva direta correta; XOR correto; Q11 fatoração e complemento concluídos com perguntas guiadas | Resolver simplificações *sozinho*; De Morgan, absorção/consenso, NAND/NOR/XNOR, tabelas-verdade, precedência, bit a bit |
 | **6 — Processamento em Paralelo** | **Bom desempenho parcial** | SMT reconhecido sem lembrar conceito; Flynn/SIMD correto com sigla; NUMA correto com justificativa; IPC/CPI inversos correto | SMT sem pistas; SMP/AMP, UMA/CC-NUMA, coerência, pipeline/superescalar, ciclos, Pollack |
 | **7 — RISC × CISC** | **Bom desempenho parcial** | Q7 RISC e pipeline correto | Endereçamento R-R/R-M/M-M, controle, comparações conceituais mais difíceis |
@@ -47,7 +47,8 @@
 | Q13 | BIOS/UEFI e boot | Correta: C | Conhece a função básica; falta aplicação prática |
 | Q14 | Gerações dos computadores | Incorreta: B; correta C | Recordou válvulas como lâmpadas, mas atribuiu circuitos integrados à segunda geração; fixação posterior: 3ª geração = circuitos integrados correta |
 | Q15 | Hierarquia de memória | Correta: B | Cache menor e mais rápida que RAM; reconhecimento rápido; falta aplicação |
-| Q16 | DMA | Não respondeu; desconhecia conceito | Foi explicado o acesso direto à memória; retestar sem pista |
+| Q16 | DMA | Não respondeu inicialmente; fixação correta (C) | Reconheceu após explicação; retestar em cenário novo sem pistas |
+| Q17 | Unicode e UTF-8/UTF-16 | Correta: D | Reconhecimento conceitual; testar aplicação e diferença para ASCII |
 
 ## Dificuldades, pegadinhas e atalhos
 
@@ -55,7 +56,7 @@
 - **Booleana:** identificar o operador externo antes de distribuir; `X+YZ=(X+Y)(X+Z)` e `X(Y+Z)=XY+XZ`. Em `AB+A¬B=A(B+¬B)=A`, o fator comum fica fora.
 - **Registradores:** `CI → REM → memória → RDM → RI` é o modelo didático da busca; distinguir endereço de conteúdo.
 - **SMT:** processadores lógicos não são núcleos físicos independentes; compartilham recursos.
-- **DMA:** controlador transfere dados entre dispositivo e RAM sem a CPU mover cada unidade; CPU pode configurar e receber interrupção. Conceito não reconhecido na Q16.
+- **DMA:** controlador transfere dados entre dispositivo e RAM sem a CPU mover cada unidade; CPU pode configurar e receber interrupção. Conceito não reconhecido inicialmente na Q16; acerto guiado na fixação.
 - **Gerações:** 1ª válvulas → 2ª transistores → 3ª circuitos integrados → 4ª microprocessadores. Confusão observada entre 2ª e 3ª.
 - **Avaliação:** acertos guiados e chutes não equivalem a domínio autônomo.
 
