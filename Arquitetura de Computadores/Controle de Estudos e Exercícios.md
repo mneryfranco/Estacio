@@ -16,7 +16,7 @@
 
 | Tema | Situação geral | Evidências | Pendências prioritárias |
 |---|---|---|---|
-| **2 — Base Computacional** | **Em desenvolvimento (cobertura incompleta)** | Q12: SO correto, justificado sem eliminação; Q13: BIOS/UEFI correta por reconhecimento | BIOS/UEFI em situação prática, gerações, hardware × software, redes/Internet, escalonamento |
+| **2 — Base Computacional** | **Em desenvolvimento (cobertura incompleta)** | Q12: SO correto, justificado sem eliminação; Q13: BIOS/UEFI correta por reconhecimento; Q14: gerações incorreta, confundiu transistores com circuitos integrados | BIOS/UEFI em situação prática; gerações (revisar sequência), hardware × software, redes/Internet, escalonamento |
 | **3 — Componentes de Hardware** | **Em desenvolvimento (cobertura incompleta)** | Q1 endereços correto após ajuste; cache e Von Neumann corretos; Q8 sequência CI–REM–RDM–RI acertada inicialmente por chute e duas fixações corretas | Revisar registradores sem dicas; DMA, hierarquia, barramentos, E/S, transmissão serial/paralela, tipos de SO |
 | **4 — Representação de Dados** | **Bom desempenho parcial** | Q3 binário→decimal correto e explicado; Q9 binário→hexadecimal por grupos correto e explicado | Conversões em outros sentidos, octal, aritmética em bases, unidades/prefixos, ASCII/Unicode |
 | **5 — Lógica Digital** | **Em desenvolvimento** | Q2 simplificação precisou de explicação; distributiva direta correta; XOR correto; Q11 fatoração e complemento concluídos com perguntas guiadas | Resolver simplificações *sozinho*; De Morgan, absorção/consenso, NAND/NOR/XNOR, tabelas-verdade, precedência, bit a bit |
@@ -45,6 +45,7 @@
 | NUMA | Latência não uniforme | Correta: B | Justificou pela localidade da memória |
 | Q12 | Papel do sistema operacional | Correta: E | Justificou por conhecimento da função |
 | Q13 | BIOS/UEFI e boot | Correta: C | Conhece a função básica; falta aplicação prática |
+| Q14 | Gerações dos computadores | Incorreta: B; correta C | Recordou válvulas como lâmpadas, mas atribuiu circuitos integrados à segunda geração; revisar sequência |
 
 ## Dificuldades, pegadinhas e atalhos
 
@@ -52,6 +53,7 @@
 - **Booleana:** identificar o operador externo antes de distribuir; `X+YZ=(X+Y)(X+Z)` e `X(Y+Z)=XY+XZ`. Em `AB+A¬B=A(B+¬B)=A`, o fator comum fica fora.
 - **Registradores:** `CI → REM → memória → RDM → RI` é o modelo didático da busca; distinguir endereço de conteúdo.
 - **SMT:** processadores lógicos não são núcleos físicos independentes; compartilham recursos.
+- **Gerações:** 1ª válvulas → 2ª transistores → 3ª circuitos integrados → 4ª microprocessadores. Confusão observada entre 2ª e 3ª.
 - **Avaliação:** acertos guiados e chutes não equivalem a domínio autônomo.
 
 ## Próximas ações
